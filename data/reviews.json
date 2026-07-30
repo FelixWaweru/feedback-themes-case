@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "rev-76c3011b2ca9",
+    "rating": 1,
+    "title": "Falske anmeldelser",
+    "feedback_date": "2024-01-01 00:00:00+00:00",
+    "content_no": "Merkelig hvordan alle femstjerners-anmeldelsene kom samme uke.",
+    "content_en": "Strange how all the five-star reviews arrived in the same week."
+  },
+  {
+    "id": "rev-f04f75b142cc",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-01-08 13:29:17+00:00",
+    "content_no": "Vi har anbefalt dem til fire andre selskaper i bransjen.",
+    "content_en": "We have recommended them to four other companies in the industry."
+  },
+  {
+    "id": "rev-639e1e30f2a5",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-01-15 02:58:34+00:00",
+    "content_no": "Sendte saken til inkasso på 900 kroner uten å ringe først.",
+    "content_en": "Sent the case to collections over 900 kroner without calling first."
+  },
+  {
+    "id": "rev-023b86dc1a81",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-01-22 15:27:51+00:00",
+    "content_no": "Hvor lang tid tar det vanligvis fra faktura til utbetaling?",
+    "content_en": "How long does it usually take from invoice to payout?"
+  },
+  {
+    "id": "rev-c0e2adc51df2",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-02-02 14:44:19+00:00",
+    "content_no": "Topp kundeservice - følger alltid opp! :)",
+    "content_en": "Top customer service - always follows up! :)"
+  },
+  {
+    "id": "rev-707d2c985727",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-01-09 17:25:25+00:00",
+    "content_no": "Har prøvd å logge inn i tre dager. Support svarer ikke.",
+    "content_en": "Have been trying to log in for three days. Support doesn't answer."
+  },
+  {
+    "id": "rev-de2234910a3f",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-01-16 06:54:42+00:00",
+    "content_no": "Utbetaling samme time som fakturaen ble godkjent.",
+    "content_en": "Payout the same hour the invoice was approved."
+  },
+  {
+    "id": "rev-b6fda0d585e6",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-01-23 19:23:59+00:00",
+    "content_no": "Portalen er den beste jeg har brukt i en bank. Punktum.",
+    "content_en": "The portal is the best I have used in a bank. Full stop."
+  },
+  {
+    "id": "rev-770b5357ee54",
+    "rating": 2,
+    "title": "Får ikke svar på et enkelt spørsmål",
+    "feedback_date": "2025-05-15 10:27:44+00:00",
+    "content_no": "Jeg har spurt tre ganger hva etableringsgebyret faktisk dekker. Ingen kan svare. Chatboten sender meg i ring og mailen blir ikke besvart.",
+    "content_en": "I have asked three times what the establishment fee actually covers. Nobody can answer. The chatbot sends me in circles and the email goes unanswered."
+  },
+  {
+    "id": "rev-4212d8273d6c",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2025-02-06 12:29:05+00:00",
+    "content_no": "Fungerer, men portalen er treg og gammeldags. Savner å kunne laste ned alt som CSV.",
+    "content_en": "It works, but the portal is slow and old-fashioned. I miss being able to download everything as CSV."
+  },
+  {
+    "id": "rev-282352c8f1f0",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-10-24 16:13:08+00:00",
+    "content_no": "Kontoutskriftene er lette å hente ut når regnskapsføreren spør.",
+    "content_en": "The account statements are easy to pull out when the accountant asks."
+  },
+  {
+    "id": "rev-2f4968e59d9e",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-02-24 23:19:07+00:00",
+    "content_no": "🙌🙌",
+    "content_en": "🙌🙌"
+  },
+  {
+    "id": "rev-be44695beb61",
+    "rating": 2,
+    "title": "Blandet",
+    "feedback_date": "2024-02-04 12:48:24+00:00",
+    "content_no": "Fakturafinansieringen er et godt produkt. Kundeservice er treg. Prisen er høy. Portalen er ok. Alt i alt: greit, ikke mer.",
+    "content_en": "The invoice financing is a good product. Customer service is slow. The price is high. The portal is okay. All in all: fine, no more than that."
+  },
+  {
+    "id": "rev-6cc04997a711",
+    "rating": 1,
+    "title": "Skjulte kostnader",
+    "feedback_date": "2024-02-11 01:17:41+00:00",
+    "content_no": "Etableringsgebyr, termingebyr, og et «administrasjonsgebyr» ingen kunne forklare. Sto ikke i tilbudet jeg signerte.",
+    "content_en": "Establishment fee, instalment fee, and an \"administration fee\" nobody could explain. It wasn't in the offer I signed."
+  },
+  {
+    "id": "rev-ac14589c4894",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-02-18 14:46:58+00:00",
+    "content_no": "Skuffet.",
+    "content_en": "Disappointed."
+  },
+  {
+    "id": "rev-813602e7e748",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-03-21 16:51:08+00:00",
+    "content_no": "Dyktige rådgivere som faktisk kan faget sitt. Fikk en grundig gjennomgang av tallene våre før vi bestemte oss.",
+    "content_en": "Skilled advisors who actually know their field. We got a thorough review of our numbers before we decided."
+  },
+  {
+    "id": "rev-f1d414cea416",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-02-19 15:31:07+00:00",
+    "content_no": "Trekker en stjerne fordi appen mangler, men ellers har alt gått veldig bra. Rask utbetaling og god hjelp på telefon.",
+    "content_en": "Taking off a star because the app is missing, but otherwise everything has gone very well. Fast payout and good help on the phone."
+  },
+  {
+    "id": "rev-97b69d945e5b",
+    "rating": 1,
+    "title": "Gebyrer overalt",
+    "feedback_date": "2025-08-07 14:38:56+00:00",
+    "content_no": "Gebyr for å opprette, gebyr for å endre, gebyr for å avslutte. Til slutt spiste gebyrene opp hele besparelsen.",
+    "content_en": "Fee to open, fee to change, fee to close. In the end the fees ate up the entire saving."
+  },
+  {
+    "id": "rev-7ebe986428db",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-03-19 18:42:06+00:00",
+    "content_no": "Utrolig hyggelige folk som faktisk vil at du skal lykkes.",
+    "content_en": "Incredibly pleasant people who actually want you to succeed."
+  },
+  {
+    "id": "rev-ecdd5de1e4b4",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2024-03-26 07:11:23+00:00",
+    "content_no": "Grei bank.\n\nEDIT etter to måneder: renten er satt opp og ingen har sagt noe. Trekker to stjerner.",
+    "content_en": "Decent bank.\n\nEDIT after two months: the rate has been raised and nobody has said anything. Docking two stars."
+  },
+  {
+    "id": "rev-ea3121b09e0d",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2025-04-03 14:55:07+00:00",
+    "content_no": "Er renten flytende eller fast? Står ingenting om det i avtalen jeg fikk.",
+    "content_en": "Is the interest rate floating or fixed? Nothing about it is stated in the agreement I received."
+  },
+  {
+    "id": "rev-eb5ea855fe49",
+    "rating": 5,
+    "title": "Fantastisk",
+    "feedback_date": "2026-02-05 09:58:22+00:00",
+    "content_no": "Fantastisk å vente tre uker på et avslag. Anbefales på det varmeste hvis du liker å bli ignorert.",
+    "content_en": "Fantastic to wait three weeks for a rejection. Warmly recommended if you enjoy being ignored."
+  },
+  {
+    "id": "rev-e213b6681da5",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-03-20 22:38:14+00:00",
+    "content_no": "Det går greit.",
+    "content_en": "It's okay."
+  },
+  {
+    "id": "rev-64b0877f861d",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-03-27 11:07:31+00:00",
+    "content_no": "Portalen sa «godkjent», mailen sa «avslått». Hvilken skal jeg tro på?",
+    "content_en": "The portal said \"approved\", the email said \"rejected\". Which one should I believe?"
+  },
+  {
+    "id": "rev-295c5037054b",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-04-07 00:36:48+00:00",
+    "content_no": "Ba om kontoutskrift for 2023. Fikk beskjed om at det ikke er mulig å hente ut.",
+    "content_en": "Asked for a statement for 2023. Was told it isn't possible to retrieve."
+  },
+  {
+    "id": "rev-a1533a7de6af",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2024-04-14 13:05:05+00:00",
+    "content_no": "Behandlingstiden var ti virkedager, ikke «samme dag» som lovet.",
+    "content_en": "The processing time was ten business days, not the \"same day\" that was promised."
+  },
+  {
+    "id": "rev-3dfd1e51e455",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-04-21 02:34:22+00:00",
+    "content_no": "Søknaden tok fire minutter. Fire.",
+    "content_en": "The application took four minutes. Four."
+  },
+  {
+    "id": "rev-3567c579485f",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-04-01 15:03:39+00:00",
+    "content_no": "De ba om regnskap for fem år tilbake. Selskapet er tre år gammelt.",
+    "content_en": "They asked for five years of accounts. The company is three years old."
+  },
+  {
+    "id": "rev-1b45a4d32841",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-04-08 04:32:56+00:00",
+    "content_no": "Fant ikke ut hvordan jeg endrer fakturaadresse. Endte med å sende mail.",
+    "content_en": "Couldn't work out how to change the invoice address. Ended up sending an email."
+  },
+  {
+    "id": "rev-ff00c2ae9405",
+    "rating": 1,
+    "title": "Kaos ved fornyelse",
+    "feedback_date": "2024-04-15 17:01:13+00:00",
+    "content_no": "Ved fornyelse ble rammen kuttet uten varsel, gebyret doblet, og ingen kunne si hvorfor. Chatboten sendte meg til en side som ikke finnes. Etter fire mailer fikk jeg til svar at «beslutningen er tatt».",
+    "content_en": "At renewal the credit line was cut without warning, the fee doubled, and nobody could say why. The chatbot sent me to a page that doesn't exist. After four emails I was told that \"the decision has been made\"."
+  },
+  {
+    "id": "rev-ea4cc280e9cf",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-04-22 06:30:30+00:00",
+    "content_no": "Ringer alltid tilbake når de sier de skal.",
+    "content_en": "Always calls back when they say they will."
+  },
+  {
+    "id": "rev-31ae0a0865a5",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-04-02 19:59:47+00:00",
+    "content_no": "Hva skjer med rammen hvis omsetningen faller? Finner ingenting om det i vilkårene.",
+    "content_en": "What happens to the credit line if turnover falls? I can't find anything about it in the terms."
+  },
+  {
+    "id": "rev-a3a4891f696e",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-05-09 08:28:04+00:00",
+    "content_no": "Fire dager på et ja/nei-spørsmål.",
+    "content_en": "Four days for a yes/no question."
+  },
+  {
+    "id": "rev-064204a3ec72",
+    "rating": 1,
+    "title": "Styr unna",
+    "feedback_date": "2025-06-26 15:33:08+00:00",
+    "content_no": "Styr unna! Elendig kundeservice, medarbeidere som er direkte frekke, og en integrasjon mot Kontosmart som aldri har fungert. De har dessuten de dårligste betingelsene i markedet.\n\nEDIT: De eneste som gir gode vurderinger her er ansatte og vennene deres. Det sier alt.",
+    "content_en": "Stay away! Terrible customer service, employees who are outright rude, and an integration with Kontosmart that has never worked. They also have the worst terms in the market.\n\nEDIT: The only ones giving good ratings here are employees and their friends. That says it all."
+  },
+  {
+    "id": "rev-4c901b680c93",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-05-23 10:26:38+00:00",
+    "content_no": "Saldoen viste 0 i to dager. Trodde vi var blakke.",
+    "content_en": "The balance showed 0 for two days. Thought we were broke."
+  },
+  {
+    "id": "rev-706ecdc3768f",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-05-03 23:55:55+00:00",
+    "content_no": "Kredittsjekket meg fire ganger på to uker. Det slår ut på scoren min.",
+    "content_en": "Credit-checked me four times in two weeks. That hits my score."
+  },
+  {
+    "id": "rev-5d91e7d0b839",
+    "rating": 5,
+    "title": "God opplevelse",
+    "feedback_date": "2026-05-14 09:19:41+00:00",
+    "content_no": "God opplevelse fra start til slutt.",
+    "content_en": "Good experience from start to finish."
+  },
+  {
+    "id": "rev-ac5672b8626c",
+    "rating": 5,
+    "title": "Endelig en bank for de små",
+    "feedback_date": "2024-03-08 11:27:31+00:00",
+    "content_no": "Endelig en bank som tar små selskaper på alvor. Vi er tre ansatte og ble behandlet like seriøst som en storkunde.",
+    "content_en": "Finally a bank that takes small companies seriously. We are three employees and were treated just as seriously as a major client."
+  },
+  {
+    "id": "rev-2594378ac75b",
+    "rating": 5,
+    "title": "Stø kurs",
+    "feedback_date": "2024-11-07 11:36:45+00:00",
+    "content_no": "Har vært kunde i fire år nå. Fakturaene kommer på samme dato hver måned, avtalegiro trekker riktig beløp, og jeg har aldri måttet ringe om noe. Kjedelig i positiv forstand.",
+    "content_en": "Have been a customer for four years now. The invoices arrive on the same date every month, the direct debit takes the right amount, and I have never had to call about anything. Boring in a positive sense."
+  },
+  {
+    "id": "rev-0cc6ffebee43",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-05-04 03:51:03+00:00",
+    "content_no": "Svar på under en time, hver gang.",
+    "content_en": "Reply in under an hour, every time."
+  },
+  {
+    "id": "rev-8b174d7f5ee8",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-06-11 16:20:20+00:00",
+    "content_no": "Frekk tone på telefon. Ble avbrutt tre ganger.",
+    "content_en": "Rude tone on the phone. Was interrupted three times."
+  },
+  {
+    "id": "rev-abaa9b8ef682",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-06-18 05:49:37+00:00",
+    "content_no": "Solid og seriøs bank. Anbefaler dem til alle jeg kjenner som driver eget.",
+    "content_en": "Solid and serious bank. I recommend them to everyone I know who runs their own business."
+  },
+  {
+    "id": "rev-c1a8a1149135",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2024-06-25 18:18:54+00:00",
+    "content_no": "Reklamefilmen viser en gründer som får penger på to minutter. Det er ikke min opplevelse.",
+    "content_en": "The advert shows a founder getting money in two minutes. That is not my experience."
+  },
+  {
+    "id": "rev-a7ba7b47d684",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-06-05 07:47:11+00:00",
+    "content_no": "Slutt å sende meg SMS om lån jeg ikke har bedt om.",
+    "content_en": "Stop sending me texts about loans I haven't asked for."
+  },
+  {
+    "id": "rev-b71ef45aef23",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-06-12 20:16:28+00:00",
+    "content_no": "Kassekreditten er redningen når kundene betaler sent.",
+    "content_en": "The overdraft is a lifesaver when customers pay late."
+  },
+  {
+    "id": "rev-656bcbc11f28",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-06-19 09:45:45+00:00",
+    "content_no": "Byttet fra storbank i fjor. Raskere, hyggeligere, billigere. Angrer ikke.",
+    "content_en": "Switched from a big bank last year. Faster, friendlier, cheaper. No regrets."
+  },
+  {
+    "id": "rev-35e4632026e8",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-06-26 22:14:02+00:00",
+    "content_no": "Purregebyr på en faktura de sendte til feil adresse, og så nektet de å slette det.",
+    "content_en": "A reminder fee on an invoice they sent to the wrong address, and then they refused to cancel it."
+  },
+  {
+    "id": "rev-83df8eb64bcc",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2024-06-06 11:43:19+00:00",
+    "content_no": "Kontoutskriftene inneholder alt regnskapsføreren trenger, men bare seks måneder tilbake i portalen.",
+    "content_en": "The statements contain everything the accountant needs, but only six months back in the portal."
+  },
+  {
+    "id": "rev-d22d3fd856cf",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-07-13 00:12:36+00:00",
+    "content_no": "Fikk tre ulike beskjeder fra tre ulike folk på én uke.",
+    "content_en": "Got three different messages from three different people in one week."
+  },
+  {
+    "id": "rev-ef06ffe6226e",
+    "rating": 5,
+    "title": "Billigst i markedet",
+    "feedback_date": "2024-07-20 13:41:53+00:00",
+    "content_no": "Vi hentet fem tilbud. Kvist var billigst og raskest.",
+    "content_en": "We got five quotes. Kvist was the cheapest and the fastest."
+  },
+  {
+    "id": "rev-791c08f22ece",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2024-07-27 02:10:10+00:00",
+    "content_no": "Prisen som ble oppgitt på telefon var ikke prisen i avtalen. To prosentpoeng høyere.",
+    "content_en": "The price quoted on the phone was not the price in the agreement. Two percentage points higher."
+  },
+  {
+    "id": "rev-5ce37c250947",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-07-07 15:39:27+00:00",
+    "content_no": "Ok bank for kortsiktig behov. Ville ikke brukt dem til noe langsiktig.",
+    "content_en": "Okay bank for short-term needs. Wouldn't use them for anything long-term."
+  },
+  {
+    "id": "rev-ed71ae20b459",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-07-14 04:08:44+00:00",
+    "content_no": "Skattelån innvilget på en time i desember. Reddet kvartalet.",
+    "content_en": "Tax loan approved in an hour in December. Saved the quarter."
+  },
+  {
+    "id": "rev-e18ac8a3847d",
+    "rating": 1,
+    "title": "Chatboten er en vits",
+    "feedback_date": "2024-07-21 17:37:01+00:00",
+    "content_no": "Den svarer på et helt annet spørsmål enn det jeg stiller, og det finnes ingen «snakk med menneske»-knapp.",
+    "content_en": "It answers a completely different question from the one I ask, and there is no \"talk to a human\" button."
+  },
+  {
+    "id": "rev-dfee5e1d8e0d",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-07-01 06:06:18+00:00",
+    "content_no": "Anbefales på det sterkeste.",
+    "content_en": "Strongly recommended."
+  },
+  {
+    "id": "rev-6ad01cdd3eb3",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-07-08 19:35:35+00:00",
+    "content_no": "De forsto at vi trengte tid, og ga oss det.",
+    "content_en": "They understood that we needed time, and gave us it."
+  },
+  {
+    "id": "rev-ce33ea7da190",
+    "rating": 5,
+    "title": "God hjelp i en vanskelig tid",
+    "feedback_date": "2024-06-21 15:47:52+00:00",
+    "content_no": "Da vi mistet vår største kunde og ikke klarte terminen, fikk vi utsettelse i tre måneder uten kjefting. Det glemmer man ikke.",
+    "content_en": "When we lost our largest customer and couldn't make the payment, we got a three-month deferral without being scolded. You don't forget that."
+  },
+  {
+    "id": "rev-cf52481f7553",
+    "rating": 3,
+    "title": "Kunne vært bedre informert",
+    "feedback_date": "2025-03-06 08:36:22+00:00",
+    "content_no": "Søknaden ble liggende i to uker uten at noen sa noe. Måtte purre selv for å finne ut at de ventet på et dokument de aldri hadde bedt om.",
+    "content_en": "The application sat for two weeks without anyone saying anything. I had to chase them myself to find out they were waiting for a document they had never asked for."
+  },
+  {
+    "id": "rev-1ccd2042a6e7",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-05-02 07:59:13+00:00",
+    "content_no": "Portalen er ryddig og oversiktlig. Ser alt jeg trenger på ett skjermbilde.",
+    "content_en": "The portal is tidy and clear. I see everything I need on one screen."
+  },
+  {
+    "id": "rev-948d62bc3bf9",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-08-09 23:31:43+00:00",
+    "content_no": "Måtte fylle ut samme skjema to ganger fordi siden mistet dataene mine.",
+    "content_en": "Had to fill in the same form twice because the page lost my data."
+  },
+  {
+    "id": "rev-56a3968e66a7",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-03-05 12:17:39+00:00",
+    "content_no": "👍",
+    "content_en": "👍"
+  },
+  {
+    "id": "rev-6d35d82a9188",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-08-23 01:29:17+00:00",
+    "content_no": "Effektiv rente på 41%. Les vilkårene, folkens.",
+    "content_en": "Effective rate of 41%. Read the terms, folks."
+  },
+  {
+    "id": "rev-6dbd760a634d",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-08-03 14:58:34+00:00",
+    "content_no": "Kastet ut av portalen hvert femte minutt. Umulig å jobbe.",
+    "content_en": "Thrown out of the portal every five minutes. Impossible to work."
+  },
+  {
+    "id": "rev-4d03805dfb1e",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-11-13 09:03:31+00:00",
+    "content_no": "Pengene skulle vært på konto fredag. De kom onsdag etter. Da hadde jeg allerede betalt leverandøren av egen lomme.",
+    "content_en": "The money was supposed to be in the account on Friday. It arrived the following Wednesday. By then I had already paid the supplier out of my own pocket."
+  },
+  {
+    "id": "rev-8c0872265e1d",
+    "rating": 5,
+    "title": "Fleksible",
+    "feedback_date": "2024-04-17 13:38:26+00:00",
+    "content_no": "De strakk seg langt for å tilpasse nedbetalingsplanen til sesongen vår. Ikke alle banker gjør det.",
+    "content_en": "They went a long way to adapt the repayment plan to our season. Not all banks do that."
+  },
+  {
+    "id": "rev-50bb05811c71",
+    "rating": 3,
+    "title": "Midt på treet",
+    "feedback_date": "2025-02-20 17:44:31+00:00",
+    "content_no": "Helt ok.",
+    "content_en": "Completely okay."
+  },
+  {
+    "id": "rev-d84c2823d8b4",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-09-04 18:54:42+00:00",
+    "content_no": "Sparekontoen har bindingstid på pengene, det sto ikke tydelig.",
+    "content_en": "The savings account locks the money up, which wasn't clearly stated."
+  },
+  {
+    "id": "rev-53170485204b",
+    "rating": 4,
+    "title": "Bra, med et forbehold",
+    "feedback_date": "2024-12-05 13:41:57+00:00",
+    "content_no": "Veldig fornøyd med både folk og produkt. Eneste minus er at det ikke finnes en app - alt må gjøres i nettleseren.",
+    "content_en": "Very satisfied with both the people and the product. The only minus is that there is no app - everything has to be done in the browser."
+  },
+  {
+    "id": "rev-30726de0f472",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-09-18 20:52:16+00:00",
+    "content_no": "Dobbelt så dyrt som banken vi kom fra, for samme produkt.",
+    "content_en": "Twice as expensive as the bank we came from, for the same product."
+  },
+  {
+    "id": "rev-c59f0ee4ca75",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-09-25 09:21:33+00:00",
+    "content_no": "Uprofesjonelt fra start til slutt.",
+    "content_en": "Unprofessional from start to finish."
+  },
+  {
+    "id": "rev-03e188209ff0",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-04-04 10:15:42+00:00",
+    "content_no": "Fakturafinansieringen har berget likviditeten vår gjennom en tung vinter. Slipper å vente 60 dager på at kundene betaler.",
+    "content_en": "The invoice financing has saved our liquidity through a hard winter. No longer having to wait 60 days for customers to pay."
+  },
+  {
+    "id": "rev-b78ef3095a72",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-09-12 11:19:07+00:00",
+    "content_no": "Vi er et enkeltpersonforetak og kvalifiserer tydeligvis ikke. Greit, men det står ingenting om det noe sted.",
+    "content_en": "We are a sole proprietorship and evidently don't qualify. Fine, but it says nothing about that anywhere."
+  },
+  {
+    "id": "rev-eb742f5a177c",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-10-19 00:48:24+00:00",
+    "content_no": "To måneder for å bytte kontonummer. To måneder.",
+    "content_en": "Two months to change an account number. Two months."
+  },
+  {
+    "id": "rev-9e2ccd454d88",
+    "rating": 1,
+    "title": "Uklart hele veien",
+    "feedback_date": "2025-10-30 15:56:44+00:00",
+    "content_no": "Ingen klarte å forklare meg hvordan renten beregnes. Fikk tre ulike forklaringer og et regneark som ikke stemte med fakturaen.",
+    "content_en": "Nobody managed to explain to me how the interest is calculated. I got three different explanations and a spreadsheet that didn't match the invoice."
+  },
+  {
+    "id": "rev-9cc853b7c246",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2024-10-06 02:46:58+00:00",
+    "content_no": "Grei rente, rask behandling, litt tynn på selvbetjening.",
+    "content_en": "Decent rate, fast handling, a bit thin on self-service."
+  },
+  {
+    "id": "rev-d351246d1d7b",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-10-13 15:15:15+00:00",
+    "content_no": "Topp!",
+    "content_en": "Top!"
+  },
+  {
+    "id": "rev-80feb11841e7",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-10-20 04:44:32+00:00",
+    "content_no": "Vi vokste ut av dem, men de hjalp oss dit. Takk.",
+    "content_en": "We outgrew them, but they helped us get there. Thank you."
+  },
+  {
+    "id": "rev-c0b01902ac5b",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-10-27 17:13:49+00:00",
+    "content_no": "Innvilget på 40 minutter en søndag kveld. Imponerende.",
+    "content_en": "Approved in 40 minutes on a Sunday evening. Impressive."
+  },
+  {
+    "id": "rev-187597d74b69",
+    "rating": 1,
+    "title": "Lover og bryter",
+    "feedback_date": "2025-07-10 12:07:14+00:00",
+    "content_no": "Fikk skriftlig lovnad om at rammen skulle utvides før sommeren. Da vi purret i august hadde den som lovet det sluttet, og ingen ville stå for det. Ny søknad, ny vurdering, avslag uten begrunnelse.",
+    "content_en": "Got a written promise that the credit line would be extended before the summer. When we chased it in August, the person who promised it had left, and nobody would stand by it. New application, new assessment, rejection without justification."
+  },
+  {
+    "id": "rev-5a7171b6289b",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2024-10-14 19:11:23+00:00",
+    "content_no": "God oppfølging gjennom hele søknaden. Trekker litt for tregt system.",
+    "content_en": "Good follow-up throughout the application. Docking a little for a slow system."
+  },
+  {
+    "id": "rev-30b3d910c05a",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2024-11-21 08:40:40+00:00",
+    "content_no": "Å avslutte gikk greit, men jeg måtte ringe for å gjøre det.",
+    "content_en": "Closing went fine, but I had to call to do it."
+  },
+  {
+    "id": "rev-97a2b3f350ff",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-06-06 12:04:35+00:00",
+    "content_no": "Integrasjonen mot Bokfør fungerer knirkefritt. Fakturaene havner der de skal uten at jeg gjør noe.",
+    "content_en": "The integration with Bokfør works flawlessly. The invoices end up where they should without me doing anything."
+  },
+  {
+    "id": "rev-905ddbd723bc",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-11-08 10:38:14+00:00",
+    "content_no": "Avtalegiro trekker riktig beløp på riktig dag, hver måned.",
+    "content_en": "The direct debit takes the right amount on the right day, every month."
+  },
+  {
+    "id": "rev-31150867dd30",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-11-15 23:07:31+00:00",
+    "content_no": "Enkel og rask. Begge ting, som er sjeldent.",
+    "content_en": "Simple and fast. Both, which is rare."
+  },
+  {
+    "id": "rev-0e542f157238",
+    "rating": 5,
+    "title": "Alt på stell",
+    "feedback_date": "2024-11-22 12:36:48+00:00",
+    "content_no": "Rask behandling, hyggelige folk, ryddig portal, og en pris vi er fornøyd med. Skal ikke mye mer til.",
+    "content_en": "Fast handling, pleasant people, tidy portal, and a price we are happy with. Not much more is needed."
+  },
+  {
+    "id": "rev-2324c08e3ac1",
+    "rating": 5,
+    "title": "Skjønte hva vi trengte",
+    "feedback_date": "2024-07-18 11:09:44+00:00",
+    "content_no": "Rådgiveren forsto forretningsmodellen vår med en gang og foreslo kassekreditt i stedet for lånet vi hadde søkt om. Det var riktig råd.",
+    "content_en": "The advisor understood our business model immediately and suggested an overdraft facility instead of the loan we had applied for. That was the right advice."
+  },
+  {
+    "id": "rev-55b96506cde8",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-09-18 08:07:37+00:00",
+    "content_no": "Systemet viste feil saldo i tre dager. Regnskapsføreren trodde vi var overtrukket.",
+    "content_en": "The system showed the wrong balance for three days. The accountant thought we were overdrawn."
+  },
+  {
+    "id": "rev-d1cbf446c038",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-11-16 03:03:39+00:00",
+    "content_no": "Portalen fikk en oppdatering i høst som gjorde alt bedre.",
+    "content_en": "The portal got an update in the autumn that made everything better."
+  },
+  {
+    "id": "rev-1f58552c5cb5",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2024-12-23 16:32:56+00:00",
+    "content_no": "Appen finnes men kan ikke gjøre annet enn å vise saldo.",
+    "content_en": "The app exists but can't do anything other than show the balance."
+  },
+  {
+    "id": "rev-761fe14307f6",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-07-24 09:22:41+00:00",
+    "content_no": "Avslag etter fire uker. Fire uker!",
+    "content_en": "Rejected after four weeks. Four weeks!"
+  },
+  {
+    "id": "rev-e1e288b2122a",
+    "rating": 1,
+    "title": "Advarsel til andre gründere",
+    "feedback_date": "2024-12-10 18:30:30+00:00",
+    "content_no": "Vi startet i 2024 og trengte likviditet. Annonsen lovte finansiering til nystartede. Etter to uker og fire dokumentleveranser fikk vi avslag med begrunnelsen «for kort historikk». Det kunne de sagt i skjemaet på dag én. Vi mistet tre uker og en leverandøravtale.",
+    "content_en": "We started in 2024 and needed liquidity. The advert promised financing for start-ups. After two weeks and four rounds of documents we were rejected on the grounds of \"too short a track record\". They could have said that in the form on day one. We lost three weeks and a supplier agreement."
+  },
+  {
+    "id": "rev-726409b53680",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2024-12-17 07:59:47+00:00",
+    "content_no": "Bra på det digitale, litt tynt på folk. Får sjelden snakke med samme person to ganger.",
+    "content_en": "Good on the digital side, a bit thin on people. Rarely get to speak to the same person twice."
+  },
+  {
+    "id": "rev-bd0f4ecfcb6e",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2024-12-24 20:28:04+00:00",
+    "content_no": "Måtte sende samme dokument tre ganger fordi de mistet det internt.",
+    "content_en": "Had to send the same document three times because they lost it internally."
+  },
+  {
+    "id": "rev-855cf7fb495c",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-12-04 09:57:21+00:00",
+    "content_no": "Fornøyd kunde siden 2021.",
+    "content_en": "Happy customer since 2021."
+  },
+  {
+    "id": "rev-b74a731add88",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-03-19 08:44:15+00:00",
+    "content_no": "Dårlig.",
+    "content_en": "Bad."
+  },
+  {
+    "id": "rev-3922e1f0cbf7",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-12-18 11:55:55+00:00",
+    "content_no": "Koblet til Bokfør på to klikk.",
+    "content_en": "Connected to Bokfør in two clicks."
+  },
+  {
+    "id": "rev-c20a6dd65930",
+    "rating": 1,
+    "title": "Ubrukelig chatbot",
+    "feedback_date": "2025-08-21 11:51:29+00:00",
+    "content_no": "Chatboten forstår ingenting og nekter å sette meg over til et menneske. Til slutt ga jeg opp.",
+    "content_en": "The chatbot understands nothing and refuses to transfer me to a human. In the end I gave up."
+  },
+  {
+    "id": "rev-d206bd2e0fff",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-01-05 13:53:29+00:00",
+    "content_no": "Portalen krasjer hver gang jeg prøver å laste opp et vedlegg over 5 MB.",
+    "content_en": "The portal crashes every time I try to upload an attachment over 5 MB."
+  },
+  {
+    "id": "rev-24b838bbb089",
+    "rating": 4,
+    "title": "Nesten toppkarakter",
+    "feedback_date": "2025-01-09 15:07:12+00:00",
+    "content_no": "Alt bra bortsett fra at innloggingen med BankID feiler annenhver gang og jeg må prøve på nytt.",
+    "content_en": "All good except that the BankID login fails every other time and I have to try again."
+  },
+  {
+    "id": "rev-f8ed3a0e48d8",
+    "rating": 1,
+    "title": "Truende inkassopraksis",
+    "feedback_date": "2025-09-04 16:19:03+00:00",
+    "content_no": "Var to dager på etterskudd med én termin. Fikk varsel om inkasso og et purregebyr på 350 kroner før noen i det hele tatt hadde ringt. Da jeg ba om en betalingsplan fikk jeg beskjed om at det ikke var mulig.",
+    "content_en": "Was two days late with one instalment. Got a collections notice and a reminder fee of 350 kroner before anyone had even called. When I asked for a payment plan I was told it wasn't possible."
+  },
+  {
+    "id": "rev-0d4d3326d84f",
+    "rating": 5,
+    "title": "Anbefales for små selskaper",
+    "feedback_date": "2025-01-26 04:20:20+00:00",
+    "content_no": "Som to-personers selskap er vi vant til å bli avvist. Her ble vi tatt imot, fikk en ramme som passet størrelsen vår, og en kontaktperson som svarer på SMS. Portalen er enkel og kontoutskriftene lette å sende til regnskapsfører. Det eneste jeg savner er en app.",
+    "content_en": "As a two-person company we are used to being turned away. Here we were welcomed, got a credit line that fitted our size, and a contact person who answers texts. The portal is simple and the statements are easy to send to the accountant. The only thing I miss is an app."
+  },
+  {
+    "id": "rev-5be2b33a91fe",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-01-06 17:49:37+00:00",
+    "content_no": "Fakturafinansieringen godtar bare kunder med god kredittscore, så nettopp de fakturaene jeg trenger hjelp med blir avvist.",
+    "content_en": "The invoice financing only accepts customers with a good credit score, so exactly the invoices I need help with are rejected."
+  },
+  {
+    "id": "rev-b9d27d67f70d",
+    "rating": 1,
+    "title": "Passer ikke for oss",
+    "feedback_date": "2025-12-11 17:12:55+00:00",
+    "content_no": "Fakturafinansiering fungerer tydeligvis bare hvis du har store, trygge kunder. Vi selger til privatpersoner og fikk beskjed om at vi ikke kvalifiserer. Greit nok, men si det i annonsen.",
+    "content_en": "Invoice financing evidently only works if you have large, safe customers. We sell to private individuals and were told we don't qualify. Fair enough, but say so in the advert."
+  },
+  {
+    "id": "rev-f3178e0ab94b",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-08-01 17:26:03+00:00",
+    "content_no": "Ingen skjulte gebyrer. Det som sto i tilbudet var det vi betalte.",
+    "content_en": "No hidden fees. What was in the offer was what we paid."
+  },
+  {
+    "id": "rev-1e836db51c9d",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-02-27 08:16:28+00:00",
+    "content_no": "Ganske mye dokumentasjon, men de forklarte hvorfor de trengte hver del.",
+    "content_en": "Quite a lot of documentation, but they explained why they needed each piece."
+  },
+  {
+    "id": "rev-03c961106bd8",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-02-07 21:45:45+00:00",
+    "content_no": "Fikk faktura for en måned jeg allerede hadde betalt.",
+    "content_en": "Got an invoice for a month I had already paid."
+  },
+  {
+    "id": "rev-4ed1c0d4f96f",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-02-14 10:14:02+00:00",
+    "content_no": "Fem stjerner til rådgiveren, null til systemet. Ender på én.",
+    "content_en": "Five stars for the advisor, zero for the system. Ends up at one."
+  },
+  {
+    "id": "rev-b4d0ead5dc0a",
+    "rating": 5,
+    "title": "Tusen takk",
+    "feedback_date": "2026-04-02 16:08:52+00:00",
+    "content_no": "Tusen takk for alt! Dere er best!",
+    "content_en": "Thank you so much for everything! You are the best!"
+  },
+  {
+    "id": "rev-9326017b404c",
+    "rating": 1,
+    "title": "Ikke som annonsert",
+    "feedback_date": "2025-05-29 13:16:35+00:00",
+    "content_no": "Det er ikke noe 3,9% rente. Effektiv rente ble 38% i året da jeg leste vilkårene ordentlig.",
+    "content_en": "There is no 3.9% interest rate. The effective rate turned out to be 38% per year when I read the terms properly."
+  },
+  {
+    "id": "rev-222b3a70633d",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-02-08 01:41:53+00:00",
+    "content_no": "Veldig bra, tusen takk!",
+    "content_en": "Very good, thank you!"
+  },
+  {
+    "id": "rev-29c446ed04cb",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-02-15 14:10:10+00:00",
+    "content_no": "Fikk hjelp på chat klokka 22 en fredag. Bra.",
+    "content_en": "Got help on chat at 10pm on a Friday. Good."
+  },
+  {
+    "id": "rev-2fed72e83b33",
+    "rating": 4,
+    "title": "Bra men dyrt",
+    "feedback_date": "2026-05-28 14:47:16+00:00",
+    "content_no": "Rask og enkel søknad, men sammenlignet med den lokale banken vår er de dyre. Man betaler for hastigheten.",
+    "content_en": "Fast and simple application, but compared to our local bank they are expensive. You pay for the speed."
+  },
+  {
+    "id": "rev-9b5925d94244",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-03-02 16:08:44+00:00",
+    "content_no": "Rask utbetaling, men fakturaen kom med feil forfallsdato første måneden.",
+    "content_en": "Fast payout, but the invoice came with the wrong due date the first month."
+  },
+  {
+    "id": "rev-7765bb085b22",
+    "rating": 5,
+    "title": "Sømløst",
+    "feedback_date": "2025-03-09 05:37:01+00:00",
+    "content_no": "Logget inn med BankID, hentet tall automatisk, ferdig. Ingen papirer.",
+    "content_en": "Logged in with BankID, figures pulled automatically, done. No paperwork."
+  },
+  {
+    "id": "rev-8c6e6cf270f9",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-03-16 18:06:18+00:00",
+    "content_no": "Endelig en bank der jeg ikke må møte noen fysisk for å signere.",
+    "content_en": "Finally a bank where I don't have to meet anyone in person to sign."
+  },
+  {
+    "id": "rev-05e2a5f08c76",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-03-23 07:35:35+00:00",
+    "content_no": "Rask, ryddig, real.",
+    "content_en": "Fast, tidy, straight."
+  },
+  {
+    "id": "rev-0cff33b4221a",
+    "rating": 5,
+    "title": "Sparekonto",
+    "feedback_date": "2026-06-11 11:23:57+00:00",
+    "content_no": "Flyttet driftskapitalen til sparekontoen deres. Renten er blant de beste for bedrifter, og pengene er tilgjengelige samme dag jeg trenger dem.",
+    "content_en": "Moved our working capital to their savings account. The rate is among the best for businesses, and the money is available the same day I need it."
+  },
+  {
+    "id": "rev-ed219d9064c3",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-03-10 09:33:09+00:00",
+    "content_no": "Avsluttet kontoen. Fikk faktura to måneder etterpå.",
+    "content_en": "Closed the account. Got an invoice two months later."
+  },
+  {
+    "id": "rev-e0a9b4470ec3",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-03-17 22:02:26+00:00",
+    "content_no": "Ikke bra nok.",
+    "content_en": "Not good enough."
+  },
+  {
+    "id": "rev-1b69c895034e",
+    "rating": 5,
+    "title": "Proft og imøtekommende",
+    "feedback_date": "2024-08-15 08:41:29+00:00",
+    "content_no": "Profesjonelle og imøtekommende hele veien.",
+    "content_en": "Professional and accommodating the whole way."
+  },
+  {
+    "id": "rev-2883e5932538",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-04-04 00:00:00+00:00",
+    "content_no": "Prøvde å avslutte i januar. Det er nå april.",
+    "content_en": "Tried to close in January. It is now April."
+  },
+  {
+    "id": "rev-dca96d2b719c",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-04-11 13:29:17+00:00",
+    "content_no": "Rammen ble kuttet fra 800 000 til 200 000 ved fornyelse. Midt i høysesongen.",
+    "content_en": "The line was cut from 800,000 to 200,000 at renewal. In the middle of peak season."
+  },
+  {
+    "id": "rev-d312ea251b29",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-04-18 02:58:34+00:00",
+    "content_no": "Integrasjonen mot Regna dobbeltfører alle transaksjoner. Regnskapsføreren bruker en time i måneden på å rydde.",
+    "content_en": "The integration with Regna double-posts every transaction. The accountant spends an hour a month cleaning up."
+  },
+  {
+    "id": "rev-40c491735c6b",
+    "rating": 1,
+    "title": "Aldri igjen",
+    "feedback_date": "2025-04-25 15:27:51+00:00",
+    "content_no": "Villedende priser, ingen som svarer, og da jeg til slutt ville ut måtte jeg betale et bruddgebyr på 12 000. Hele opplevelsen føltes som en felle.",
+    "content_en": "Misleading prices, nobody answering, and when I finally wanted out I had to pay a break fee of 12,000. The whole experience felt like a trap."
+  },
+  {
+    "id": "rev-18d47a0ae41c",
+    "rating": 1,
+    "title": "Lang og trist historie",
+    "feedback_date": "2025-12-27 08:41:26+00:00",
+    "content_no": "Vi søkte i september på en ramme på 500 000. Fikk innvilget 150 000 uten noen forklaring på avviket. Rådgiveren vi hadde snakket med sluttet, og den nye visste ingenting om saken vår. Vi måtte sende inn samme regnskapstall tre ganger fordi de forsvant internt.\n\nDa vi endelig ba om å avslutte, tok det seks uker og fire mailer. Portalen har ikke noe sted å gjøre det selv.\n\nSkuffende for en bank som markedsfører seg som digital og enkel.",
+    "content_en": "We applied in September for a 500,000 line. We were granted 150,000 with no explanation for the gap. The advisor we had spoken to left, and the new one knew nothing about our case. We had to submit the same accounting figures three times because they got lost internally.\n\nWhen we finally asked to close, it took six weeks and four emails. The portal has nowhere to do it yourself.\n\nDisappointing for a bank that markets itself as digital and simple."
+  },
+  {
+    "id": "rev-1ecc4c82dc14",
+    "rating": 3,
+    "title": "Spørsmål om oppsigelse",
+    "feedback_date": "2025-03-20 11:18:59+00:00",
+    "content_no": "Hvordan sier jeg opp kredittrammen? Finner ingen knapp for det i portalen.",
+    "content_en": "How do I terminate the credit line? I can't find any button for it in the portal."
+  },
+  {
+    "id": "rev-a3307f97e636",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-04-19 06:54:42+00:00",
+    "content_no": "Sparekontoen gir bedre rente enn noe annet vi fant for bedrift.",
+    "content_en": "The savings account gives a better rate than anything else we found for businesses."
+  },
+  {
+    "id": "rev-fa4952b46905",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-04-26 19:23:59+00:00",
+    "content_no": "Helt strålende å bli sittende i telefonkø i 55 minutter for å høre at de ikke kan hjelpe.",
+    "content_en": "Absolutely splendid to sit in a phone queue for 55 minutes to be told they can't help."
+  },
+  {
+    "id": "rev-b8ab7985f6f8",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2025-05-06 08:52:16+00:00",
+    "content_no": "Produktet passer, men jeg skulle ønske rammen kunne justeres uten ny søknad.",
+    "content_en": "The product fits, but I wish the credit line could be adjusted without a new application."
+  },
+  {
+    "id": "rev-d8ae754d7571",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-02-19 08:03:55+00:00",
+    "content_no": "Enkel søknad, penger på konto samme dag. Kan ikke klage.",
+    "content_en": "Simple application, money in the account the same day. Can't complain."
+  },
+  {
+    "id": "rev-dba8c8ddbded",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-06-12 08:49:21+00:00",
+    "content_no": "Useriøst og uprofesjonelt. Takk for oss.",
+    "content_en": "Unserious and unprofessional. Goodbye from us."
+  },
+  {
+    "id": "rev-330369fb041f",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2024-12-19 10:52:34+00:00",
+    "content_no": "Grei bank. Renten kunne vært lavere, men behandlingstiden er upåklagelig.",
+    "content_en": "Decent bank. The rate could have been lower, but the processing time is beyond reproach."
+  },
+  {
+    "id": "rev-dc4f275c9215",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-05-07 12:48:24+00:00",
+    "content_no": "Kjempeservice.",
+    "content_en": "Great service."
+  },
+  {
+    "id": "rev-0da14c238e68",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-05-14 01:17:41+00:00",
+    "content_no": "Renten gikk opp tredje gang på ett år. Ingen forklaring.",
+    "content_en": "The rate went up for the third time in one year. No explanation."
+  },
+  {
+    "id": "rev-92f5125068ca",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-05-21 14:46:58+00:00",
+    "content_no": "Null fleksibilitet. Enten passer produktet deres eller så gjør det ikke det.",
+    "content_en": "Zero flexibility. Either their product fits or it doesn't."
+  },
+  {
+    "id": "rev-fe000e556ab6",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-05-01 03:15:15+00:00",
+    "content_no": "Vilkårene er strenge men helt tydelige. Jeg visste hva jeg gikk til.",
+    "content_en": "The terms are strict but perfectly clear. I knew what I was getting into."
+  },
+  {
+    "id": "rev-67124654d676",
+    "rating": 1,
+    "title": "Hele historien",
+    "feedback_date": "2025-06-08 16:44:32+00:00",
+    "content_no": "Søkte i mars. Fikk beskjed om at det tok tre dager, det tok tre uker. Da tilbudet endelig kom var renten to prosentpoeng høyere enn det som sto i kalkulatoren på nettsiden. Rådgiveren sluttet underveis og den nye måtte starte på nytt. Vi endte med å bruke en annen bank.",
+    "content_en": "Applied in March. Was told it would take three days, it took three weeks. When the offer finally came the rate was two percentage points higher than what the calculator on the website said. The advisor left along the way and the new one had to start over. We ended up using another bank."
+  },
+  {
+    "id": "rev-45db4ba226a2",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-06-15 05:13:49+00:00",
+    "content_no": "Nettsiden lovte en kalkulator. Kalkulatoren gir tall som ikke stemmer med tilbudet.",
+    "content_en": "The website promised a calculator. The calculator gives figures that don't match the offer."
+  },
+  {
+    "id": "rev-9323d2bf76cb",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-06-22 18:42:06+00:00",
+    "content_no": "Null gebyrer, tydelig pris, rask hjelp. Ferdig snakka.",
+    "content_en": "No fees, clear price, fast help. Nothing more to say."
+  },
+  {
+    "id": "rev-1fd8954c6851",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-06-02 07:11:23+00:00",
+    "content_no": "Beste kundeservice i norsk bank, uten tvil.",
+    "content_en": "The best customer service in Norwegian banking, without doubt."
+  },
+  {
+    "id": "rev-e5c8b97a4003",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2026-01-22 11:04:48+00:00",
+    "content_no": "Nettsiden er et rot. Brukte tjue minutter på å finne skjemaet for å endre kontonummer, og til slutt måtte jeg ringe.",
+    "content_en": "The website is a mess. Spent twenty minutes finding the form to change the account number, and in the end I had to call."
+  },
+  {
+    "id": "rev-c358dd363166",
+    "rating": 3,
+    "title": "Godt produkt, umodent selskap",
+    "feedback_date": "2025-06-16 09:09:57+00:00",
+    "content_no": "Fakturafinansieringen er genuint god og har løst et reelt problem for oss. Men selskapet oppfører seg som en oppstart: vilkår endres, folk slutter, og informasjonen henger ikke sammen mellom kanalene. Nettsiden sier én ting, chatboten en annen, og rådgiveren en tredje. Jeg blir, men jeg følger med.",
+    "content_en": "The invoice financing is genuinely good and has solved a real problem for us. But the company behaves like a start-up: terms change, people leave, and the information doesn't line up across channels. The website says one thing, the chatbot another, and the advisor a third. I'm staying, but I'm watching."
+  },
+  {
+    "id": "rev-3178d2b84479",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2025-06-23 22:38:14+00:00",
+    "content_no": "Fungerer, men ingenting mer enn det.",
+    "content_en": "It works, but nothing more than that."
+  },
+  {
+    "id": "rev-5e7ccc2378ef",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-06-03 11:07:31+00:00",
+    "content_no": "Ingen gebyr for å ha kontoen stående ubrukt. Det setter jeg pris på.",
+    "content_en": "No fee for leaving the account unused. I appreciate that."
+  },
+  {
+    "id": "rev-3bbf45ab5aad",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-07-10 00:36:48+00:00",
+    "content_no": "For å være ærlig har alt fungert bra. Trekker en stjerne bare fordi renten er høy.",
+    "content_en": "To be honest everything has worked well. Docking a star only because the rate is high."
+  },
+  {
+    "id": "rev-d336cd7582c7",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-07-17 13:05:05+00:00",
+    "content_no": "Fikk utsettelse da vi trengte det, uten drama.",
+    "content_en": "Got a deferral when we needed it, without drama."
+  },
+  {
+    "id": "rev-d2b247072230",
+    "rating": 1,
+    "title": "Ingen forståelse",
+    "feedback_date": "2025-07-24 02:34:22+00:00",
+    "content_no": "Jeg ba om en måneds utsettelse etter at en kunde gikk konkurs. Svaret var nei, og to uker senere hadde saken gått til inkasso.",
+    "content_en": "I asked for a month's deferral after a customer went bankrupt. The answer was no, and two weeks later the case had gone to collections."
+  },
+  {
+    "id": "rev-978939a63827",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-07-04 15:03:39+00:00",
+    "content_no": "Ingen mulighet til å gi regnskapsfører tilgang. Må sende alt manuelt.",
+    "content_en": "No way to give the accountant access. Have to send everything manually."
+  },
+  {
+    "id": "rev-9278ebae141c",
+    "rating": 5,
+    "title": "For oss små",
+    "feedback_date": "2025-07-11 04:32:56+00:00",
+    "content_no": "Første bank som ikke lo av en omsetning på 2 millioner.",
+    "content_en": "The first bank that didn't laugh at a turnover of 2 million."
+  },
+  {
+    "id": "rev-4653bbac0eef",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-07-18 17:01:13+00:00",
+    "content_no": "Ingen forsto hva et byggefirma faktisk trenger. Behandlet oss som en nettbutikk.",
+    "content_en": "Nobody understood what a construction firm actually needs. Treated us like an online shop."
+  },
+  {
+    "id": "rev-d578554ddd5c",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-07-25 06:30:30+00:00",
+    "content_no": "Alt kan gjøres selv på nettsiden. Slipper å ringe.",
+    "content_en": "Everything can be done yourself on the website. No need to call."
+  },
+  {
+    "id": "rev-aefb8c0dfdab",
+    "rating": 1,
+    "title": "Evig venting",
+    "feedback_date": "2025-07-05 19:59:47+00:00",
+    "content_no": "Elleve dager uten et ord. Måtte ringe tre ganger for å få status.",
+    "content_en": "Eleven days without a word. Had to call three times to get a status."
+  },
+  {
+    "id": "rev-35d7d7f97866",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-08-12 08:28:04+00:00",
+    "content_no": "Aldri mer.",
+    "content_en": "Never again."
+  },
+  {
+    "id": "rev-73b4ab9db41f",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-11-21 08:25:19+00:00",
+    "content_no": "Bra at man kan gi regnskapsføreren lesetilgang uten å dele passordet sitt.",
+    "content_en": "Good that you can give the accountant read access without sharing your password."
+  },
+  {
+    "id": "rev-d88e745c52c8",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-08-26 10:26:38+00:00",
+    "content_no": "De endret nedbetalingsplanen tre ganger uten å blunke da prosjektet vårt ble utsatt.",
+    "content_en": "They changed the repayment plan three times without blinking when our project was postponed."
+  },
+  {
+    "id": "rev-285e4562bdaa",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-08-06 23:55:55+00:00",
+    "content_no": "Lovet å komme tilbake til meg i forrige uke. Har ikke hørt noe.",
+    "content_en": "Promised to come back to me last week. Haven't heard anything."
+  },
+  {
+    "id": "rev-e1a11641f737",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-08-13 12:24:12+00:00",
+    "content_no": "Oppdatering: de fikset feilen i portalen på under et døgn etter at jeg meldte den. Oppgraderer fra tre til fem stjerner.",
+    "content_en": "Update: they fixed the portal bug in under a day after I reported it. Upgrading from three to five stars."
+  },
+  {
+    "id": "rev-9fbd5757d94d",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-08-20 01:53:29+00:00",
+    "content_no": "Enkel søknad, tydelige vilkår, ingen overraskelser.",
+    "content_en": "Simple application, clear terms, no surprises."
+  },
+  {
+    "id": "rev-66f48db8e806",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-08-27 14:22:46+00:00",
+    "content_no": "Fornøyd. Litt for mange gebyrer, men servicen kompenserer.",
+    "content_en": "Satisfied. A few too many fees, but the service compensates."
+  },
+  {
+    "id": "rev-aefd165ea585",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-08-07 03:51:03+00:00",
+    "content_no": "Solid.",
+    "content_en": "Solid."
+  },
+  {
+    "id": "rev-067c12bb90eb",
+    "rating": 5,
+    "title": "Rask og ryddig",
+    "feedback_date": "2024-01-15 09:12:04+00:00",
+    "content_no": "Rask kredittvurdering og utrolig hyggelige folk å ha med å gjøre.",
+    "content_en": "Fast credit assessment and incredibly pleasant people to deal with."
+  },
+  {
+    "id": "rev-8e88413f3f7f",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-09-21 05:49:37+00:00",
+    "content_no": "Noen som vet om de tar imot enkeltpersonforetak nå?",
+    "content_en": "Does anyone know if they accept sole proprietorships now?"
+  },
+  {
+    "id": "rev-824375a933e6",
+    "rating": 1,
+    "title": "Svindel",
+    "feedback_date": "2025-11-27 12:37:09+00:00",
+    "content_no": "Dette er ren svindel. Aldri mer.",
+    "content_en": "This is pure fraud. Never again."
+  },
+  {
+    "id": "rev-80da4e33302c",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-09-08 07:47:11+00:00",
+    "content_no": "Kan noen forklare hvorfor jeg belastes to gebyrer i samme måned?",
+    "content_en": "Can someone explain why I am charged two fees in the same month?"
+  },
+  {
+    "id": "rev-0eed1ff3aeca",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-09-15 20:16:28+00:00",
+    "content_no": "Innlogging med BankID hver gang, aldri et problem.",
+    "content_en": "Login with BankID every time, never a problem."
+  },
+  {
+    "id": "rev-b768a978b895",
+    "rating": 2,
+    "title": "Bra folk, dårlig system",
+    "feedback_date": "2025-09-22 09:45:45+00:00",
+    "content_no": "Menneskene her er utmerkede. Systemene er forferdelige. Portalen henger, integrasjonen mot regnskapet feiler annenhver uke, og saldoen stemmer sjelden. Synd, for rådgiverne fortjener bedre verktøy.",
+    "content_en": "The people here are excellent. The systems are dreadful. The portal hangs, the accounting integration fails every other week, and the balance rarely adds up. A shame, because the advisors deserve better tools."
+  },
+  {
+    "id": "rev-174fd2a981c0",
+    "rating": 5,
+    "title": "Løsningsorienterte",
+    "feedback_date": "2025-09-02 22:14:02+00:00",
+    "content_no": "Jeg forklarte problemet, de foreslo tre måter å løse det på. Ingen av dem krevde at jeg gjorde noe ekstra.",
+    "content_en": "I explained the problem, they proposed three ways to solve it. None of them required me to do anything extra."
+  },
+  {
+    "id": "rev-56fb7df7bfe5",
+    "rating": 2,
+    "title": "Dyrt",
+    "feedback_date": "2025-09-09 11:43:19+00:00",
+    "content_no": "Betaler nesten 19% effektivt. Det er mye for et selskap med god historikk.",
+    "content_en": "Paying almost 19% effective. That is a lot for a company with a good track record."
+  },
+  {
+    "id": "rev-600acf0222a3",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-10-16 00:12:36+00:00",
+    "content_no": "De ringte og solgte meg et produkt jeg ikke trengte. Klassisk.",
+    "content_en": "They called and sold me a product I didn't need. Classic."
+  },
+  {
+    "id": "rev-83833ecb43d3",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-10-23 13:41:53+00:00",
+    "content_no": "Annonsen sier «fra 4,9%». Vi fikk 16,5%. «Fra» gjør tydeligvis mye arbeid der.",
+    "content_en": "The advert says \"from 4.9%\". We got 16.5%. \"From\" is evidently doing a lot of work there."
+  },
+  {
+    "id": "rev-a2bcc806d8b2",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-05-01 16:02:28+00:00",
+    "content_no": "Kjempefornøyd så langt! Vet noen om de planlegger en app?",
+    "content_en": "Very happy so far! Does anyone know if they are planning an app?"
+  },
+  {
+    "id": "rev-c4a71cb33578",
+    "rating": 4,
+    "title": "Et spørsmål",
+    "feedback_date": "2025-04-17 09:41:53+00:00",
+    "content_no": "Kan man koble på flere brukere på samme konto? Vi er to som fører regnskap.",
+    "content_en": "Can you attach several users to the same account? There are two of us doing the bookkeeping."
+  },
+  {
+    "id": "rev-8c49d85c1f70",
+    "rating": 3,
+    "title": "Delte erfaringer",
+    "feedback_date": "2025-01-23 09:14:48+00:00",
+    "content_no": "Selve produktet er bra og pengene kom raskt. Men da jeg trengte hjelp med en feilført faktura tok det ni dager før noen svarte, og da fikk jeg to ulike svar fra to ulike personer.",
+    "content_en": "The product itself is good and the money came quickly. But when I needed help with an incorrectly posted invoice it took nine days before anyone replied, and then I got two different answers from two different people."
+  },
+  {
+    "id": "rev-b09e5dee945e",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-10-24 17:37:01+00:00",
+    "content_no": "Hyggeligste bankfolk jeg har snakket med. Null selgerpreik.",
+    "content_en": "The nicest bank people I have spoken to. No sales patter."
+  },
+  {
+    "id": "rev-04cfaba2570d",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-07-03 09:31:18+00:00",
+    "content_no": "Svarer på mail i løpet av minutter. Utrolig.",
+    "content_en": "Answers email within minutes. Incredible."
+  },
+  {
+    "id": "rev-734731adf217",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-10-11 19:35:35+00:00",
+    "content_no": "Skattelånet gjorde at vi slapp å tømme driftskontoen i mars.",
+    "content_en": "The tax loan meant we didn't have to empty the operating account in March."
+  },
+  {
+    "id": "rev-2fd621fbea32",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-11-18 08:04:52+00:00",
+    "content_no": "Er det mulig å ha to kassekreditter på samme organisasjonsnummer?",
+    "content_en": "Is it possible to have two overdraft facilities on the same company number?"
+  },
+  {
+    "id": "rev-cf4662dbabcb",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-11-25 21:33:09+00:00",
+    "content_no": "Ingen forteller deg noe med mindre du spør. Og da får du halve svaret.",
+    "content_en": "Nobody tells you anything unless you ask. And then you get half an answer."
+  },
+  {
+    "id": "rev-2bd9709a44c8",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-11-05 10:02:26+00:00",
+    "content_no": "Alle brukere ser alt. Vi kan ikke gi lageransvarlig tilgang uten å gi ham innsyn i lønn.",
+    "content_en": "All users see everything. We can't give the warehouse manager access without giving him visibility into salaries."
+  },
+  {
+    "id": "rev-3e6ca3a10ffc",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2025-11-12 23:31:43+00:00",
+    "content_no": "Anbefales varmt hvis du liker overraskelser på fakturaen.",
+    "content_en": "Warmly recommended if you enjoy surprises on your invoice."
+  },
+  {
+    "id": "rev-924c64d7715b",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2025-11-19 12:00:00+00:00",
+    "content_no": "Bra opplevelse totalt sett.",
+    "content_en": "Good experience on the whole."
+  },
+  {
+    "id": "rev-a02bbf85613d",
+    "rating": 5,
+    "title": "Fakturasalg fungerer",
+    "feedback_date": "2025-11-26 01:29:17+00:00",
+    "content_no": "Selger fakturaene samme dag de utstedes. Har ikke tenkt på likviditet siden.",
+    "content_en": "I sell the invoices the same day they are issued. Haven't thought about liquidity since."
+  },
+  {
+    "id": "rev-f4742dc44a32",
+    "rating": 2,
+    "title": "Dårlig service",
+    "feedback_date": "2026-04-30 13:52:04+00:00",
+    "content_no": "Dårlig service, rett og slett.",
+    "content_en": "Bad service, plain and simple."
+  },
+  {
+    "id": "rev-5b78ffceb6f6",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-11-13 03:27:51+00:00",
+    "content_no": "Elendig service.",
+    "content_en": "Terrible service."
+  },
+  {
+    "id": "rev-d0b9e8123dc6",
+    "rating": 5,
+    "title": "Forsto oss",
+    "feedback_date": "2025-12-20 16:56:08+00:00",
+    "content_no": "De skjønte at vi har sesongsvingninger og tilpasset seg det uten at jeg måtte argumentere.",
+    "content_en": "They understood that we have seasonal swings and adapted to it without me having to argue."
+  },
+  {
+    "id": "rev-cc30da84390c",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2025-12-27 05:25:25+00:00",
+    "content_no": "Ingen app i 2026. Seriøst?",
+    "content_en": "No app in 2026. Seriously?"
+  },
+  {
+    "id": "rev-e0475d176f9d",
+    "rating": 5,
+    "title": "Beste avgjørelsen i år",
+    "feedback_date": "2024-09-12 10:18:37+00:00",
+    "content_no": "Byttet fra en tradisjonell bank i mars. Renten er marginalt høyere, men servicen er i en helt annen liga og pengene kommer når de skal. Verdt det.",
+    "content_en": "Switched from a traditional bank in March. The interest rate is marginally higher, but the service is in a completely different league and the money arrives when it should. Worth it."
+  },
+  {
+    "id": "rev-aa78098b5220",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2025-12-14 07:23:59+00:00",
+    "content_no": "Svaret deres nedenfor stemmer ikke. Vi har aldri fått den mailen de hevder å ha sendt, og supportsaken ligger fortsatt åpen.",
+    "content_en": "Your reply below is not correct. We never received the email they claim to have sent, and the support case is still open."
+  },
+  {
+    "id": "rev-fb16c342b8bb",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-09-26 14:02:51+00:00",
+    "content_no": "Skattelånet reddet oss i juni. Enkelt oppsett, grei rente.",
+    "content_en": "The tax payment loan saved us in June. Simple setup, decent rate."
+  },
+  {
+    "id": "rev-af5f0f4c5738",
+    "rating": 1,
+    "title": "Feil i alle ledd",
+    "feedback_date": "2026-06-25 15:41:33+00:00",
+    "content_no": "Fakturaen kom på feil beløp to måneder i rad. Første gang fikk jeg beskjed om at det var min feil. Andre gang innrømmet de en systemfeil, men da hadde purregebyret allerede kommet.",
+    "content_en": "The invoice came with the wrong amount two months in a row. The first time I was told it was my fault. The second time they admitted a system error, but by then the reminder fee had already arrived."
+  },
+  {
+    "id": "rev-fe42435eea5a",
+    "rating": 1,
+    "title": "Bindingstid",
+    "feedback_date": "2025-12-08 22:50:50+00:00",
+    "content_no": "Tre års binding på en kassekreditt. Det burde stått i overskriften, ikke på side seks.",
+    "content_en": "Three years' binding on an overdraft. That should have been in the headline, not on page six."
+  },
+  {
+    "id": "rev-2acf9f0b7c20",
+    "rating": 2,
+    "title": "Litt av alt",
+    "feedback_date": "2025-12-15 11:19:07+00:00",
+    "content_no": "Jeg vil gjerne like denne banken. Rådgiverne er dyktige og hyggelige, produktet passer oss, og søknaden var enkel. Men: portalen er treg, integrasjonen mot regnskapssystemet har feilet fire ganger i år, saldoen er ikke til å stole på, og forrige gang jeg spurte om hjelp fikk jeg svar etter åtte dager. Det holder ikke når man driver et selskap med tolv ansatte.",
+    "content_en": "I would like to like this bank. The advisors are skilled and pleasant, the product suits us, and the application was simple. But: the portal is slow, the integration with the accounting system has failed four times this year, the balance cannot be trusted, and the last time I asked for help I got an answer after eight days. That isn't good enough when you run a company with twelve employees."
+  },
+  {
+    "id": "rev-0572bcf24ec2",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2026-01-22 00:48:24+00:00",
+    "content_no": "Maks lånebeløp er for lavt for et selskap på vår størrelse.",
+    "content_en": "The maximum loan amount is too low for a company of our size."
+  },
+  {
+    "id": "rev-e5b09cd30bc1",
+    "rating": 1,
+    "title": "Se kommentaren under",
+    "feedback_date": "2026-04-16 10:35:28+00:00",
+    "content_no": "Svaret deres under er ikke sant, og det vet dere godt. Vi har all korrespondanse lagret.",
+    "content_en": "Your reply below is not true, and you know that very well. We have all the correspondence saved."
+  },
+  {
+    "id": "rev-4a039d450c57",
+    "rating": 2,
+    "title": "Skuffet",
+    "feedback_date": "2026-01-08 14:26:13+00:00",
+    "content_no": "Renten ble satt opp med 2 prosentpoeng med fjorten dagers varsel. Formelt sett har de lov, men det føles ikke greit.",
+    "content_en": "The rate was raised by 2 percentage points with fourteen days' notice. Formally they are allowed to, but it doesn't feel right."
+  },
+  {
+    "id": "rev-a8c4942bfbda",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-01-16 15:15:15+00:00",
+    "content_no": "Fikk feil informasjon to ganger om samme sak. Måtte selv finne ut hva som gjaldt.",
+    "content_en": "Got wrong information twice about the same matter. Had to work out the rules myself."
+  },
+  {
+    "id": "rev-4876e70eb4ef",
+    "rating": 3,
+    "title": "",
+    "feedback_date": "2026-01-23 04:44:32+00:00",
+    "content_no": "Greie betingelser, men gebyrstrukturen er unødvendig komplisert. Fem ulike gebyrer på én faktura.",
+    "content_en": "Decent terms, but the fee structure is needlessly complicated. Five different fees on one invoice."
+  },
+  {
+    "id": "rev-1440fb510a12",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2026-01-03 17:13:49+00:00",
+    "content_no": "Litt dyrt, men de leverer på det de lover.",
+    "content_en": "A bit expensive, but they deliver on what they promise."
+  },
+  {
+    "id": "rev-5cc959cfbc14",
+    "rating": 5,
+    "title": "Bytter aldri tilbake",
+    "feedback_date": "2026-07-09 08:56:11+00:00",
+    "content_no": "Etter tolv år i en tradisjonell bank er dette befriende. Alt gjøres digitalt, jeg får svar samme dag, og rådgiveren husker hvem vi er uten at jeg må forklare historien på nytt hver gang.",
+    "content_en": "After twelve years in a traditional bank this is liberating. Everything is done digitally, I get answers the same day, and the advisor remembers who we are without me having to explain the history again every time."
+  },
+  {
+    "id": "rev-6373a1a30776",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-01-17 19:11:23+00:00",
+    "content_no": "Utbetalingen tok seks dager. Vi måtte utsette en lønnsutbetaling.",
+    "content_en": "The payout took six days. We had to postpone a payroll run."
+  },
+  {
+    "id": "rev-329becd809d6",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2026-02-24 08:40:40+00:00",
+    "content_no": "Renten er greit nok, men gebyrene gjør det dyrere enn konkurrentene likevel.",
+    "content_en": "The rate is fine, but the fees make it more expensive than the competitors anyway."
+  },
+  {
+    "id": "rev-6d5d8fe73e4c",
+    "rating": 5,
+    "title": "Veldig fornøyd",
+    "feedback_date": "2024-10-09 09:47:22+00:00",
+    "content_no": "Alt har fungert som det skal siden vi startet opp. Anbefaler videre.",
+    "content_en": "Everything has worked as it should since we started. Recommend them."
+  },
+  {
+    "id": "rev-f216a3d34fba",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-02-11 10:38:14+00:00",
+    "content_no": "Rådgiveren kunne regelverket bedre enn regnskapsføreren vår.",
+    "content_en": "The advisor knew the rules better than our accountant."
+  },
+  {
+    "id": "rev-332eedbbd3e4",
+    "rating": 4,
+    "title": "",
+    "feedback_date": "2026-02-18 23:07:31+00:00",
+    "content_no": "Chatboten løste faktisk saken min på to minutter. Overrasket.",
+    "content_en": "The chatbot actually solved my issue in two minutes. Surprised."
+  },
+  {
+    "id": "rev-3e024af70da7",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2026-02-25 12:36:48+00:00",
+    "content_no": "Fakturaoversikten viser feil forfallsdato. Har meldt det tre ganger.",
+    "content_en": "The invoice overview shows the wrong due date. Have reported it three times."
+  },
+  {
+    "id": "rev-c5898ec48fa3",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-02-05 01:05:05+00:00",
+    "content_no": "Ingen åpenhet om hvordan de vurderer. Alt er en svart boks.",
+    "content_en": "No openness about how they assess. Everything is a black box."
+  },
+  {
+    "id": "rev-d7c30c2d657b",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-02-12 14:34:22+00:00",
+    "content_no": "Kan ikke stole på dem. Enkelt og greit.",
+    "content_en": "Cannot trust them. Plain and simple."
+  },
+  {
+    "id": "rev-10419dfefd6f",
+    "rating": 1,
+    "title": "Avslag uten grunn",
+    "feedback_date": "2026-02-19 03:03:39+00:00",
+    "content_no": "Avslått. Ingen begrunnelse, ingen mulighet til å klage. Vi har positiv drift og null anmerkninger.",
+    "content_en": "Rejected. No justification, no way to appeal. We are profitable with a clean record."
+  },
+  {
+    "id": "rev-5652993ee8a6",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-03-26 16:32:56+00:00",
+    "content_no": "Tydelig informasjon hele veien. Jeg visste alltid hvor saken sto.",
+    "content_en": "Clear information the whole way. I always knew where the case stood."
+  },
+  {
+    "id": "rev-598363e7a51d",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-03-06 05:01:13+00:00",
+    "content_no": "Chatboten er det eneste alternativet på kveldstid, og den kan ingenting.",
+    "content_en": "The chatbot is the only option in the evening, and it can't do anything."
+  },
+  {
+    "id": "rev-022df9d51402",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2024-08-29 13:55:16+00:00",
+    "content_no": "Søkte på mobilen mellom to oppdrag, ferdig på fem minutter. Trengte ikke sende inn en eneste PDF.",
+    "content_en": "Applied on my phone between two jobs, done in five minutes. Didn't need to submit a single PDF."
+  },
+  {
+    "id": "rev-8b9fa1e00feb",
+    "rating": 4,
+    "title": "Nesten perfekt",
+    "feedback_date": "2026-03-20 07:59:47+00:00",
+    "content_no": "Kjempefornøyd med produktet og folka. To ting: appen mangler, og kontoutskriftene går bare seks måneder tilbake. Fiks det og dette er en femmer.",
+    "content_en": "Very happy with the product and the people. Two things: there is no app, and the statements only go six months back. Fix that and this is a five."
+  },
+  {
+    "id": "rev-fa7c7117e1e1",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-03-27 20:28:04+00:00",
+    "content_no": "Vi ble lovet en ting skriftlig og fikk noe annet. Da vi klaget var det «en misforståelse».",
+    "content_en": "We were promised one thing in writing and got something else. When we complained it was \"a misunderstanding\"."
+  },
+  {
+    "id": "rev-2e56ac89380e",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-03-07 09:57:21+00:00",
+    "content_no": "Lånet var større enn vi håpet på og strukturen passet investeringen.",
+    "content_en": "The loan was larger than we hoped for and the structure suited the investment."
+  },
+  {
+    "id": "rev-153d7a7b52ea",
+    "rating": 1,
+    "title": "",
+    "feedback_date": "2026-03-14 22:26:38+00:00",
+    "content_no": "De endret vilkårene våre og informerte oss etterpå. Det er ikke en avtale, det er et diktat.",
+    "content_en": "They changed our terms and informed us afterwards. That is not an agreement, it is a dictate."
+  },
+  {
+    "id": "rev-686592de9071",
+    "rating": 2,
+    "title": "",
+    "feedback_date": "2026-03-21 11:55:55+00:00",
+    "content_no": "Rådgiveren var flink, men jeg fikk aldri svar på mailen min etterpå.",
+    "content_en": "The advisor was good, but I never got a reply to my email afterwards."
+  },
+  {
+    "id": "rev-612ad4bedba7",
+    "rating": 5,
+    "title": "Anbefales",
+    "feedback_date": "2024-05-19 19:22:47+00:00",
+    "content_no": "Vi i Nordvik Anlegg AS har brukt Kvist Bank i to år. Kredittrammen ble innvilget på under et døgn, rådgiveren vår ringer av eget initiativ når det er noe, og prisen er lavere enn det den forrige banken vår tilbød oss. Ingenting å utsette.",
+    "content_en": "We at Nordvik Anlegg AS have used Kvist Bank for two years. The credit line was granted in under a day, our advisor calls on their own initiative when something comes up, and the price is lower than what our previous bank offered us. Nothing to fault."
+  },
+  {
+    "id": "rev-a2b719d632cf",
+    "rating": 1,
+    "title": "Umulig å komme ut av",
+    "feedback_date": "2025-10-02 13:44:52+00:00",
+    "content_no": "Bindingstiden er 24 måneder og det står i liten skrift på side fire. Prøvde å avslutte etter ett år og ble møtt med et bruddgebyr som tilsvarte fire måneders rente.",
+    "content_en": "The binding period is 24 months and it is in small print on page four. Tried to close after one year and was met with a break fee equal to four months of interest."
+  },
+  {
+    "id": "rev-7512fcdad348",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-04-15 02:22:46+00:00",
+    "content_no": "De ringte og spurte om vi trengte hjelp da de så at terminen var forsinket. Ingen andre banker har gjort det.",
+    "content_en": "They called and asked if we needed help when they saw the instalment was late. No other bank has done that."
+  },
+  {
+    "id": "rev-cac4e5910217",
+    "rating": 5,
+    "title": "",
+    "feedback_date": "2026-04-22 15:51:03+00:00",
+    "content_no": "Renten er lavere enn hos de tre andre vi hentet tilbud fra.",
+    "content_en": "The rate is lower than the three others we got quotes from."
+  },
+  {
+    "id": "rev-7f7563bde13e",
+    "rating": 1,
+    "title": "Villedende reklame",
+    "feedback_date": "2025-10-16 10:29:18+00:00",
+    "content_no": "Kampanjen på Facebook sa «penger på konto i dag, uten sikkerhet». Vi ble bedt om personlig kausjon og ventet i elleve dager.",
+    "content_en": "The Facebook campaign said \"money in the account today, no security required\". We were asked for a personal guarantee and waited eleven days."
+  },
+  {
+    "id": "rev-5354c4c196db",
+    "rating": 5,
+    "title": "Fra skeptisk til fan",
+    "feedback_date": "2026-04-09 17:49:37+00:00",
+    "content_no": "Var skeptisk til en digital bank uten filial. Men søknaden tok minutter, pengene kom samme dag, og da jeg trengte å snakke med noen fikk jeg en person på tråden som faktisk kjente saken vår. Renten er høyere enn storbanken, men vi sparer så mye tid at det ikke betyr noe.",
+    "content_en": "I was sceptical about a digital bank with no branch. But the application took minutes, the money arrived the same day, and when I needed to speak to someone I got a person on the line who actually knew our case. The rate is higher than the big bank, but we save so much time that it doesn't matter."
+  },
+  {
+    "id": "rev-e11bfb4d7aeb",
+    "rating": 5,
+    "title": "Fire år som kunde",
+    "feedback_date": "2026-04-16 06:18:54+00:00",
+    "content_no": "Vi har brukt kassekreditt og fakturasalg hos Kvist siden 2022. I den perioden har vi hatt to rådgivere, og begge har kjent selskapet vårt godt nok til at jeg ikke må forklare forretningsmodellen på nytt hver gang. Fakturaene kommer når de skal, utbetalinger går på timer, og de gangene noe har gått galt har det blitt ryddet opp uten diskusjon. Prisen er ikke den laveste i markedet, men jeg har sluttet å sjekke.",
+    "content_en": "We have used the overdraft and invoice sale at Kvist since 2022. In that period we have had two advisors, and both have known our company well enough that I don't have to explain the business model again every time. The invoices arrive when they should, payouts go through in hours, and the times something has gone wrong it has been cleared up without argument. The price is not the lowest in the market, but I have stopped checking."
+  }
+]

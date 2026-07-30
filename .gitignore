@@ -1,0 +1,13 @@
+# The scoring key and the grading rubric live in ../annotation-case-internal/
+# and must never be committed here. These patterns are belt-and-braces in case
+# someone copies a file across.
+gold/
+gold*.json
+GRADING.md
+authored.py
+
+out/
+__pycache__/
+*.pyc
+.venv/
+.env
