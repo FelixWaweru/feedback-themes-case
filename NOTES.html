@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>NOTES — Kvist Bank theme extraction</title>
+<style>
+:root {
+  --bg: #f7f6f3; --bg2: #ffffff; --text: #1a1a1a; --muted: #5c5c5c;
+  --border: #ddd9d0; --info: #e8f1fa; --info-b: #9bb8d4; --info-t: #1e4d7b;
+  --ok: #e7f5ee; --ok-b: #8fc9a8; --ok-t: #1d6b45;
+  --warn: #fbf1e0; --warn-b: #e0bf7a; --warn-t: #7a5314;
+  --kimi: #1D9E75; --glm: #378ADD;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #121212; --bg2: #1c1c1c; --text: #f0f0f0; --muted: #a0a0a0;
+    --border: #333; --info: #152433; --info-b: #2d4f6f; --info-t: #9ec5ea;
+    --ok: #14241c; --ok-b: #2f6b4c; --ok-t: #8fd6b0;
+    --warn: #2a2214; --warn-b: #6e5424; --warn-t: #e0bf7a;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: var(--bg); color: var(--text); line-height: 1.45;
+}
+.wrap { max-width: 960px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; }
+.lede { color: var(--muted); margin: 0 0 1.1rem; font-size: 0.95rem; }
+.section-title {
+  font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+  color: var(--muted); text-transform: uppercase; margin: 0 0 10px;
+}
+.row-label {
+  font-size: 12px; font-weight: 600; margin: 0 0 8px;
+  display: flex; align-items: center; gap: 8px;
+}
+.row-label .dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+.metric-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px; margin-bottom: 1.1rem;
+}
+.metric {
+  background: var(--bg2); border: 0.5px solid var(--border);
+  border-radius: 8px; padding: 12px 14px;
+}
+.metric .label { font-size: 11px; color: var(--muted); margin: 0 0 4px; }
+.metric .val { font-size: 22px; font-weight: 600; line-height: 1.1; margin: 0; }
+.metric .sub { font-size: 11px; color: var(--muted); margin-top: 4px; }
+.metric.highlight { border: 2px solid var(--info-b); }
+.metric.ok { border: 2px solid var(--ok-b); }
+.metric.kimi-border { border: 2px solid var(--kimi); }
+.metric.glm-border { border: 2px solid var(--glm); }
+.divider { border: none; border-top: 0.5px solid var(--border); margin: 1.35rem 0; }
+.chart-wrap {
+  position: relative; width: 100%; height: 280px;
+  margin-bottom: 0.75rem; background: var(--bg2);
+  border: 0.5px solid var(--border); border-radius: 8px; padding: 14px 12px 10px;
+}
+.chart-wrap.tall { height: 320px; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 10px; font-size: 12px; color: var(--muted); }
+.legend span { display: flex; align-items: center; gap: 5px; }
+.legend .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+.info-box, .success-box, .warn-box {
+  border-radius: 8px; padding: 10px 14px; font-size: 13px; margin-bottom: 1rem;
+}
+.info-box { background: var(--info); border: 0.5px solid var(--info-b); color: var(--info-t); }
+.success-box { background: var(--ok); border: 0.5px solid var(--ok-b); color: var(--ok-t); }
+.warn-box { background: var(--warn); border: 0.5px solid var(--warn-b); color: var(--warn-t); }
+.prose h2 { font-size: 1.12rem; margin: 1.25rem 0 0.45rem; }
+.prose p, .prose li { font-size: 0.94rem; }
+.prose ul { padding-left: 1.2rem; margin: 0.35rem 0 0.75rem; }
+code { font-family: ui-monospace, Consolas, monospace; font-size: 0.86em; }
+table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 0.6rem 0 1rem; }
+th, td { border: 0.5px solid var(--border); padding: 8px 9px; text-align: left; vertical-align: top; }
+th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+@media (max-width: 640px) {
+  .two-col { grid-template-columns: 1fr; }
+  .chart-wrap, .chart-wrap.tall { height: 300px; }
+}
+.caption { font-size: 12px; color: var(--muted); margin: 0 0 1rem; }
+.diagram-wrap {
+  background: var(--bg2); border: 0.5px solid var(--border);
+  border-radius: 8px; padding: 16px 12px; margin: 0.75rem 0 1rem;
+  overflow-x: auto;
+}
+.diagram-wrap .mermaid { display: flex; justify-content: center; }
+.diagram-caption { font-size: 12px; color: var(--muted); margin: -0.35rem 0 1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>NOTES — Kvist Bank theme extraction</h1>
+<p class="lede">
+  Compethic take-home. Full discover+extract runs on <code>moonshotai/kimi-k3</code> (shipped) and
+  <code>z-ai/glm-5.2</code> (cost alternative), same pipeline. Two market benchmarks (not run on this corpus):
+  <code>openai/gpt-5.5</code> and <code>anthropic/claude-fable-5</code>. Charts use Chart.js from CDN.
+</p>
+
+<p class="section-title">Full runs vs Compethic gates ($6 / 25 min)</p>
+
+<p class="row-label"><span class="dot" style="background:#1D9E75"></span> Kimi-k3 (shipped): <code>moonshotai/kimi-k3</code></p>
+<div class="metric-grid">
+  <div class="metric kimi-border">
+    <p class="label">Wall clock (discover+extract)</p>
+    <p class="val">5.3 min</p>
+    <p class="sub">316s · gate &lt; 25 min</p>
+  </div>
+  <div class="metric kimi-border">
+    <p class="label">Total API cost</p>
+    <p class="val">$2.36</p>
+    <p class="sub">usage.cost · gate &lt; $6</p>
+  </div>
+  <div class="metric ok">
+    <p class="label">Cheaper vs $6 baseline</p>
+    <p class="val">61%</p>
+    <p class="sub">spent $2.36 of $6 budget</p>
+  </div>
+  <div class="metric ok">
+    <p class="label">Faster vs 25 min baseline</p>
+    <p class="val">79%</p>
+    <p class="sub">used 5.3 of 25 min</p>
+  </div>
+  <div class="metric">
+    <p class="label">Coverage</p>
+    <p class="val">193/223</p>
+    <p class="sub">87% · 316 flat rows</p>
+  </div>
+  <div class="metric">
+    <p class="label">Failures</p>
+    <p class="val">0</p>
+    <p class="sub">223/223 · ROWS+TREE ok</p>
+  </div>
+</div>
+
+<p class="row-label"><span class="dot" style="background:#378ADD"></span> GLM-5.2: <code>z-ai/glm-5.2</code></p>
+<div class="metric-grid">
+  <div class="metric glm-border">
+    <p class="label">Wall clock (discover+extract)</p>
+    <p class="val">12.8 min</p>
+    <p class="sub">765s · gate &lt; 25 min</p>
+  </div>
+  <div class="metric glm-border">
+    <p class="label">Total API cost</p>
+    <p class="val">$0.37</p>
+    <p class="sub">usage.cost · gate &lt; $6</p>
+  </div>
+  <div class="metric ok">
+    <p class="label">Cheaper vs $6 baseline</p>
+    <p class="val">94%</p>
+    <p class="sub">spent $0.37 of $6 budget</p>
+  </div>
+  <div class="metric ok">
+    <p class="label">Faster vs 25 min baseline</p>
+    <p class="val">49%</p>
+    <p class="sub">used 12.8 of 25 min</p>
+  </div>
+  <div class="metric">
+    <p class="label">Coverage</p>
+    <p class="val">189/223</p>
+    <p class="sub">85% · 306 flat rows</p>
+  </div>
+  <div class="metric">
+    <p class="label">Failures</p>
+    <p class="val">4</p>
+    <p class="sub">non-JSON · ROWS+TREE ok</p>
+  </div>
+</div>
+
+<div class="success-box">
+  <strong>How model choice shows up:</strong> Both measured runs clear Gates 1–2. GLM wins on cost (~6× cheaper than Kimi; 94% under the $6 floor).
+  Kimi wins on wall clock (~2.4× faster end-to-end), reliability (0 vs 4 extract failures), and a denser specific tier (47 vs 39).
+  Frontier benchmarks (list-price estimates on the same max token envelope): GPT-5.5 ~$6.00 sits at the $6 gate; Claude Fable 5 ~$11.21 overshoots it.
+</div>
+
+<div class="info-box">
+  <strong>Presentation takeaway:</strong> Same code path, different models → different taxonomies, costs, and failure modes.
+  Ship Kimi when extract quality/reliability matters; switch to GLM when you need the cheapest gate-clearing run and can tolerate a few JSON retries.
+  GPT-5.5 and Fable show why a frontier flagship is unnecessary for this brief once Kimi/GLM already clear both gates.
+</div>
+
+<hr class="divider" />
+
+<p class="section-title">Measured pipeline — Kimi-k3 vs GLM-5.2</p>
+<div class="legend">
+  <span><span class="swatch" style="background:#1D9E75"></span>Kimi-k3 (shipped)</span>
+  <span><span class="swatch" style="background:#378ADD"></span>GLM-5.2</span>
+</div>
+<div class="chart-wrap tall">
+  <canvas id="runCompareChart" role="img" aria-label="Grouped bars comparing Kimi and GLM on total cost, wall minutes, coverage percent, and failed reviews."></canvas>
+</div>
+<p class="caption">Sources: <code>out/runs/kimi-k3-20260731_201440</code> and <code>out/runs/glm-5.2-20260731_194107</code> (+ matching <code>out/themes/theme-*</code> discovery folders).</p>
+
+<div class="two-col">
+  <div>
+    <p class="section-title">Tokens — discovery + extract</p>
+    <div class="legend">
+      <span><span class="swatch" style="background:#378ADD"></span>Prompt</span>
+      <span><span class="swatch" style="background:#1D9E75"></span>Completion</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="tokenChart" role="img" aria-label="Prompt and completion tokens for Kimi and GLM full pipelines."></canvas>
+    </div>
+  </div>
+  <div>
+    <p class="section-title">Wall clock vs budgets</p>
+    <div class="legend">
+      <span><span class="swatch" style="background:#1D9E75"></span>Kimi total</span>
+      <span><span class="swatch" style="background:#378ADD"></span>GLM total</span>
+      <span><span class="swatch" style="background:#BA7517"></span>12 min target</span>
+      <span><span class="swatch" style="background:#E24B4A"></span>25 min gate</span>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="budgetChart" role="img" aria-label="Wall clock minutes for Kimi and GLM versus 12-minute target (50% of the 25-minute gate) and 25-minute gate."></canvas>
+    </div>
+  </div>
+</div>
+
+<hr class="divider" />
+
+<p class="section-title">OpenRouter list pricing — $/1M tokens (+ GPT-5.5 &amp; Fable benchmarks)</p>
+<div class="legend">
+  <span><span class="swatch" style="background:#378ADD"></span>Input</span>
+  <span><span class="swatch" style="background:#BA7517"></span>Output</span>
+  <span><span class="swatch" style="background:#73726c"></span>Cached input</span>
+</div>
+<div class="chart-wrap tall">
+  <canvas id="priceChart" role="img" aria-label="Input, output, and cached-input prices per million tokens for GLM 5.2, Kimi K3, GPT-5.5, and Claude Fable 5."></canvas>
+</div>
+<p class="caption">
+  GLM Decart $0.60/$1.50/$0.10 · Kimi Morph $2.90/$14/$0.29 · GPT-5.5 $5/$30/$0.50 · Claude Fable 5 $10/$50/$1.00
+  (OpenRouter compare UI / <code>report/</code> Fable compare page). Measured Kimi/GLM totals are billed <code>usage.cost</code>;
+  GPT/Fable dollars in the Numbers table are list-price estimates only.
+</p>
+
+<div class="metric-grid">
+  <div class="metric">
+    <p class="label">GLM latency p50 / thruput</p>
+    <p class="val" style="font-size:16px">2.45s · 54 t/s</p>
+    <p class="sub">OpenRouter compare snapshot</p>
+  </div>
+  <div class="metric">
+    <p class="label">Kimi latency p50 / thruput</p>
+    <p class="val" style="font-size:16px">3.73s · 20 t/s</p>
+    <p class="sub">OpenRouter compare snapshot</p>
+  </div>
+  <div class="metric">
+    <p class="label">GPT-5.5 latency p50 / thruput</p>
+    <p class="val" style="font-size:16px">3.81s · 43 t/s</p>
+    <p class="sub">benchmark (not run here)</p>
+  </div>
+  <div class="metric">
+    <p class="label">Fable 5 thruput (compare UI)</p>
+    <p class="val" style="font-size:16px">~43 t/s</p>
+    <p class="sub">benchmark · $10/$50 per 1M</p>
+  </div>
+</div>
+
+<p class="section-title">Artificial Analysis capability (Intelligence / Coding / Agentic)</p>
+<div class="legend">
+  <span><span class="swatch" style="background:#C45C26"></span>Claude Fable 5</span>
+  <span><span class="swatch" style="background:#1D9E75"></span>Kimi-k3</span>
+  <span><span class="swatch" style="background:#5B8DEF"></span>GPT-5.5</span>
+  <span><span class="swatch" style="background:#534AB7"></span>GLM-5.2</span>
+</div>
+<div class="chart-wrap tall">
+  <canvas id="capabilityChart" role="img" aria-label="Grouped capability scores for Fable, Kimi, GPT-5.5, and GLM across Intelligence, Coding, and Agentic."></canvas>
+</div>
+<p class="caption">
+  Fable leads the board here (60/77/53), then Kimi (57/76/50), GPT-5.5 (55/75/45), GLM (51/69/43).
+  Higher AA scores track with Fable/GPT list prices: strong capability, but estimated pipeline cost hits or exceeds the $6 gate.
+</p>
+
+<p class="section-title">Estimated total cost at max measured token envelope</p>
+<div class="legend">
+  <span><span class="swatch" style="background:#1D9E75"></span>Kimi measured</span>
+  <span><span class="swatch" style="background:#378ADD"></span>GLM measured</span>
+  <span><span class="swatch" style="background:#5B8DEF"></span>GPT-5.5 est.</span>
+  <span><span class="swatch" style="background:#C45C26"></span>Fable 5 est.</span>
+  <span><span class="swatch" style="background:#E24B4A"></span>$6 gate</span>
+</div>
+<div class="chart-wrap">
+  <canvas id="estCostChart" role="img" aria-label="Measured Kimi and GLM total cost versus list-price estimates for GPT-5.5 and Fable on the max token envelope, with 6 dollar gate."></canvas>
+</div>
+<p class="caption">
+  Envelope = max(Kimi, GLM) tokens per stage: discovery 20,248 / 29,710 + extract 709,412 / 48,522
+  (prompt / completion). GPT est. ≈ $6.00; Fable est. ≈ $11.21. Kimi/GLM bars are actual billed totals.
+</p>
+
+<hr class="divider" />
+
+<p class="section-title">Theme shape &amp; assignment spread — Kimi vs GLM</p>
+<div class="legend">
+  <span><span class="swatch" style="background:#1D9E75"></span>Kimi-k3</span>
+  <span><span class="swatch" style="background:#378ADD"></span>GLM-5.2</span>
+</div>
+<div class="two-col">
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">Distinct themes by tier</p>
+    <div class="chart-wrap">
+      <canvas id="shapeChart" role="img" aria-label="Distinct strategic, midlevel, and specific theme counts for Kimi and GLM."></canvas>
+    </div>
+  </div>
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">Reviews by assignment count</p>
+    <div class="chart-wrap">
+      <canvas id="spreadChart" role="img" aria-label="How many reviews received 0 through 4 theme assignments for Kimi and GLM."></canvas>
+    </div>
+  </div>
+</div>
+<p class="caption">
+  Kimi: 7/20/47 tiers · mean 1.42 rows/review · spread {0:30, 1:100, 2:64, 3:28, 4:1} · 0% specifics used once.<br />
+  GLM: 8/21/39 tiers · mean 1.37 rows/review · spread {0:34, 1:99, 2:65, 3:23, 4:2} · 0% specifics used once.<br />
+  Both score.py ROWS+TREE ok. Model choice changes leaf granularity and empty rate more than TREE validity.
+</p>
+
+<hr class="divider" />
+
+<div class="prose">
+
+<h2>Theme set</h2>
+<p>
+  Themes come from batched discovery over all 223 reviews (9×25), then one synthesis call into a nested
+  registry (<code>data/themes.json</code> / <code>data/theme_set.md</code>). Names are polarity-neutral subjects
+  so praise and complaints map to the same path. Each model invents its own labels from the same reviews:
+</p>
+<ul>
+  <li><strong>Kimi (shipped):</strong> 7 strategic / 20 midlevel / 47 specific: denser leaves; top specifics skew to rate competitiveness, staff professionalism, reply speed.</li>
+  <li><strong>GLM:</strong> 8 strategic / 21 midlevel / 39 specific: slightly broader strategic cut, fewer specifics; top specifics skew to rate/fee trade-offs, loan limits, support reply speed.</li>
+</ul>
+<p>
+  Hard calls (visible on both): ultra-short praise often stays empty; authenticity complaints lack a dedicated leaf;
+  multi-topic reviews still under-assign occasionally.
+</p>
+
+<h2>Decisions the brief left open</h2>
+<ul>
+  <li><strong>Constrained taxonomy + path enum</strong>: free-form names broke TREE; assignment schema is an enum of full <code>A &gt; B &gt; C</code> labels with post-parse repair for scrambled triples.</li>
+  <li><strong>Discover then extract</strong>: same model for both stages in each experiment so taxonomy and assignment stay aligned.</li>
+  <li><strong>Rich <code>categorisation.json</code> + derived <code>out/flat.json</code></strong>: meaning lives in the nested file; flat is the checker projection.</li>
+  <li><strong>Ship Kimi over GLM</strong>: pay ~$2 more for zero parse failures, faster wall clock, and denser specifics; keep GLM as the budget path.</li>
+  <li><strong>Official <code>openrouter</code> SDK</strong>; cost is summed <code>usage.cost</code>, never recomputed from list prices.</li>
+</ul>
+
+<h2>Architecture</h2>
+<p>
+  Two stages, same model for both: first invent a reusable theme tree from the reviews, then label each review
+  against that tree. Discovery works in batches of ~25 reviews in parallel; extraction fans out one review per worker
+  (8 at a time). Results are checkpointed so a mid-run crash does not lose finished work.
+</p>
+
+<div class="diagram-wrap">
+<pre class="mermaid">
+flowchart TB
+  subgraph input [1. Load feedback]
+    R[223 customer reviews<br/>from reviews.json]
+  end
+
+  subgraph discover [2. Discover themes: batches in parallel]
+    B1[Batch 1<br/>~25 reviews]
+    B2[Batch 2<br/>~25 reviews]
+    B3[Batch 3…9<br/>same idea]
+    C[Collect candidate themes<br/>up to 5 per batch]
+    S[Merge into one theme tree<br/>strategic → midlevel → specific]
+    T[Save themes.json<br/>and theme_set.md]
+    R --> B1 & B2 & B3
+    B1 & B2 & B3 --> C --> S --> T
+  end
+
+  subgraph extract [3. Label every review: multithreaded]
+    W[Thread pool: 8 workers]
+    L1[Worker: one review<br/>→ pick allowed theme paths]
+    L2[Worker: next review<br/>→ same]
+    L3[More workers in parallel…]
+    T --> W
+    W --> L1 & L2 & L3
+  end
+
+  subgraph out [4. Write results]
+    CAT[categorisation.json<br/>rich per-review detail]
+    FLAT[flat.json<br/>for score.py checker]
+    SUM[run_summary<br/>cost · time · tokens]
+    L1 & L2 & L3 --> CAT & FLAT & SUM
+  end
+</pre>
+</div>
+<p class="diagram-caption">
+  Plain-language flow: split reviews into batches → invent themes → label each review in parallel → save the files Compethic checks.
+  Changing the model in <code>.env</code> re-runs the same flow (that is how Kimi vs GLM was compared).
+</p>
+<p>
+  Path enum + repair stop junk theme names from breaking the tree. What failed earlier: free-form triples (53 rejects),
+  complaint-only synthesis (empty praise), and runs that never finalized (status stuck <code>running</code>).
+</p>
+
+<h2>Numbers — how the model swap changes results</h2>
+<p class="caption" style="margin-top:0">
+  GPT-5.5 and Fable costs are <strong>list-price estimates</strong> using the max token envelope across Kimi and GLM
+  (discovery 20,248 / 29,710 + extract 709,412 / 48,522 prompt/completion). Wall clock and quality rows stay blank for benchmarks (not executed).
+</p>
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Kimi-k3 (shipped)</th>
+      <th>GLM-5.2</th>
+      <th>GPT-5.5 (benchmark est.)</th>
+      <th>Claude Fable 5 (benchmark est.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Role</td>
+      <td>Shipped discover+extract</td>
+      <td>Full alternate run</td>
+      <td>Price/capability reference</td>
+      <td>Frontier capability reference</td>
+    </tr>
+    <tr>
+      <td>Discovery wall / cost</td>
+      <td>145s / $0.50</td>
+      <td>251s / $0.07</td>
+      <td>n/a / ~$0.99 est.</td>
+      <td>n/a / ~$1.69 est.</td>
+    </tr>
+    <tr>
+      <td>Extract wall / cost</td>
+      <td>171s / $1.86</td>
+      <td>514s / $0.30</td>
+      <td>n/a / ~$5.00 est.</td>
+      <td>n/a / ~$9.52 est.</td>
+    </tr>
+    <tr>
+      <td>Total wall / cost</td>
+      <td><strong>316s / $2.36</strong></td>
+      <td>765s / $0.37</td>
+      <td>n/a / <strong>~$6.00 est.</strong></td>
+      <td>n/a / <strong>~$11.21 est.</strong></td>
+    </tr>
+    <tr>
+      <td>Cost per review completed</td>
+      <td><strong>$0.0106</strong> ($2.36 / 223)</td>
+      <td><strong>$0.0017</strong> ($0.37 / 219)</td>
+      <td>~$0.0269 est. ($6.00 / 223)</td>
+      <td>~$0.0503 est. ($11.21 / 223)</td>
+    </tr>
+    <tr>
+      <td>% under $6 / % under 25 min</td>
+      <td>61% / 79%</td>
+      <td>94% / 49%</td>
+      <td>~0% under $6 / n/a</td>
+      <td>~87% over $6 / n/a</td>
+    </tr>
+    <tr>
+      <td>Extract tokens (p/c)</td>
+      <td>709,412 / 21,877</td>
+      <td>387,670 / 48,522</td>
+      <td>envelope 709,412 / 48,522</td>
+      <td>envelope 709,412 / 48,522</td>
+    </tr>
+    <tr>
+      <td>Taxonomy S/M/Sp</td>
+      <td>7 / 20 / 47</td>
+      <td>8 / 21 / 39</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Flat rows / themed reviews</td>
+      <td>316 / 193</td>
+      <td>306 / 189</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Failed reviews</td>
+      <td>0</td>
+      <td>4 (non-JSON)</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>List $/1M in/out (compare UI)</td>
+      <td>$2.90 / $14</td>
+      <td>$0.60 / $1.50</td>
+      <td>$5 / $30</td>
+      <td>$10 / $50</td>
+    </tr>
+    <tr>
+      <td>AA Int / Code / Agentic</td>
+      <td>57 / 76 / 50</td>
+      <td>51 / 69 / 43</td>
+      <td>55 / 75 / 45</td>
+      <td>60 / 77 / 53</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Five outputs the pipeline got wrong</h2>
+<p class="caption" style="margin-top:0">From the shipped Kimi categorisation (same failure modes appear on GLM empties for short praise).</p>
+<table>
+  <thead>
+    <tr><th>Review</th><th>Pipeline said</th><th>Should have been</th><th>Design cause</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>rev-05e2a5f08c76</code><br/>“Fast, tidy, straight.”</td>
+      <td><em>empty</em></td>
+      <td>Operational / process speed subject</td>
+      <td>Ultra-short praise; model treats as pure sentiment despite coverage prompt.</td>
+    </tr>
+    <tr>
+      <td><code>rev-31150867dd30</code><br/>“Simple and fast. Both, which is rare.”</td>
+      <td><em>empty</em></td>
+      <td>Portal/process simplicity + speed</td>
+      <td>Same abstention bias on short dual-subject praise.</td>
+    </tr>
+    <tr>
+      <td><code>rev-f4742dc44a32</code><br/>“Bad service, plain and simple.”</td>
+      <td><em>empty</em></td>
+      <td>Support quality / professionalism path</td>
+      <td>Vague complaint without channel detail; model refuses to force a leaf.</td>
+    </tr>
+    <tr>
+      <td><code>rev-76c3011b2ca9</code><br/>Five-star reviews “same week”</td>
+      <td><em>empty</em></td>
+      <td>Trust / review authenticity (or leave empty)</td>
+      <td>No authenticity leaf in taxonomy: discovery never coined one.</td>
+    </tr>
+    <tr>
+      <td><code>rev-b8ab7985f6f8</code><br/>Product fits + credit-line adjust</td>
+      <td>Only credit-limit configuration</td>
+      <td>Credit flexibility <strong>and</strong> product usefulness</td>
+      <td>Under-assignment on two-clue reviews; sparse preference still wins sometimes.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>What I would do with another week</h2>
+<ul>
+  <li>Retry/JSON-repair loop for GLM-class structured-output failures (the 4 non-JSON reviews).</li>
+  <li>Second pass only on empty reviews that contain operational nouns (fast, fee, portal, advisor).</li>
+  <li>Add a recurring “review authenticity / trust in feedback” leaf if discovery keeps surfacing it.</li>
+  <li>Prompt-cache the taxonomy block to cut Kimi input cost.</li>
+  <li>Small hand-labelled calibration set to tune empty-vs-assign policy for 1–2 sentence reviews.</li>
+  <li>
+    Re-time on a dedicated server. These runs were on an active workstation with <strong>8&nbsp;GB RAM</strong>
+    (Chrome and other apps open during the test), so wall clock includes local contention. A quieter host with
+    more RAM/CPU: and larger discovery batch sizes / higher worker counts: could cut elapsed time further
+    without changing models.
+  </li>
+</ul>
+
+<h2>AI coding tools</h2>
+<p>
+  Cursor agent used to implement the pipeline, path repair, discovery prompts, and this NOTES file.
+  Theme vocabulary and model choice were validated against measured Kimi and GLM runs and the Compethic brief.
+</p>
+
+</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+mermaid.initialize({
+  startOnLoad: true,
+  theme: matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'default',
+  flowchart: { curve: 'basis', htmlLabels: true },
+  securityLevel: 'loose'
+});
+</script>
+<script>
+const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
+const textColor = isDark ? 'rgba(255,255,255,0.72)' : 'rgba(0,0,0,0.58)';
+const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.07)';
+const tickFont = { size: 13, weight: '500' };
+const baseOpts = {
+  responsive: true,
+  maintainAspectRatio: false,
+  devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
+  plugins: {
+    legend: { display: false, labels: { color: textColor, font: { size: 13 } } },
+    tooltip: { titleFont: { size: 14 }, bodyFont: { size: 13 } }
+  },
+  scales: {
+    x: {
+      ticks: { color: textColor, font: tickFont, maxRotation: 0, autoSkip: false },
+      grid: { color: gridColor },
+      border: { color: gridColor }
+    },
+    y: {
+      ticks: { color: textColor, font: { size: 13 } },
+      grid: { color: gridColor },
+      border: { color: gridColor }
+    }
+  }
+};
+
+new Chart(document.getElementById('runCompareChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Total cost ($)', 'Wall clock (min)', 'Coverage (%)', 'Failed reviews'],
+    datasets: [
+      { label: 'Kimi-k3', data: [2.36, 5.27, 86.5, 0], backgroundColor: '#1D9E75', borderRadius: 4 },
+      { label: 'GLM-5.2', data: [0.37, 12.75, 84.8, 4], backgroundColor: '#378ADD', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } },
+      tooltip: {
+        callbacks: {
+          label: (ctx) => {
+            const v = ctx.parsed.y;
+            const i = ctx.dataIndex;
+            if (i === 0) return ctx.dataset.label + ': $' + v.toFixed(2);
+            if (i === 1) return ctx.dataset.label + ': ' + v.toFixed(2) + ' min';
+            if (i === 2) return ctx.dataset.label + ': ' + v + '%';
+            return ctx.dataset.label + ': ' + v;
+          }
+        }
+      }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        beginAtZero: true,
+        title: { display: true, text: 'Mixed units: see tooltips', color: textColor, font: { size: 12 } }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('tokenChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Kimi-k3', 'GLM-5.2'],
+    datasets: [
+      { label: 'Prompt', data: [729660, 403058], backgroundColor: '#378ADD', borderRadius: 4 },
+      { label: 'Completion', data: [51587, 67611], backgroundColor: '#1D9E75', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } },
+      tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ': ' + ctx.parsed.y.toLocaleString() + ' tok' } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        ticks: {
+          ...baseOpts.scales.y.ticks,
+          callback: (v) => (v >= 1000 ? (v / 1000) + 'k' : v)
+        }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('budgetChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Kimi total', 'GLM total', '12 min target', '25 min gate'],
+    datasets: [{
+      label: 'Minutes',
+      data: [5.27, 12.75, 12, 25],
+      backgroundColor: ['#1D9E75', '#378ADD', '#BA7517', '#E24B4A'],
+      borderRadius: 4
+    }]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      tooltip: { callbacks: { label: (ctx) => ctx.parsed.y.toFixed(2) + ' min' } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        max: 28,
+        ticks: { ...baseOpts.scales.y.ticks, callback: (v) => v + 'm' }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('priceChart'), {
+  type: 'bar',
+  data: {
+    labels: ['GLM 5.2', 'Kimi K3', 'GPT-5.5', 'Fable 5'],
+    datasets: [
+      { label: 'Input $/1M', data: [0.60, 2.90, 5.00, 10.00], backgroundColor: '#378ADD', borderRadius: 4 },
+      { label: 'Output $/1M', data: [1.50, 14.00, 30.00, 50.00], backgroundColor: '#BA7517', borderRadius: 4 },
+      { label: 'Cached in $/1M', data: [0.10, 0.29, 0.50, 1.00], backgroundColor: '#73726c', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } },
+      tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ': $' + ctx.parsed.y.toFixed(2) } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        title: { display: true, text: 'USD per 1M tokens', color: textColor, font: { size: 13 } },
+        ticks: { ...baseOpts.scales.y.ticks, callback: (v) => '$' + v }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('capabilityChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Intelligence', 'Coding', 'Agentic'],
+    datasets: [
+      { label: 'Claude Fable 5', data: [60, 77, 53], backgroundColor: '#C45C26', borderRadius: 4 },
+      { label: 'Kimi-k3', data: [57, 76, 50], backgroundColor: '#1D9E75', borderRadius: 4 },
+      { label: 'GPT-5.5', data: [55, 75, 45], backgroundColor: '#5B8DEF', borderRadius: 4 },
+      { label: 'GLM-5.2', data: [51, 69, 43], backgroundColor: '#534AB7', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        min: 0,
+        max: 100,
+        title: { display: true, text: 'Artificial Analysis score', color: textColor, font: { size: 13 } }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('estCostChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Kimi measured', 'GLM measured', 'GPT-5.5 est.', 'Fable 5 est.', '$6 gate'],
+    datasets: [{
+      label: 'Total USD',
+      data: [2.36, 0.37, 6.00, 11.21, 6.00],
+      backgroundColor: ['#1D9E75', '#378ADD', '#5B8DEF', '#C45C26', '#E24B4A'],
+      borderRadius: 4
+    }]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      tooltip: { callbacks: { label: (ctx) => '$' + ctx.parsed.y.toFixed(2) } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: {
+        ...baseOpts.scales.y,
+        beginAtZero: true,
+        title: { display: true, text: 'USD (full discover+extract)', color: textColor, font: { size: 13 } },
+        ticks: { ...baseOpts.scales.y.ticks, callback: (v) => '$' + v }
+      }
+    }
+  }
+});
+
+new Chart(document.getElementById('shapeChart'), {
+  type: 'bar',
+  data: {
+    labels: ['Strategic', 'Midlevel', 'Specific'],
+    datasets: [
+      { label: 'Kimi-k3', data: [7, 20, 47], backgroundColor: '#1D9E75', borderRadius: 4 },
+      { label: 'GLM-5.2', data: [8, 21, 39], backgroundColor: '#378ADD', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } },
+      tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ': ' + ctx.parsed.y + ' distinct' } }
+    },
+    scales: {
+      ...baseOpts.scales,
+      y: { ...baseOpts.scales.y, beginAtZero: true, ticks: { ...baseOpts.scales.y.ticks, stepSize: 10 } }
+    }
+  }
+});
+
+new Chart(document.getElementById('spreadChart'), {
+  type: 'bar',
+  data: {
+    labels: ['0 themes', '1', '2', '3', '4'],
+    datasets: [
+      { label: 'Kimi-k3', data: [30, 100, 64, 28, 1], backgroundColor: '#1D9E75', borderRadius: 4 },
+      { label: 'GLM-5.2', data: [34, 99, 65, 23, 2], backgroundColor: '#378ADD', borderRadius: 4 }
+    ]
+  },
+  options: {
+    ...baseOpts,
+    plugins: {
+      ...baseOpts.plugins,
+      legend: { display: true, labels: { color: textColor, font: { size: 13 } } },
+      tooltip: { callbacks: { label: (ctx) => ctx.dataset.label + ': ' + ctx.parsed.y + ' reviews' } }
+    },
+    scales: { ...baseOpts.scales, y: { ...baseOpts.scales.y, beginAtZero: true } }
+  }
+});
+</script>
+</body>
+</html>
