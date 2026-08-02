@@ -1,0 +1,335 @@
+{
+  "strategic": [
+    {
+      "definition": "Clarity, fairness, and competitiveness of all fees, rates, and price changes across the customer lifecycle.",
+      "midlevel": [
+        {
+          "definition": "Disclosure, justification, and communication of fees, rates, and price changes.",
+          "name": "Fee & rate transparency",
+          "specific": [
+            {
+              "definition": "Presence, clarity, and justification of establishment, administration, instalment, and other fees tied to invoice financing and account use.",
+              "name": "Unexplained or undisclosed fees"
+            },
+            {
+              "definition": "Whether quoted, displayed, or calculator-based rates match the effective interest costs customers ultimately face.",
+              "name": "Quoted vs effective rate consistency"
+            },
+            {
+              "definition": "Clarity of fee structures and correctness of fee invoicing in day-to-day operations.",
+              "name": "Fee complexity and invoice accuracy"
+            },
+            {
+              "definition": "Whether and how far in advance customers are informed of interest-rate changes on existing facilities.",
+              "name": "Rate-change notice on existing facilities"
+            }
+          ]
+        },
+        {
+          "definition": "How customers perceive total cost relative to alternatives and competitors.",
+          "name": "Pricing competitiveness",
+          "specific": [
+            {
+              "definition": "Overall value perception weighing interest rates against add-on fees compared to alternative financing providers.",
+              "name": "Rate vs fee trade-off vs competitors"
+            }
+          ]
+        }
+      ],
+      "name": "Pricing & Fees"
+    },
+    {
+      "definition": "Usability, reliability, feature breadth, and integration depth of the online portal, mobile app, and self-service tools.",
+      "midlevel": [
+        {
+          "definition": "Speed, stability, and feature completeness of the online banking portal and mobile app.",
+          "name": "Portal usability & performance",
+          "specific": [
+            {
+              "definition": "Portal responsiveness, uptime, and freedom from crashes or incorrect balance displays.",
+              "name": "Portal speed and reliability"
+            },
+            {
+              "definition": "Breadth of features available in the online portal and mobile app, including gaps in app scope versus web.",
+              "name": "Portal feature completeness"
+            },
+            {
+              "definition": "Ease of login, authentication friction, and access to the digital channel.",
+              "name": "Login friction and access issues"
+            }
+          ]
+        },
+        {
+          "definition": "Whether digital channels can resolve issues independently and at all hours.",
+          "name": "Self-service & digital resolution",
+          "specific": [
+            {
+              "definition": "Effectiveness of chatbot, app, and portal self-service tools in resolving customer issues without human escalation.",
+              "name": "Chatbot and portal self-service capability"
+            }
+          ]
+        },
+        {
+          "definition": "Reliability and depth of third-party connections and access controls within digital tools.",
+          "name": "Integrations & access control",
+          "specific": [
+            {
+              "definition": "Reliability and setup ease of connections to accounting platforms such as Bokfør, including automated invoice flow.",
+              "name": "Accounting software connectivity"
+            },
+            {
+              "definition": "Granularity of role-based access control and accountant access within the bank's digital tools.",
+              "name": "User permission and role-based access"
+            },
+            {
+              "definition": "Availability and functional scope of the mobile app relative to the web portal.",
+              "name": "Mobile app availability and scope"
+            }
+          ]
+        }
+      ],
+      "name": "Digital Experience & Platform"
+    },
+    {
+      "definition": "Speed, accessibility, expertise, and continuity of customer-facing staff and support channels.",
+      "midlevel": [
+        {
+          "definition": "Speed and ease of reaching human help across phone, email, and chat channels.",
+          "name": "Support response & accessibility",
+          "specific": [
+            {
+              "definition": "Timeliness and reliability of replies to customer inquiries across email, chat, and case-management systems.",
+              "name": "Support reply speed across channels"
+            },
+            {
+              "definition": "Phone queue lengths, callback reliability, and ease of reaching a human agent.",
+              "name": "Phone queue wait and reachability"
+            }
+          ]
+        },
+        {
+          "definition": "Quality of advice, problem-solving attitude, and consistency of answers across staff.",
+          "name": "Staff helpfulness & advisory quality",
+          "specific": [
+            {
+              "definition": "Solution-orientation, expertise, and willingness of advisors to help solve customer problems.",
+              "name": "Advisor solution-orientation"
+            },
+            {
+              "definition": "Tone, accuracy, and consistency of staff responses across phone, email, and chat channels.",
+              "name": "Staff tone and reply consistency"
+            }
+          ]
+        },
+        {
+          "definition": "Continuity of named advisor relationships and case handover quality.",
+          "name": "Advisor continuity & case handover",
+          "specific": [
+            {
+              "definition": "Availability of a named advisor and whether case handovers cause repeated information requests or restarts.",
+              "name": "Advisor availability and case handover"
+            },
+            {
+              "definition": "Impact of staff turnover on customer commitments, relationship continuity, and case progress.",
+              "name": "Staff turnover impact on commitments"
+            },
+            {
+              "definition": "Advisor familiarity with the customer's business, proactive outreach, and follow-through after initial contact.",
+              "name": "Advisor proactive contact and follow-through"
+            }
+          ]
+        }
+      ],
+      "name": "Customer Support & Relationship"
+    },
+    {
+      "definition": "Speed, reliability, and transparency of application processing, credit decisions, and fund disbursement.",
+      "midlevel": [
+        {
+          "definition": "Time and clarity from application submission through credit decision to funding.",
+          "name": "Application & decision turnaround",
+          "specific": [
+            {
+              "definition": "How long application processing and credit decisions take compared to advertised or promised timelines.",
+              "name": "Processing time vs promised timeline"
+            },
+            {
+              "definition": "Speed and transparency of both rapid approvals and prolonged or unclear rejections, including for start-ups.",
+              "name": "Approval and rejection turnaround time"
+            },
+            {
+              "definition": "Overall speed of the application-to-funding pipeline from the customer's perspective.",
+              "name": "Application processing speed"
+            },
+            {
+              "definition": "Volume and appropriateness of document requests during onboarding and ongoing use.",
+              "name": "Document requirements and burden"
+            }
+          ]
+        },
+        {
+          "definition": "Speed and reliability of fund disbursement once approved.",
+          "name": "Payout & disbursement",
+          "specific": [
+            {
+              "definition": "Time elapsed from invoice submission or approval to funds reaching the customer's account.",
+              "name": "Invoice-to-payout turnaround"
+            },
+            {
+              "definition": "Consistency and reliability of disbursement timing, from same-day to multi-day delays.",
+              "name": "Disbursement reliability"
+            }
+          ]
+        },
+        {
+          "definition": "Speed and reliability of administrative changes to existing accounts.",
+          "name": "Account administrative changes",
+          "specific": [
+            {
+              "definition": "Processing speed and reliability for updates, amendments, and administrative changes on active accounts.",
+              "name": "Account administrative change processing"
+            }
+          ]
+        }
+      ],
+      "name": "Service Delivery & Processing"
+    },
+    {
+      "definition": "How credit limits are set, communicated, and changed, and how repayment and hardship are handled.",
+      "midlevel": [
+        {
+          "definition": "Credit-limit decisions, eligibility criteria, and lifecycle changes to facilities.",
+          "name": "Credit assessment & limit decisions",
+          "specific": [
+            {
+              "definition": "How credit limits are set, communicated, and changed, including eligibility filters and renewal reductions.",
+              "name": "Credit limit transparency and eligibility criteria"
+            },
+            {
+              "definition": "Unannounced or poorly communicated changes to credit limits, fees, and credit-check frequency during the customer lifecycle.",
+              "name": "Unannounced credit line and fee adjustments"
+            }
+          ]
+        },
+        {
+          "definition": "Flexibility in repayment timing, deferrals, and seasonal adjustments.",
+          "name": "Repayment flexibility & hardship",
+          "specific": [
+            {
+              "definition": "How the bank accommodates repayment timing, deferrals, seasonal adjustments, and credit-line changes without full reapplication.",
+              "name": "Repayment plan adaptation and deferrals"
+            }
+          ]
+        },
+        {
+          "definition": "Handling of missed payments, collections, and payment-plan arrangements.",
+          "name": "Late payment & collections",
+          "specific": [
+            {
+              "definition": "How the bank handles missed payments, including reminder fees, collections notices, and willingness to arrange payment plans.",
+              "name": "Reminder fees and payment-plan availability"
+            }
+          ]
+        }
+      ],
+      "name": "Credit & Repayment Management"
+    },
+    {
+      "definition": "Consistency, clarity, and accessibility of information, terms, and records provided to customers.",
+      "midlevel": [
+        {
+          "definition": "Whether information is consistent across website, chatbot, advisors, and marketing materials.",
+          "name": "Cross-channel information alignment",
+          "specific": [
+            {
+              "definition": "Whether terms, pricing, and procedures are consistent across website, chatbot, and human advisors.",
+              "name": "Website vs advisor discrepancies"
+            }
+          ]
+        },
+        {
+          "definition": "Clarity and honesty of decisions, terms, and marketing claims communicated to customers.",
+          "name": "Decision & term transparency",
+          "specific": [
+            {
+              "definition": "Clarity and honesty of marketing claims, eligibility criteria, rejection reasons, and post-signing term changes.",
+              "name": "Assessment rationale and marketing-claim accuracy"
+            },
+            {
+              "definition": "Clarity and timeliness of status updates, eligibility criteria, product terms, and interest calculations communicated during the customer journey.",
+              "name": "Status updates and term transparency"
+            }
+          ]
+        },
+        {
+          "definition": "Availability of historical records, statements, and exportable data.",
+          "name": "Documentation & records access",
+          "specific": [
+            {
+              "definition": "Customers' ability to obtain account statements, historical records, and exportable data files from the bank.",
+              "name": "Account statement and data export availability"
+            },
+            {
+              "definition": "Appropriateness and clarity of document requests during onboarding and ongoing use.",
+              "name": "Document request appropriateness"
+            }
+          ]
+        }
+      ],
+      "name": "Information & Transparency"
+    },
+    {
+      "definition": "Correctness of day-to-day operations and ease of account closure or exit.",
+      "midlevel": [
+        {
+          "definition": "Steps, timelines, and obstacles when closing accounts or exiting contracts.",
+          "name": "Account closure & exit",
+          "specific": [
+            {
+              "definition": "Friction, timelines, residual invoicing, and break fees customers face when attempting to close accounts or exit contracts.",
+              "name": "Closure friction and post-closure billing"
+            }
+          ]
+        },
+        {
+          "definition": "Correctness of invoices, balances, and customer data in routine operations.",
+          "name": "Billing & account accuracy",
+          "specific": [
+            {
+              "definition": "Correctness of invoices, account balances, and customer address data in day-to-day operations.",
+              "name": "Invoice addressing and balance display"
+            }
+          ]
+        }
+      ],
+      "name": "Account Lifecycle & Operations"
+    },
+    {
+      "definition": "Whether financing products fit diverse business needs and how the bank approaches outbound selling.",
+      "midlevel": [
+        {
+          "definition": "Fit of loan amounts, binding periods, and facility structures to varying business profiles.",
+          "name": "Product suitability & flexibility",
+          "specific": [
+            {
+              "definition": "Whether loan amounts, binding periods, and facility structures fit companies of varying sizes and seasonal patterns.",
+              "name": "Loan limits, binding periods, and seasonal adaptation"
+            }
+          ]
+        },
+        {
+          "definition": "How the bank approaches outbound selling and whether customers feel pushed unneeded products.",
+          "name": "Sales practices",
+          "specific": [
+            {
+              "definition": "Whether outbound selling approaches feel appropriate or push products customers do not need.",
+              "name": "Unsolicited product selling"
+            }
+          ]
+        }
+      ],
+      "name": "Product Fit & Sales Practices"
+    }
+  ],
+  "version": "merged-v1"
+}

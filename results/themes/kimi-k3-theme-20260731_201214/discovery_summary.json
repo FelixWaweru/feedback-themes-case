@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "model": "moonshotai/kimi-k3",
+  "theme_dir": "feedback-themes-case/out/themes/theme-20260731_201214",
+  "batches_total": 9,
+  "batches_failed": 0,
+  "candidate_themes": 45,
+  "taxonomy_counts": {
+    "strategic": 7,
+    "midlevel": 20,
+    "specific": 47
+  },
+  "wall_clock_seconds": 145.187,
+  "cost_usd": 0.503249,
+  "prompt_tokens": 20248,
+  "completion_tokens": 29710,
+  "files": {
+    "theme_dir_themes": "feedback-themes-case/out/themes/theme-20260731_201214/themes.json",
+    "theme_dir_theme_set": "feedback-themes-case/out/themes/theme-20260731_201214/theme_set.md",
+    "theme_dir_batches": "feedback-themes-case/out/themes/theme-20260731_201214/discovery_batches.json",
+    "theme_dir_summary": "feedback-themes-case/out/themes/theme-20260731_201214/discovery_summary.json",
+    "stable_themes": "feedback-themes-case/data/themes.json",
+    "stable_theme_set": "feedback-themes-case/data/theme_set.md",
+    "stable_batches": "feedback-themes-case/data/discovery_batches.json",
+    "stable_summary": "feedback-themes-case/data/discovery_summary.json"
+  }
+}

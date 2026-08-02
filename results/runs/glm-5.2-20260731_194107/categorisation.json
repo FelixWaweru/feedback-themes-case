@@ -1,0 +1,3461 @@
+{
+  "theme_set_version": "merged-v1",
+  "model": "z-ai/glm-5.2",
+  "reviews": [
+    {
+      "review_id": "rev-022df9d51402",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-023b86dc1a81",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-03c961106bd8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-03e188209ff0",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-04cfaba2570d",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0572bcf24ec2",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-05e2a5f08c76",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-064204a3ec72",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-067c12bb90eb",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0cc6ffebee43",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0cff33b4221a",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Disbursement reliability",
+          "path": "Service Delivery & Processing > Payout & disbursement > Disbursement reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0d4d3326d84f",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0da14c238e68",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Rate-change notice on existing facilities",
+          "path": "Pricing & Fees > Fee & rate transparency > Rate-change notice on existing facilities"
+        },
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Unannounced credit line and fee adjustments",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Unannounced credit line and fee adjustments"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0e542f157238",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-0eed1ff3aeca",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Login friction and access issues",
+          "path": "Digital Experience & Platform > Portal usability & performance > Login friction and access issues"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-10419dfefd6f",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1440fb510a12",
+      "rating": 4,
+      "themes": []
+    },
+    {
+      "review_id": "rev-153d7a7b52ea",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Unannounced credit line and fee adjustments",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Unannounced credit line and fee adjustments"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-174fd2a981c0",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-187597d74b69",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Staff turnover impact on commitments",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Staff turnover impact on commitments"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-18d47a0ae41c",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Staff turnover impact on commitments",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Staff turnover impact on commitments"
+        },
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1b45a4d32841",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1b69c895034e",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1ccd2042a6e7",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal feature completeness",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal feature completeness"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1e836db51c9d",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Document request appropriateness",
+          "path": "Information & Transparency > Documentation & records access > Document request appropriateness"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1ecc4c82dc14",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal feature completeness",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal feature completeness"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1f58552c5cb5",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-1fd8954c6851",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-222b3a70633d",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-2324c08e3ac1",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-24b838bbb089",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Login friction and access issues",
+          "path": "Digital Experience & Platform > Portal usability & performance > Login friction and access issues"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2594378ac75b",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Fee complexity and invoice accuracy",
+          "path": "Pricing & Fees > Fee & rate transparency > Fee complexity and invoice accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-282352c8f1f0",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-285e4562bdaa",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2883e5932538",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-295c5037054b",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-29c446ed04cb",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2acf9f0b7c20",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2bd9709a44c8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "User permission and role-based access",
+          "path": "Digital Experience & Platform > Integrations & access control > User permission and role-based access"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2f4968e59d9e",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-2fd621fbea32",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-2fed72e83b33",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-30726de0f472",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-30b3d910c05a",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-31150867dd30",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3178d2b84479",
+      "rating": 3,
+      "themes": []
+    },
+    {
+      "review_id": "rev-31ae0a0865a5",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-329becd809d6",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-332eedbbd3e4",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3567c579485f",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Document request appropriateness",
+          "path": "Information & Transparency > Documentation & records access > Document request appropriateness"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-35d7d7f97866",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-35e4632026e8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        },
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3922e1f0cbf7",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3bbf45ab5aad",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3dfd1e51e455",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3e024af70da7",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-3e6ca3a10ffc",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-40c491735c6b",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        },
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4212d8273d6c",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-45db4ba226a2",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4653bbac0eef",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4876e70eb4ef",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Fee complexity and invoice accuracy",
+          "path": "Pricing & Fees > Fee & rate transparency > Fee complexity and invoice accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4a039d450c57",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Rate-change notice on existing facilities",
+          "path": "Pricing & Fees > Fee & rate transparency > Rate-change notice on existing facilities"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4c901b680c93",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4d03805dfb1e",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Disbursement reliability",
+          "path": "Service Delivery & Processing > Payout & disbursement > Disbursement reliability"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-4ed1c0d4f96f",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-50bb05811c71",
+      "rating": 3,
+      "themes": []
+    },
+    {
+      "review_id": "rev-53170485204b",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5354c4c196db",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Phone queue wait and reachability",
+          "path": "Customer Support & Relationship > Support response & accessibility > Phone queue wait and reachability"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-55b96506cde8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5652993ee8a6",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-56a3968e66a7",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-56fb7df7bfe5",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-598363e7a51d",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5a7171b6289b",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5b78ffceb6f6",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-5be2b33a91fe",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5cc959cfbc14",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor availability and case handover",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor availability and case handover"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5ce37c250947",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-5d91e7d0b839",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-5e7ccc2378ef",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-600acf0222a3",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Sales practices",
+          "specific_theme": "Unsolicited product selling",
+          "path": "Product Fit & Sales Practices > Sales practices > Unsolicited product selling"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-612ad4bedba7",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-6373a1a30776",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-639e1e30f2a5",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-64b0877f861d",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Cross-channel information alignment",
+          "specific_theme": "Website vs advisor discrepancies",
+          "path": "Information & Transparency > Cross-channel information alignment > Website vs advisor discrepancies"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-656bcbc11f28",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-66f48db8e806",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-67124654d676",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Staff turnover impact on commitments",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Staff turnover impact on commitments"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Processing time vs promised timeline",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Processing time vs promised timeline"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-686592de9071",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-6ad01cdd3eb3",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-6cc04997a711",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-6d35d82a9188",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-6d5d8fe73e4c",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-6dbd760a634d",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Login friction and access issues",
+          "path": "Digital Experience & Platform > Portal usability & performance > Login friction and access issues"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-706ecdc3768f",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Unannounced credit line and fee adjustments",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Unannounced credit line and fee adjustments"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-707d2c985727",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Login friction and access issues",
+          "path": "Digital Experience & Platform > Portal usability & performance > Login friction and access issues"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-726409b53680",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor availability and case handover",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor availability and case handover"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-734731adf217",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-73b4ab9db41f",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "User permission and role-based access",
+          "path": "Digital Experience & Platform > Integrations & access control > User permission and role-based access"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-7512fcdad348",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-761fe14307f6",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-76c3011b2ca9",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-770b5357ee54",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-7765bb085b22",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-791c08f22ece",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-7ebe986428db",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-7f7563bde13e",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Processing time vs promised timeline",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Processing time vs promised timeline"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-80da4e33302c",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-80feb11841e7",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-813602e7e748",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-824375a933e6",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-83833ecb43d3",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-83df8eb64bcc",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-855cf7fb495c",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-8b174d7f5ee8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-8b9fa1e00feb",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Documentation & records access",
+          "specific_theme": "Account statement and data export availability",
+          "path": "Information & Transparency > Documentation & records access > Account statement and data export availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-8c0872265e1d",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-8c49d85c1f70",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-8c6e6cf270f9",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal feature completeness",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal feature completeness"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-8e88413f3f7f",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-905ddbd723bc",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-924c64d7715b",
+      "rating": 4,
+      "themes": []
+    },
+    {
+      "review_id": "rev-9278ebae141c",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-92f5125068ca",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9323d2bf76cb",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9326017b404c",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-948d62bc3bf9",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-978939a63827",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "User permission and role-based access",
+          "path": "Digital Experience & Platform > Integrations & access control > User permission and role-based access"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-97a2b3f350ff",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-97b69d945e5b",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9b5925d94244",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9cc853b7c246",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9e2ccd454d88",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Fee complexity and invoice accuracy",
+          "path": "Pricing & Fees > Fee & rate transparency > Fee complexity and invoice accuracy"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-9fbd5757d94d",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a02bbf85613d",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a1533a7de6af",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Processing time vs promised timeline",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Processing time vs promised timeline"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a2b719d632cf",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a3307f97e636",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a3a4891f696e",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a7ba7b47d684",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Sales practices",
+          "specific_theme": "Unsolicited product selling",
+          "path": "Product Fit & Sales Practices > Sales practices > Unsolicited product selling"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-a8c4942bfbda",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-aa78098b5220",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-abaa9b8ef682",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-ac14589c4894",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-ac5672b8626c",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-aefb8c0dfdab",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Phone queue wait and reachability",
+          "path": "Customer Support & Relationship > Support response & accessibility > Phone queue wait and reachability"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-aefd165ea585",
+      "rating": 4,
+      "themes": []
+    },
+    {
+      "review_id": "rev-af5f0f4c5738",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Billing & account accuracy",
+          "specific_theme": "Invoice addressing and balance display",
+          "path": "Account Lifecycle & Operations > Billing & account accuracy > Invoice addressing and balance display"
+        },
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b09e5dee945e",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Sales practices",
+          "specific_theme": "Unsolicited product selling",
+          "path": "Product Fit & Sales Practices > Sales practices > Unsolicited product selling"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b4d0ead5dc0a",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-b6fda0d585e6",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b71ef45aef23",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        },
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b74a731add88",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-b768a978b895",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b78ef3095a72",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b8ab7985f6f8",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-b9d27d67f70d",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-bd0f4ecfcb6e",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor availability and case handover",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor availability and case handover"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-be44695beb61",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c0b01902ac5b",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c0e2adc51df2",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c1a8a1149135",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Processing time vs promised timeline",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Processing time vs promised timeline"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c20a6dd65930",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c358dd363166",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Staff turnover impact on commitments",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Staff turnover impact on commitments"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Cross-channel information alignment",
+          "specific_theme": "Website vs advisor discrepancies",
+          "path": "Information & Transparency > Cross-channel information alignment > Website vs advisor discrepancies"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c4a71cb33578",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "User permission and role-based access",
+          "path": "Digital Experience & Platform > Integrations & access control > User permission and role-based access"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c5898ec48fa3",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-c59f0ee4ca75",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-cac4e5910217",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-cc30da84390c",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ce33ea7da190",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-cf52481f7553",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d0b9e8123dc6",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d1cbf446c038",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal feature completeness",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal feature completeness"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d206bd2e0fff",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d22d3fd856cf",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor availability and case handover",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor availability and case handover"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d2b247072230",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        },
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d312ea251b29",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Accounting software connectivity",
+          "path": "Digital Experience & Platform > Integrations & access control > Accounting software connectivity"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d336cd7582c7",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d351246d1d7b",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-d578554ddd5c",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d7c30c2d657b",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-d84c2823d8b4",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d88e745c52c8",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Repayment flexibility & hardship",
+          "specific_theme": "Repayment plan adaptation and deferrals",
+          "path": "Credit & Repayment Management > Repayment flexibility & hardship > Repayment plan adaptation and deferrals"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-d8ae754d7571",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-dba8c8ddbded",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-dc4f275c9215",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-dca96d2b719c",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Credit limit transparency and eligibility criteria",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Credit limit transparency and eligibility criteria"
+        },
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-de2234910a3f",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-dfee5e1d8e0d",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-e0475d176f9d",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Disbursement reliability",
+          "path": "Service Delivery & Processing > Payout & disbursement > Disbursement reliability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e0a9b4470ec3",
+      "rating": 1,
+      "themes": []
+    },
+    {
+      "review_id": "rev-e11bfb4d7aeb",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Advisor continuity & case handover",
+          "specific_theme": "Advisor proactive contact and follow-through",
+          "path": "Customer Support & Relationship > Advisor continuity & case handover > Advisor proactive contact and follow-through"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e18ac8a3847d",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e1a11641f737",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Portal usability & performance",
+          "specific_theme": "Portal speed and reliability",
+          "path": "Digital Experience & Platform > Portal usability & performance > Portal speed and reliability"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e1e288b2122a",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Document requirements and burden",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Document requirements and burden"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e213b6681da5",
+      "rating": 3,
+      "themes": []
+    },
+    {
+      "review_id": "rev-e5b09cd30bc1",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Staff tone and reply consistency",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Staff tone and reply consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-e5c8b97a4003",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Account administrative changes",
+          "specific_theme": "Account administrative change processing",
+          "path": "Service Delivery & Processing > Account administrative changes > Account administrative change processing"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ea3121b09e0d",
+      "rating": 3,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ea4cc280e9cf",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Phone queue wait and reachability",
+          "path": "Customer Support & Relationship > Support response & accessibility > Phone queue wait and reachability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-eb5ea855fe49",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Support reply speed across channels",
+          "path": "Customer Support & Relationship > Support response & accessibility > Support reply speed across channels"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-eb742f5a177c",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Account administrative changes",
+          "specific_theme": "Account administrative change processing",
+          "path": "Service Delivery & Processing > Account administrative changes > Account administrative change processing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ecdd5de1e4b4",
+      "rating": 2,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Rate-change notice on existing facilities",
+          "path": "Pricing & Fees > Fee & rate transparency > Rate-change notice on existing facilities"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ed219d9064c3",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Account Lifecycle & Operations",
+          "midlevel_theme": "Account closure & exit",
+          "specific_theme": "Closure friction and post-closure billing",
+          "path": "Account Lifecycle & Operations > Account closure & exit > Closure friction and post-closure billing"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ed71ae20b459",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Approval and rejection turnaround time",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Approval and rejection turnaround time"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ef06ffe6226e",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-f04f75b142cc",
+      "rating": 5,
+      "themes": []
+    },
+    {
+      "review_id": "rev-f1d414cea416",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Integrations & access control",
+          "specific_theme": "Mobile app availability and scope",
+          "path": "Digital Experience & Platform > Integrations & access control > Mobile app availability and scope"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Payout & disbursement",
+          "specific_theme": "Invoice-to-payout turnaround",
+          "path": "Service Delivery & Processing > Payout & disbursement > Invoice-to-payout turnaround"
+        },
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-f216a3d34fba",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Staff helpfulness & advisory quality",
+          "specific_theme": "Advisor solution-orientation",
+          "path": "Customer Support & Relationship > Staff helpfulness & advisory quality > Advisor solution-orientation"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-f3178e0ab94b",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Unexplained or undisclosed fees",
+          "path": "Pricing & Fees > Fee & rate transparency > Unexplained or undisclosed fees"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Fee & rate transparency",
+          "specific_theme": "Quoted vs effective rate consistency",
+          "path": "Pricing & Fees > Fee & rate transparency > Quoted vs effective rate consistency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-f4742dc44a32",
+      "rating": 2,
+      "themes": []
+    },
+    {
+      "review_id": "rev-f8ed3a0e48d8",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Late payment & collections",
+          "specific_theme": "Reminder fees and payment-plan availability",
+          "path": "Credit & Repayment Management > Late payment & collections > Reminder fees and payment-plan availability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-fa4952b46905",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Customer Support & Relationship",
+          "midlevel_theme": "Support response & accessibility",
+          "specific_theme": "Phone queue wait and reachability",
+          "path": "Customer Support & Relationship > Support response & accessibility > Phone queue wait and reachability"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-fa7c7117e1e1",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-fb16c342b8bb",
+      "rating": 5,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        },
+        {
+          "strategic_theme": "Service Delivery & Processing",
+          "midlevel_theme": "Application & decision turnaround",
+          "specific_theme": "Application processing speed",
+          "path": "Service Delivery & Processing > Application & decision turnaround > Application processing speed"
+        },
+        {
+          "strategic_theme": "Pricing & Fees",
+          "midlevel_theme": "Pricing competitiveness",
+          "specific_theme": "Rate vs fee trade-off vs competitors",
+          "path": "Pricing & Fees > Pricing competitiveness > Rate vs fee trade-off vs competitors"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-fe000e556ab6",
+      "rating": 4,
+      "themes": [
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-fe42435eea5a",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Product Fit & Sales Practices",
+          "midlevel_theme": "Product suitability & flexibility",
+          "specific_theme": "Loan limits, binding periods, and seasonal adaptation",
+          "path": "Product Fit & Sales Practices > Product suitability & flexibility > Loan limits, binding periods, and seasonal adaptation"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Status updates and term transparency",
+          "path": "Information & Transparency > Decision & term transparency > Status updates and term transparency"
+        }
+      ]
+    },
+    {
+      "review_id": "rev-ff00c2ae9405",
+      "rating": 1,
+      "themes": [
+        {
+          "strategic_theme": "Credit & Repayment Management",
+          "midlevel_theme": "Credit assessment & limit decisions",
+          "specific_theme": "Unannounced credit line and fee adjustments",
+          "path": "Credit & Repayment Management > Credit assessment & limit decisions > Unannounced credit line and fee adjustments"
+        },
+        {
+          "strategic_theme": "Digital Experience & Platform",
+          "midlevel_theme": "Self-service & digital resolution",
+          "specific_theme": "Chatbot and portal self-service capability",
+          "path": "Digital Experience & Platform > Self-service & digital resolution > Chatbot and portal self-service capability"
+        },
+        {
+          "strategic_theme": "Information & Transparency",
+          "midlevel_theme": "Decision & term transparency",
+          "specific_theme": "Assessment rationale and marketing-claim accuracy",
+          "path": "Information & Transparency > Decision & term transparency > Assessment rationale and marketing-claim accuracy"
+        }
+      ]
+    }
+  ],
+  "theme_registry": {
+    "strategic": [
+      {
+        "definition": "Clarity, fairness, and competitiveness of all fees, rates, and price changes across the customer lifecycle.",
+        "midlevel": [
+          {
+            "definition": "Disclosure, justification, and communication of fees, rates, and price changes.",
+            "name": "Fee & rate transparency",
+            "specific": [
+              {
+                "definition": "Presence, clarity, and justification of establishment, administration, instalment, and other fees tied to invoice financing and account use.",
+                "name": "Unexplained or undisclosed fees"
+              },
+              {
+                "definition": "Whether quoted, displayed, or calculator-based rates match the effective interest costs customers ultimately face.",
+                "name": "Quoted vs effective rate consistency"
+              },
+              {
+                "definition": "Clarity of fee structures and correctness of fee invoicing in day-to-day operations.",
+                "name": "Fee complexity and invoice accuracy"
+              },
+              {
+                "definition": "Whether and how far in advance customers are informed of interest-rate changes on existing facilities.",
+                "name": "Rate-change notice on existing facilities"
+              }
+            ]
+          },
+          {
+            "definition": "How customers perceive total cost relative to alternatives and competitors.",
+            "name": "Pricing competitiveness",
+            "specific": [
+              {
+                "definition": "Overall value perception weighing interest rates against add-on fees compared to alternative financing providers.",
+                "name": "Rate vs fee trade-off vs competitors"
+              }
+            ]
+          }
+        ],
+        "name": "Pricing & Fees"
+      },
+      {
+        "definition": "Usability, reliability, feature breadth, and integration depth of the online portal, mobile app, and self-service tools.",
+        "midlevel": [
+          {
+            "definition": "Speed, stability, and feature completeness of the online banking portal and mobile app.",
+            "name": "Portal usability & performance",
+            "specific": [
+              {
+                "definition": "Portal responsiveness, uptime, and freedom from crashes or incorrect balance displays.",
+                "name": "Portal speed and reliability"
+              },
+              {
+                "definition": "Breadth of features available in the online portal and mobile app, including gaps in app scope versus web.",
+                "name": "Portal feature completeness"
+              },
+              {
+                "definition": "Ease of login, authentication friction, and access to the digital channel.",
+                "name": "Login friction and access issues"
+              }
+            ]
+          },
+          {
+            "definition": "Whether digital channels can resolve issues independently and at all hours.",
+            "name": "Self-service & digital resolution",
+            "specific": [
+              {
+                "definition": "Effectiveness of chatbot, app, and portal self-service tools in resolving customer issues without human escalation.",
+                "name": "Chatbot and portal self-service capability"
+              }
+            ]
+          },
+          {
+            "definition": "Reliability and depth of third-party connections and access controls within digital tools.",
+            "name": "Integrations & access control",
+            "specific": [
+              {
+                "definition": "Reliability and setup ease of connections to accounting platforms such as Bokfør, including automated invoice flow.",
+                "name": "Accounting software connectivity"
+              },
+              {
+                "definition": "Granularity of role-based access control and accountant access within the bank's digital tools.",
+                "name": "User permission and role-based access"
+              },
+              {
+                "definition": "Availability and functional scope of the mobile app relative to the web portal.",
+                "name": "Mobile app availability and scope"
+              }
+            ]
+          }
+        ],
+        "name": "Digital Experience & Platform"
+      },
+      {
+        "definition": "Speed, accessibility, expertise, and continuity of customer-facing staff and support channels.",
+        "midlevel": [
+          {
+            "definition": "Speed and ease of reaching human help across phone, email, and chat channels.",
+            "name": "Support response & accessibility",
+            "specific": [
+              {
+                "definition": "Timeliness and reliability of replies to customer inquiries across email, chat, and case-management systems.",
+                "name": "Support reply speed across channels"
+              },
+              {
+                "definition": "Phone queue lengths, callback reliability, and ease of reaching a human agent.",
+                "name": "Phone queue wait and reachability"
+              }
+            ]
+          },
+          {
+            "definition": "Quality of advice, problem-solving attitude, and consistency of answers across staff.",
+            "name": "Staff helpfulness & advisory quality",
+            "specific": [
+              {
+                "definition": "Solution-orientation, expertise, and willingness of advisors to help solve customer problems.",
+                "name": "Advisor solution-orientation"
+              },
+              {
+                "definition": "Tone, accuracy, and consistency of staff responses across phone, email, and chat channels.",
+                "name": "Staff tone and reply consistency"
+              }
+            ]
+          },
+          {
+            "definition": "Continuity of named advisor relationships and case handover quality.",
+            "name": "Advisor continuity & case handover",
+            "specific": [
+              {
+                "definition": "Availability of a named advisor and whether case handovers cause repeated information requests or restarts.",
+                "name": "Advisor availability and case handover"
+              },
+              {
+                "definition": "Impact of staff turnover on customer commitments, relationship continuity, and case progress.",
+                "name": "Staff turnover impact on commitments"
+              },
+              {
+                "definition": "Advisor familiarity with the customer's business, proactive outreach, and follow-through after initial contact.",
+                "name": "Advisor proactive contact and follow-through"
+              }
+            ]
+          }
+        ],
+        "name": "Customer Support & Relationship"
+      },
+      {
+        "definition": "Speed, reliability, and transparency of application processing, credit decisions, and fund disbursement.",
+        "midlevel": [
+          {
+            "definition": "Time and clarity from application submission through credit decision to funding.",
+            "name": "Application & decision turnaround",
+            "specific": [
+              {
+                "definition": "How long application processing and credit decisions take compared to advertised or promised timelines.",
+                "name": "Processing time vs promised timeline"
+              },
+              {
+                "definition": "Speed and transparency of both rapid approvals and prolonged or unclear rejections, including for start-ups.",
+                "name": "Approval and rejection turnaround time"
+              },
+              {
+                "definition": "Overall speed of the application-to-funding pipeline from the customer's perspective.",
+                "name": "Application processing speed"
+              },
+              {
+                "definition": "Volume and appropriateness of document requests during onboarding and ongoing use.",
+                "name": "Document requirements and burden"
+              }
+            ]
+          },
+          {
+            "definition": "Speed and reliability of fund disbursement once approved.",
+            "name": "Payout & disbursement",
+            "specific": [
+              {
+                "definition": "Time elapsed from invoice submission or approval to funds reaching the customer's account.",
+                "name": "Invoice-to-payout turnaround"
+              },
+              {
+                "definition": "Consistency and reliability of disbursement timing, from same-day to multi-day delays.",
+                "name": "Disbursement reliability"
+              }
+            ]
+          },
+          {
+            "definition": "Speed and reliability of administrative changes to existing accounts.",
+            "name": "Account administrative changes",
+            "specific": [
+              {
+                "definition": "Processing speed and reliability for updates, amendments, and administrative changes on active accounts.",
+                "name": "Account administrative change processing"
+              }
+            ]
+          }
+        ],
+        "name": "Service Delivery & Processing"
+      },
+      {
+        "definition": "How credit limits are set, communicated, and changed, and how repayment and hardship are handled.",
+        "midlevel": [
+          {
+            "definition": "Credit-limit decisions, eligibility criteria, and lifecycle changes to facilities.",
+            "name": "Credit assessment & limit decisions",
+            "specific": [
+              {
+                "definition": "How credit limits are set, communicated, and changed, including eligibility filters and renewal reductions.",
+                "name": "Credit limit transparency and eligibility criteria"
+              },
+              {
+                "definition": "Unannounced or poorly communicated changes to credit limits, fees, and credit-check frequency during the customer lifecycle.",
+                "name": "Unannounced credit line and fee adjustments"
+              }
+            ]
+          },
+          {
+            "definition": "Flexibility in repayment timing, deferrals, and seasonal adjustments.",
+            "name": "Repayment flexibility & hardship",
+            "specific": [
+              {
+                "definition": "How the bank accommodates repayment timing, deferrals, seasonal adjustments, and credit-line changes without full reapplication.",
+                "name": "Repayment plan adaptation and deferrals"
+              }
+            ]
+          },
+          {
+            "definition": "Handling of missed payments, collections, and payment-plan arrangements.",
+            "name": "Late payment & collections",
+            "specific": [
+              {
+                "definition": "How the bank handles missed payments, including reminder fees, collections notices, and willingness to arrange payment plans.",
+                "name": "Reminder fees and payment-plan availability"
+              }
+            ]
+          }
+        ],
+        "name": "Credit & Repayment Management"
+      },
+      {
+        "definition": "Consistency, clarity, and accessibility of information, terms, and records provided to customers.",
+        "midlevel": [
+          {
+            "definition": "Whether information is consistent across website, chatbot, advisors, and marketing materials.",
+            "name": "Cross-channel information alignment",
+            "specific": [
+              {
+                "definition": "Whether terms, pricing, and procedures are consistent across website, chatbot, and human advisors.",
+                "name": "Website vs advisor discrepancies"
+              }
+            ]
+          },
+          {
+            "definition": "Clarity and honesty of decisions, terms, and marketing claims communicated to customers.",
+            "name": "Decision & term transparency",
+            "specific": [
+              {
+                "definition": "Clarity and honesty of marketing claims, eligibility criteria, rejection reasons, and post-signing term changes.",
+                "name": "Assessment rationale and marketing-claim accuracy"
+              },
+              {
+                "definition": "Clarity and timeliness of status updates, eligibility criteria, product terms, and interest calculations communicated during the customer journey.",
+                "name": "Status updates and term transparency"
+              }
+            ]
+          },
+          {
+            "definition": "Availability of historical records, statements, and exportable data.",
+            "name": "Documentation & records access",
+            "specific": [
+              {
+                "definition": "Customers' ability to obtain account statements, historical records, and exportable data files from the bank.",
+                "name": "Account statement and data export availability"
+              },
+              {
+                "definition": "Appropriateness and clarity of document requests during onboarding and ongoing use.",
+                "name": "Document request appropriateness"
+              }
+            ]
+          }
+        ],
+        "name": "Information & Transparency"
+      },
+      {
+        "definition": "Correctness of day-to-day operations and ease of account closure or exit.",
+        "midlevel": [
+          {
+            "definition": "Steps, timelines, and obstacles when closing accounts or exiting contracts.",
+            "name": "Account closure & exit",
+            "specific": [
+              {
+                "definition": "Friction, timelines, residual invoicing, and break fees customers face when attempting to close accounts or exit contracts.",
+                "name": "Closure friction and post-closure billing"
+              }
+            ]
+          },
+          {
+            "definition": "Correctness of invoices, balances, and customer data in routine operations.",
+            "name": "Billing & account accuracy",
+            "specific": [
+              {
+                "definition": "Correctness of invoices, account balances, and customer address data in day-to-day operations.",
+                "name": "Invoice addressing and balance display"
+              }
+            ]
+          }
+        ],
+        "name": "Account Lifecycle & Operations"
+      },
+      {
+        "definition": "Whether financing products fit diverse business needs and how the bank approaches outbound selling.",
+        "midlevel": [
+          {
+            "definition": "Fit of loan amounts, binding periods, and facility structures to varying business profiles.",
+            "name": "Product suitability & flexibility",
+            "specific": [
+              {
+                "definition": "Whether loan amounts, binding periods, and facility structures fit companies of varying sizes and seasonal patterns.",
+                "name": "Loan limits, binding periods, and seasonal adaptation"
+              }
+            ]
+          },
+          {
+            "definition": "How the bank approaches outbound selling and whether customers feel pushed unneeded products.",
+            "name": "Sales practices",
+            "specific": [
+              {
+                "definition": "Whether outbound selling approaches feel appropriate or push products customers do not need.",
+                "name": "Unsolicited product selling"
+              }
+            ]
+          }
+        ],
+        "name": "Product Fit & Sales Practices"
+      }
+    ],
+    "version": "merged-v1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "reviews_total": 223,
+  "reviews_processed": 223,
+  "reviews_failed": 0,
+  "assignment_rows": 316,
+  "errors": [],
+  "warnings": [],
+  "wall_clock_seconds": 171.491,
+  "cost_usd": 1.86078754,
+  "prompt_tokens": 709412,
+  "completion_tokens": 21877,
+  "model": "moonshotai/kimi-k3",
+  "output_dir": "feedback-themes-case/out/runs/20260731_201440",
+  "files": {
+    "run_categorisation": "feedback-themes-case/out/runs/20260731_201440/categorisation.json",
+    "run_flat": "feedback-themes-case/out/runs/20260731_201440/flat.json",
+    "run_summary_json": "feedback-themes-case/out/runs/20260731_201440/run_summary.json",
+    "run_summary_md": "feedback-themes-case/out/runs/20260731_201440/run_summary.md",
+    "stable_flat": "feedback-themes-case/out/flat.json",
+    "stable_categorisation": "feedback-themes-case/out/categorisation.json",
+    "stable_summary_json": "feedback-themes-case/out/run_summary.json",
+    "stable_summary_md": "feedback-themes-case/out/run_summary.md"
+  }
+}

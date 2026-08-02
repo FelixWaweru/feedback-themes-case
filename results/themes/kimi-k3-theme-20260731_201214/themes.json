@@ -1,0 +1,355 @@
+{
+  "version": "1.0",
+  "strategic": [
+    {
+      "name": "Customer Service & Advisory",
+      "definition": "How customers experience reaching, interacting with, and being followed up by support staff and advisors across all contact channels.",
+      "midlevel": [
+        {
+          "name": "Support responsiveness & follow-up",
+          "definition": "How quickly, reliably, and completely support answers customer inquiries and honors promised follow-ups.",
+          "specific": [
+            {
+              "name": "Reply speed across contact channels",
+              "definition": "How quickly the bank replies to emails, calls, and chat messages, from answers within minutes to many days of silence."
+            },
+            {
+              "name": "Callback and follow-up reliability",
+              "definition": "Whether promised callbacks, status follow-ups, and agreed next steps actually happen or never materialize."
+            },
+            {
+              "name": "Answer accuracy and completeness",
+              "definition": "Whether responses are correct, complete, and consistent, versus half-answers, wrong information, or cases left open."
+            }
+          ]
+        },
+        {
+          "name": "Access to support",
+          "definition": "How easy it is for customers to reach a human who can help when they need assistance.",
+          "specific": [
+            {
+              "name": "Reaching support and waiting times",
+              "definition": "Ease of getting through to support, including phone queues, chat availability outside office hours, and general accessibility."
+            },
+            {
+              "name": "Chatbot support and escalation to human staff",
+              "definition": "How well the chatbot resolves issues and whether customers can reach a human when the chatbot falls short."
+            }
+          ]
+        },
+        {
+          "name": "Advisor quality & relationship continuity",
+          "definition": "The competence, conduct, and continuity of advisors and contact persons over the course of the relationship.",
+          "specific": [
+            {
+              "name": "Advisor competence and business understanding",
+              "definition": "Whether advisors know the rules, understand the customer's business, and give tailored, solution-oriented advice."
+            },
+            {
+              "name": "Contact person continuity and handover quality",
+              "definition": "Whether customers keep the same contact person over time or face advisor turnover, repeated information requests, and poor handovers."
+            },
+            {
+              "name": "Professionalism and advisory orientation of staff",
+              "definition": "Whether interactions feel friendly, proactive, and genuinely advisory rather than pushy or sales-driven."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pricing & Contract Terms",
+      "definition": "How customers perceive the level, transparency, and predictability of rates, fees, and contractual conditions.",
+      "midlevel": [
+        {
+          "name": "Interest rates & total cost",
+          "definition": "Perceived level, competitiveness, and explanation of interest rates and the overall price of financing.",
+          "specific": [
+            {
+              "name": "Rate level and competitiveness",
+              "definition": "How high or competitive business credit and savings rates are perceived, including comparisons with competitors."
+            },
+            {
+              "name": "Advertised vs actual rates and pricing",
+              "definition": "Whether quoted or advertised 'from' rates and calculator figures match the final offer and agreement."
+            },
+            {
+              "name": "Clarity of interest calculation and rate explanations",
+              "definition": "Whether interest calculation, effective rates, and total financing costs are clearly explained."
+            }
+          ]
+        },
+        {
+          "name": "Fees & charges",
+          "definition": "The size, clarity, and predictability of fees charged on accounts and financing.",
+          "specific": [
+            {
+              "name": "Fee level and structure clarity",
+              "definition": "The size, number, and clarity of establishment, instalment, administration, and recurring monthly fees."
+            },
+            {
+              "name": "Fee predictability and disputed charges",
+              "definition": "Whether fees arrive as expected or appear as hidden, unexpected, or duplicate charges that customers dispute."
+            }
+          ]
+        },
+        {
+          "name": "Contract terms & changes",
+          "definition": "Transparency and fairness of binding periods, exit conditions, and changes to rates or credit terms.",
+          "specific": [
+            {
+              "name": "Lock-in periods and termination costs",
+              "definition": "Experiences with binding periods, notice of lock-in terms, break fees, and obstacles when ending an agreement early."
+            },
+            {
+              "name": "Notice of rate and credit-term changes",
+              "definition": "Whether rate increases and changes to credit terms are announced with reasonable notice and explanation or made without warning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Digital Experience & Technology",
+      "definition": "How well the bank's digital channels — portal, app, login, and integrations — work for everyday business banking.",
+      "midlevel": [
+        {
+          "name": "Platform reliability & access",
+          "definition": "Stability, speed, and availability of the portal, mobile app, and login.",
+          "specific": [
+            {
+              "name": "Portal and app stability, speed, and uptime",
+              "definition": "Whether the portal and app run fast and reliably, covering crashes, session timeouts, lost form data, portal hangs, and how quickly reported bugs are fixed."
+            },
+            {
+              "name": "Login and BankID reliability",
+              "definition": "Whether logging in, including with BankID, works smoothly or fails."
+            },
+            {
+              "name": "Mobile app availability",
+              "definition": "Whether a mobile app exists and offers sufficient functionality, including applying or managing services from mobile."
+            }
+          ]
+        },
+        {
+          "name": "Self-service functionality & data",
+          "definition": "Whether customers can perform everyday tasks themselves in the portal and trust the data shown.",
+          "specific": [
+            {
+              "name": "Everyday self-service tasks in the portal",
+              "definition": "Ease of finding functions and handling routine tasks such as changing account numbers, terminating credit lines, or uploading documents."
+            },
+            {
+              "name": "Balance and statement accuracy",
+              "definition": "Whether displayed balances, statements, and invoice data are correct and trustworthy."
+            },
+            {
+              "name": "Data export and reporting",
+              "definition": "Ability to download statements, CSV files, and invoice data for accounting and reporting."
+            },
+            {
+              "name": "User and accountant access management",
+              "definition": "Granularity of user access controls and ease of giving accountants or employees access."
+            }
+          ]
+        },
+        {
+          "name": "Integrations & automation",
+          "definition": "How well the bank connects with external accounting systems and automates routine financial flows.",
+          "specific": [
+            {
+              "name": "Accounting software integration reliability",
+              "definition": "Whether integrations with accounting systems such as Bokfør work reliably or fail."
+            },
+            {
+              "name": "Automation of invoice posting and payments",
+              "definition": "Degree of automation in invoice posting, monthly direct debits, and other routine payments without manual effort."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speed & Process Efficiency",
+      "definition": "How quickly and smoothly applications, credit decisions, payouts, and routine changes are completed.",
+      "midlevel": [
+        {
+          "name": "Application & onboarding",
+          "definition": "Ease and speed of applying and getting started with the bank.",
+          "specific": [
+            {
+              "name": "Application ease and simplicity",
+              "definition": "How simple and clear the application and setup process is, including digital signing and mobile application."
+            },
+            {
+              "name": "Documentation requirements and automated data retrieval",
+              "definition": "The volume of paperwork demanded versus automatic retrieval of figures and smooth document handling."
+            }
+          ]
+        },
+        {
+          "name": "Credit decisions & case processing",
+          "definition": "Turnaround time for credit assessments, approvals, and ongoing case handling.",
+          "specific": [
+            {
+              "name": "Credit assessment and approval speed",
+              "definition": "How fast credit decisions are made, from instant weekend approvals to multi-week rejections."
+            },
+            {
+              "name": "Processing speed vs advertised promises",
+              "definition": "How actual processing times compare with marketing promises such as 'same-day' handling."
+            },
+            {
+              "name": "Routine change and case processing time",
+              "definition": "How quickly routine changes, such as account number updates, and open cases are completed."
+            }
+          ]
+        },
+        {
+          "name": "Payout & funding speed",
+          "definition": "How quickly approved funds reach the customer's account.",
+          "specific": [
+            {
+              "name": "Time from approval to payout",
+              "definition": "How quickly loan and credit payouts reach the customer's account after approval."
+            },
+            {
+              "name": "Invoice financing payout speed and liquidity effect",
+              "definition": "How fast funds are paid out after an invoice is submitted or sold, and the resulting effect on liquidity, payroll, and day-to-day operations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Communication, Transparency & Trust",
+      "definition": "Whether the bank communicates proactively and clearly, and keeps the commitments it makes.",
+      "midlevel": [
+        {
+          "name": "Proactive communication & status updates",
+          "definition": "Whether customers are kept informed without having to chase the bank.",
+          "specific": [
+            {
+              "name": "Status updates during processing",
+              "definition": "Whether customers receive timely updates on application and case status instead of silence."
+            },
+            {
+              "name": "Proactive outreach and information sharing",
+              "definition": "Whether the bank and advisors reach out proactively with relevant information and follow-ups."
+            }
+          ]
+        },
+        {
+          "name": "Clarity of terms & decisions",
+          "definition": "How clearly and consistently terms, agreements, and decisions are communicated.",
+          "specific": [
+            {
+              "name": "Clarity and consistency of terms and agreements",
+              "definition": "Whether interest rates, agreement terms, and conditions are communicated clearly, consistently, and without contradictions."
+            },
+            {
+              "name": "Explanation and justification of credit decisions",
+              "definition": "Whether approvals and rejections come with understandable reasons, including openness about credit assessments."
+            }
+          ]
+        },
+        {
+          "name": "Honesty & commitment follow-through",
+          "definition": "Whether the bank stands by what it promises in writing, verbally, and in marketing.",
+          "specific": [
+            {
+              "name": "Honoring written and verbal commitments",
+              "definition": "Whether the bank stands by written or verbal credit commitments and promises made during the process."
+            },
+            {
+              "name": "Accuracy of marketing and eligibility expectations",
+              "definition": "Whether marketing sets realistic expectations about who qualifies and what is offered, versus attracting applicants who are then declined."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Fit, Flexibility & Eligibility",
+      "definition": "Whether the bank's credit products, terms, and criteria genuinely fit the needs of small businesses.",
+      "midlevel": [
+        {
+          "name": "Product fit for small businesses",
+          "definition": "How well products, limits, and configurations match the size and industry of the business.",
+          "specific": [
+            {
+              "name": "Product usefulness for business size and industry",
+              "definition": "Whether overdraft, invoice financing, tax loans, and other products genuinely serve the cash-flow needs of different business sizes and industries."
+            },
+            {
+              "name": "Credit limits and facility configuration options",
+              "definition": "Whether credit limits, loan amount caps, and facility configurations such as multiple overdrafts fit the company's needs."
+            },
+            {
+              "name": "Treatment of micro-companies relative to larger clients",
+              "definition": "Whether micro-businesses are taken as seriously as larger clients."
+            }
+          ]
+        },
+        {
+          "name": "Repayment flexibility & hardship support",
+          "definition": "The bank's willingness to adapt repayment when business conditions change.",
+          "specific": [
+            {
+              "name": "Payment deferrals and adjusted repayment plans",
+              "definition": "Willingness to grant deferrals and adjust repayment schedules when businesses face difficulties."
+            },
+            {
+              "name": "Season-adapted repayment structures",
+              "definition": "Whether repayment plans can be adapted to seasonal fluctuations in the business."
+            }
+          ]
+        },
+        {
+          "name": "Eligibility & credit criteria",
+          "definition": "The rules determining who qualifies for financing and on what terms.",
+          "specific": [
+            {
+              "name": "Qualification and creditworthiness criteria",
+              "definition": "Who qualifies for financing and credit lines, including rejections based on credit scores or business type."
+            },
+            {
+              "name": "Invoice acceptance rules",
+              "definition": "Which invoices are accepted for financing, including rules on end-customer creditworthiness and B2C sales."
+            },
+            {
+              "name": "Credit limit changes at renewal",
+              "definition": "Whether credit limits are maintained, reduced, or withdrawn at renewal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Billing & Account Administration",
+      "definition": "Correctness of billing and the handling of account closure and related administration.",
+      "midlevel": [
+        {
+          "name": "Billing accuracy",
+          "definition": "Whether invoices and charges issued to customers are correct.",
+          "specific": [
+            {
+              "name": "Billing and invoice accuracy",
+              "definition": "Correctness of invoices, including duplicate charges, wrong amounts, wrong due dates, and surprise invoice items."
+            }
+          ]
+        },
+        {
+          "name": "Account closure & exit administration",
+          "definition": "How smoothly account termination and related administration are handled.",
+          "specific": [
+            {
+              "name": "Account termination process and post-closure billing",
+              "definition": "The effort required to close an account and whether billing stops correctly afterwards, including delayed terminations and post-closure invoices."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

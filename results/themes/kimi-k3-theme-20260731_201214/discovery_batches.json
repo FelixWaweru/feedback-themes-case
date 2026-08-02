@@ -1,0 +1,592 @@
+{
+  "model": "moonshotai/kimi-k3",
+  "batch_size": 25,
+  "batches": [
+    {
+      "batch_index": 0,
+      "review_ids": [
+        "rev-76c3011b2ca9",
+        "rev-f04f75b142cc",
+        "rev-639e1e30f2a5",
+        "rev-023b86dc1a81",
+        "rev-c0e2adc51df2",
+        "rev-707d2c985727",
+        "rev-de2234910a3f",
+        "rev-b6fda0d585e6",
+        "rev-770b5357ee54",
+        "rev-4212d8273d6c",
+        "rev-282352c8f1f0",
+        "rev-2f4968e59d9e",
+        "rev-be44695beb61",
+        "rev-6cc04997a711",
+        "rev-ac14589c4894",
+        "rev-813602e7e748",
+        "rev-f1d414cea416",
+        "rev-97b69d945e5b",
+        "rev-7ebe986428db",
+        "rev-ecdd5de1e4b4",
+        "rev-ea3121b09e0d",
+        "rev-eb5ea855fe49",
+        "rev-e213b6681da5",
+        "rev-64b0877f861d",
+        "rev-295c5037054b"
+      ],
+      "theme_one": {
+        "strategic_theme": "Customer Service & Support",
+        "midlevel_theme": "Support responsiveness and follow-up",
+        "specific_theme": "Reply speed and follow-up on customer inquiries",
+        "definition": "How quickly and reliably support answers questions across phone, email, and chatbot, including proactive follow-up."
+      },
+      "theme_two": {
+        "strategic_theme": "Pricing & Fees",
+        "midlevel_theme": "Fee transparency and level",
+        "specific_theme": "Establishment, instalment, and administration fees",
+        "definition": "The size, number, and clarity of fees charged for opening, changing, and closing accounts or financing."
+      },
+      "theme_three": {
+        "strategic_theme": "Digital Experience",
+        "midlevel_theme": "Portal and app usability",
+        "specific_theme": "Portal functionality, speed, and data export",
+        "definition": "Quality of the online portal and mobile app, including login reliability, speed, modernity, and ability to download statements or CSV files."
+      },
+      "theme_four": {
+        "strategic_theme": "Product & Payout Speed",
+        "midlevel_theme": "Invoice financing payout speed",
+        "specific_theme": "Time from invoice approval to payout",
+        "definition": "How fast funds are paid out after an invoice is submitted and approved."
+      },
+      "theme_five": {
+        "strategic_theme": "Communication & Transparency",
+        "midlevel_theme": "Clarity of terms and decisions",
+        "specific_theme": "Consistency and clarity of rates, agreements, and decisions",
+        "definition": "Whether interest rates, agreement terms, and approval or rejection decisions are communicated clearly, consistently, and proactively."
+      },
+      "usage": {
+        "prompt_tokens": 1725,
+        "completion_tokens": 288,
+        "cost": 0.0090345
+      }
+    },
+    {
+      "batch_index": 1,
+      "review_ids": [
+        "rev-a1533a7de6af",
+        "rev-3dfd1e51e455",
+        "rev-3567c579485f",
+        "rev-1b45a4d32841",
+        "rev-ff00c2ae9405",
+        "rev-ea4cc280e9cf",
+        "rev-31ae0a0865a5",
+        "rev-a3a4891f696e",
+        "rev-064204a3ec72",
+        "rev-4c901b680c93",
+        "rev-706ecdc3768f",
+        "rev-5d91e7d0b839",
+        "rev-ac5672b8626c",
+        "rev-2594378ac75b",
+        "rev-0cc6ffebee43",
+        "rev-8b174d7f5ee8",
+        "rev-abaa9b8ef682",
+        "rev-c1a8a1149135",
+        "rev-a7ba7b47d684",
+        "rev-b71ef45aef23",
+        "rev-656bcbc11f28",
+        "rev-35e4632026e8",
+        "rev-83df8eb64bcc",
+        "rev-d22d3fd856cf",
+        "rev-ef06ffe6226e"
+      ],
+      "theme_one": {
+        "strategic_theme": "Speed & Efficiency",
+        "midlevel_theme": "Application and payout turnaround time",
+        "specific_theme": "Actual processing speed vs advertised 'same-day' promises",
+        "definition": "How quickly applications, credit decisions and payouts are completed compared with the bank's marketing promises."
+      },
+      "theme_two": {
+        "strategic_theme": "Customer Service Quality",
+        "midlevel_theme": "Support responsiveness and staff conduct",
+        "specific_theme": "Reply speed, callback reliability and staff tone across contacts",
+        "definition": "How fast, polite and consistent customer support is when customers reach out for help."
+      },
+      "theme_three": {
+        "strategic_theme": "Pricing & Contract Terms",
+        "midlevel_theme": "Fees, rates and credit terms transparency",
+        "specific_theme": "Price competitiveness, fee disputes and unwarned changes to credit terms",
+        "definition": "How competitive and predictable the bank's fees, rates and credit conditions are, including disputed charges and changes made without warning."
+      },
+      "theme_four": {
+        "strategic_theme": "Digital Experience & Reliability",
+        "midlevel_theme": "Self-service portal and system dependability",
+        "specific_theme": "Everyday portal tasks, balance/statement accuracy and third-party integrations",
+        "definition": "Whether customers can reliably perform everyday tasks in the portal and trust displayed balances, statements and integrations."
+      },
+      "theme_five": {
+        "strategic_theme": "Product Value & SME Fit",
+        "midlevel_theme": "Product fit and dependability for small businesses",
+        "specific_theme": "Usefulness of overdraft and invoice products for micro-companies",
+        "definition": "Whether the credit products genuinely serve small firms' cash-flow needs and treat micro-businesses as seriously as larger clients."
+      },
+      "usage": {
+        "prompt_tokens": 1827,
+        "completion_tokens": 7036,
+        "cost": 0.111021
+      }
+    },
+    {
+      "batch_index": 2,
+      "review_ids": [
+        "rev-791c08f22ece",
+        "rev-5ce37c250947",
+        "rev-ed71ae20b459",
+        "rev-e18ac8a3847d",
+        "rev-dfee5e1d8e0d",
+        "rev-6ad01cdd3eb3",
+        "rev-ce33ea7da190",
+        "rev-cf52481f7553",
+        "rev-1ccd2042a6e7",
+        "rev-948d62bc3bf9",
+        "rev-56a3968e66a7",
+        "rev-6d35d82a9188",
+        "rev-6dbd760a634d",
+        "rev-4d03805dfb1e",
+        "rev-8c0872265e1d",
+        "rev-50bb05811c71",
+        "rev-d84c2823d8b4",
+        "rev-53170485204b",
+        "rev-30726de0f472",
+        "rev-c59f0ee4ca75",
+        "rev-03e188209ff0",
+        "rev-b78ef3095a72",
+        "rev-eb742f5a177c",
+        "rev-9e2ccd454d88",
+        "rev-9cc853b7c246"
+      ],
+      "theme_one": {
+        "strategic_theme": "Pricing and Cost Transparency",
+        "midlevel_theme": "Interest Rates and Fee Clarity",
+        "specific_theme": "Quoted vs Actual Pricing and Rate Explanation",
+        "definition": "Whether quoted prices match agreements, how rates compare to competitors, and whether interest calculation and terms are clearly explained."
+      },
+      "theme_two": {
+        "strategic_theme": "Digital Experience",
+        "midlevel_theme": "Portal and App Usability",
+        "specific_theme": "Portal Stability, Data Loss, and Missing App",
+        "definition": "Reliability and functionality of digital channels, including session timeouts, lost form data, portal clarity, and lack of a mobile app."
+      },
+      "theme_three": {
+        "strategic_theme": "Process Speed and Reliability",
+        "midlevel_theme": "Application and Payout Timeliness",
+        "specific_theme": "Approval Speed, Payout Delays, and Case Processing Time",
+        "definition": "How fast applications are approved, funds are disbursed, and routine changes (e.g., account number updates) are completed versus promised."
+      },
+      "theme_four": {
+        "strategic_theme": "Flexibility and Customer Understanding",
+        "midlevel_theme": "Repayment Flexibility and Hardship Support",
+        "specific_theme": "Payment Deferrals and Season-Adapted Repayment Plans",
+        "definition": "The bank's willingness to adapt repayment schedules, grant deferrals, and show understanding when businesses face difficulties."
+      },
+      "theme_five": {
+        "strategic_theme": "Communication and Support Quality",
+        "midlevel_theme": "Proactive Communication and Support Access",
+        "specific_theme": "Status Updates, Chatbot Limitations, and Reaching Staff",
+        "definition": "Whether customers are kept informed during processing, can reach a human when needed, and receive consistent, accurate answers."
+      },
+      "usage": {
+        "prompt_tokens": 1742,
+        "completion_tokens": 325,
+        "cost": 0.0096018
+      }
+    },
+    {
+      "batch_index": 3,
+      "review_ids": [
+        "rev-d351246d1d7b",
+        "rev-80feb11841e7",
+        "rev-c0b01902ac5b",
+        "rev-187597d74b69",
+        "rev-5a7171b6289b",
+        "rev-30b3d910c05a",
+        "rev-97a2b3f350ff",
+        "rev-905ddbd723bc",
+        "rev-31150867dd30",
+        "rev-0e542f157238",
+        "rev-2324c08e3ac1",
+        "rev-55b96506cde8",
+        "rev-d1cbf446c038",
+        "rev-1f58552c5cb5",
+        "rev-761fe14307f6",
+        "rev-e1e288b2122a",
+        "rev-726409b53680",
+        "rev-bd0f4ecfcb6e",
+        "rev-855cf7fb495c",
+        "rev-b74a731add88",
+        "rev-3922e1f0cbf7",
+        "rev-c20a6dd65930",
+        "rev-d206bd2e0fff",
+        "rev-24b838bbb089",
+        "rev-f8ed3a0e48d8"
+      ],
+      "theme_one": {
+        "strategic_theme": "Credit & Lending Process",
+        "midlevel_theme": "Application turnaround time",
+        "specific_theme": "Speed of credit decisions and document handling",
+        "definition": "How quickly and smoothly financing applications are processed end-to-end, from instant weekend approvals to multi-week rejections and repeated document rounds."
+      },
+      "theme_two": {
+        "strategic_theme": "Digital Banking Experience",
+        "midlevel_theme": "Portal and app reliability",
+        "specific_theme": "Stability and functionality of portal, app, and BankID login",
+        "definition": "Whether the portal, mobile app, and BankID login work reliably and offer sufficient features — covering wrong balances, upload crashes, login failures, and praised portal updates."
+      },
+      "theme_three": {
+        "strategic_theme": "Product & Integrations",
+        "midlevel_theme": "Accounting system integration",
+        "specific_theme": "Bokfør integration and automated direct debits",
+        "definition": "How well the bank connects with accounting software such as Bokfør and automates invoice posting and monthly direct debits without manual effort."
+      },
+      "theme_four": {
+        "strategic_theme": "Customer Service & Advice",
+        "midlevel_theme": "Advisor quality and continuity",
+        "specific_theme": "Access to competent advisors and consistent contact persons",
+        "definition": "Customers' experience of staff competence and tailored advice, being able to reach a human (vs. chatbot), and speaking with the same contact person over time."
+      },
+      "theme_five": {
+        "strategic_theme": "Trust & Transparency",
+        "midlevel_theme": "Commitment follow-through",
+        "specific_theme": "Honoring credit promises and justifying rejections",
+        "definition": "Whether the bank stands by written or verbal credit commitments, sets honest eligibility expectations in marketing, and provides reasons when applications are declined."
+      },
+      "usage": {
+        "prompt_tokens": 1847,
+        "completion_tokens": 1860,
+        "cost": 0.0332682
+      }
+    },
+    {
+      "batch_index": 4,
+      "review_ids": [
+        "rev-0d4d3326d84f",
+        "rev-5be2b33a91fe",
+        "rev-b9d27d67f70d",
+        "rev-f3178e0ab94b",
+        "rev-1e836db51c9d",
+        "rev-03c961106bd8",
+        "rev-4ed1c0d4f96f",
+        "rev-b4d0ead5dc0a",
+        "rev-9326017b404c",
+        "rev-222b3a70633d",
+        "rev-29c446ed04cb",
+        "rev-2fed72e83b33",
+        "rev-9b5925d94244",
+        "rev-7765bb085b22",
+        "rev-8c6e6cf270f9",
+        "rev-05e2a5f08c76",
+        "rev-0cff33b4221a",
+        "rev-ed219d9064c3",
+        "rev-e0a9b4470ec3",
+        "rev-1b69c895034e",
+        "rev-2883e5932538",
+        "rev-dca96d2b719c",
+        "rev-d312ea251b29",
+        "rev-40c491735c6b",
+        "rev-18d47a0ae41c"
+      ],
+      "theme_one": {
+        "strategic_theme": "Pricing and cost transparency",
+        "midlevel_theme": "Advertised vs actual financing costs",
+        "specific_theme": "Interest rate and fee clarity in offers",
+        "definition": "Whether rates, fees, and total costs match what was advertised or offered, including hidden fees, effective rates, and break fees."
+      },
+      "theme_two": {
+        "strategic_theme": "Eligibility and credit decisions",
+        "midlevel_theme": "Qualification criteria for invoice financing",
+        "specific_theme": "Customer creditworthiness and invoice acceptance rules",
+        "definition": "Who qualifies for financing and credit lines, including rejections based on customer credit scores, B2C sales, and reduced credit limits at renewal."
+      },
+      "theme_three": {
+        "strategic_theme": "Onboarding and application experience",
+        "midlevel_theme": "Digital application and documentation process",
+        "specific_theme": "BankID login, automated data retrieval, and paperwork burden",
+        "definition": "Ease and speed of applying and getting started, including digital signing, automatic figure retrieval, and documentation volume."
+      },
+      "theme_four": {
+        "strategic_theme": "Billing and account administration",
+        "midlevel_theme": "Invoice accuracy and account closure handling",
+        "specific_theme": "Erroneous invoices and delayed account termination",
+        "definition": "Correctness of billing (duplicate charges, wrong due dates, post-closure invoices) and the effort required to close an account."
+      },
+      "theme_five": {
+        "strategic_theme": "Customer service and advisor support",
+        "midlevel_theme": "Advisor availability and case continuity",
+        "specific_theme": "Responsiveness, helpfulness, and handover quality of contact persons",
+        "definition": "Access to and quality of human support, including chat availability outside hours, advisor turnover, and repeated information requests."
+      },
+      "usage": {
+        "prompt_tokens": 1877,
+        "completion_tokens": 325,
+        "cost": 0.0099933
+      }
+    },
+    {
+      "batch_index": 5,
+      "review_ids": [
+        "rev-1ecc4c82dc14",
+        "rev-a3307f97e636",
+        "rev-fa4952b46905",
+        "rev-b8ab7985f6f8",
+        "rev-d8ae754d7571",
+        "rev-dba8c8ddbded",
+        "rev-330369fb041f",
+        "rev-dc4f275c9215",
+        "rev-0da14c238e68",
+        "rev-92f5125068ca",
+        "rev-fe000e556ab6",
+        "rev-67124654d676",
+        "rev-45db4ba226a2",
+        "rev-9323d2bf76cb",
+        "rev-1fd8954c6851",
+        "rev-e5c8b97a4003",
+        "rev-c358dd363166",
+        "rev-3178d2b84479",
+        "rev-5e7ccc2378ef",
+        "rev-3bbf45ab5aad",
+        "rev-d336cd7582c7",
+        "rev-d2b247072230",
+        "rev-978939a63827",
+        "rev-9278ebae141c",
+        "rev-4653bbac0eef"
+      ],
+      "theme_one": {
+        "strategic_theme": "Pricing and Rates",
+        "midlevel_theme": "Interest Rate Level and Changes",
+        "specific_theme": "Business credit and savings rate competitiveness",
+        "definition": "Comments on how high or competitive rates are, rate increases without explanation, and mismatches between calculator figures and final offers."
+      },
+      "theme_two": {
+        "strategic_theme": "Customer Service and Support",
+        "midlevel_theme": "Support Accessibility and Quality",
+        "specific_theme": "Phone queues, advisor continuity, and staff helpfulness",
+        "definition": "Experiences with reaching support, waiting times, advisor handovers, and whether staff are helpful and professional."
+      },
+      "theme_three": {
+        "strategic_theme": "Application and Processing",
+        "midlevel_theme": "Application Speed and Payout",
+        "specific_theme": "Time from application to decision and funds",
+        "definition": "Feedback on how fast and simple the application process is, from same-day payouts to multi-week delays versus promised timelines."
+      },
+      "theme_four": {
+        "strategic_theme": "Digital Channels and Self-Service",
+        "midlevel_theme": "Portal and Website Usability",
+        "specific_theme": "Finding functions and self-service in the portal",
+        "definition": "How easy it is to navigate the website and portal, including terminating credit lines, changing account numbers, and giving accountant access."
+      },
+      "theme_five": {
+        "strategic_theme": "Product Flexibility and Fit",
+        "midlevel_theme": "Flexibility and Industry Understanding",
+        "specific_theme": "Adjustable terms, deferrals, and fit for business type",
+        "definition": "Whether products can be adjusted (credit limits, deferrals) and whether the bank understands the needs of different business sizes and industries."
+      },
+      "usage": {
+        "prompt_tokens": 1771,
+        "completion_tokens": 309,
+        "cost": 0.0094619
+      }
+    },
+    {
+      "batch_index": 6,
+      "review_ids": [
+        "rev-d578554ddd5c",
+        "rev-aefb8c0dfdab",
+        "rev-35d7d7f97866",
+        "rev-73b4ab9db41f",
+        "rev-d88e745c52c8",
+        "rev-285e4562bdaa",
+        "rev-e1a11641f737",
+        "rev-9fbd5757d94d",
+        "rev-66f48db8e806",
+        "rev-aefd165ea585",
+        "rev-067c12bb90eb",
+        "rev-8e88413f3f7f",
+        "rev-824375a933e6",
+        "rev-80da4e33302c",
+        "rev-0eed1ff3aeca",
+        "rev-b768a978b895",
+        "rev-174fd2a981c0",
+        "rev-56fb7df7bfe5",
+        "rev-600acf0222a3",
+        "rev-83833ecb43d3",
+        "rev-a2bcc806d8b2",
+        "rev-c4a71cb33578",
+        "rev-8c49d85c1f70",
+        "rev-b09e5dee945e",
+        "rev-04cfaba2570d"
+      ],
+      "theme_one": {
+        "strategic_theme": "Customer Support & Communication",
+        "midlevel_theme": "Support Response Time & Follow-up Reliability",
+        "specific_theme": "Waiting Time for Replies, Status Updates and Promised Callbacks",
+        "definition": "How quickly and dependably the bank answers emails, calls and status requests and honors promised follow-ups — from replies within minutes to eleven days of silence or callbacks that never come."
+      },
+      "theme_two": {
+        "strategic_theme": "Digital Banking Experience",
+        "midlevel_theme": "Self-Service Portal & System Stability",
+        "specific_theme": "Portal Uptime, BankID Login and Accounting Integration Reliability",
+        "definition": "How well the website, BankID login and accounting integrations work day to day, including self-service capability, portal hangs, failing integrations and how fast reported bugs get fixed."
+      },
+      "theme_three": {
+        "strategic_theme": "Pricing & Cost Transparency",
+        "midlevel_theme": "Interest Rates & Fee Levels",
+        "specific_theme": "Advertised vs Granted Rates and Recurring Fee Charges",
+        "definition": "Perceived level and fairness of effective interest rates and fees, including gaps between advertised 'from' rates and actual offers and unexpected or duplicate monthly fees."
+      },
+      "theme_four": {
+        "strategic_theme": "People & Advisory Quality",
+        "midlevel_theme": "Advisor Helpfulness & Sales Conduct",
+        "specific_theme": "Solution-Oriented Service Without Sales Pressure",
+        "definition": "Friendliness, proactivity and problem-solving ability of advisors, and whether interactions feel genuinely advisory rather than pushy or sales-driven."
+      },
+      "theme_five": {
+        "strategic_theme": "Onboarding & Credit Process",
+        "midlevel_theme": "Application Simplicity & Processing Speed",
+        "specific_theme": "Ease of Application, Credit Assessment Speed and Time to Payout",
+        "definition": "How simple and clear the application and terms are, how fast credit assessments are completed, and how quickly funds reach the customer's account."
+      },
+      "usage": {
+        "prompt_tokens": 1770,
+        "completion_tokens": 2703,
+        "cost": 0.0456822
+      }
+    },
+    {
+      "batch_index": 7,
+      "review_ids": [
+        "rev-734731adf217",
+        "rev-2fd621fbea32",
+        "rev-cf4662dbabcb",
+        "rev-2bd9709a44c8",
+        "rev-3e6ca3a10ffc",
+        "rev-924c64d7715b",
+        "rev-a02bbf85613d",
+        "rev-f4742dc44a32",
+        "rev-5b78ffceb6f6",
+        "rev-d0b9e8123dc6",
+        "rev-cc30da84390c",
+        "rev-e0475d176f9d",
+        "rev-aa78098b5220",
+        "rev-fb16c342b8bb",
+        "rev-af5f0f4c5738",
+        "rev-fe42435eea5a",
+        "rev-2acf9f0b7c20",
+        "rev-0572bcf24ec2",
+        "rev-e5b09cd30bc1",
+        "rev-4a039d450c57",
+        "rev-a8c4942bfbda",
+        "rev-4876e70eb4ef",
+        "rev-1440fb510a12",
+        "rev-5cc959cfbc14",
+        "rev-6373a1a30776"
+      ],
+      "theme_one": {
+        "strategic_theme": "Customer Service & Relationship",
+        "midlevel_theme": "Support & Advisor Responsiveness",
+        "specific_theme": "Reply speed and answer accuracy from support and advisors",
+        "definition": "How quickly, completely, and correctly support staff and advisors respond — including same-day answers, advisors knowing the business, half-answers, wrong information, and cases left open."
+      },
+      "theme_two": {
+        "strategic_theme": "Pricing & Contract Terms",
+        "midlevel_theme": "Fees, Rates & Terms Transparency",
+        "specific_theme": "Fee structure clarity, rate-change notice, and billing accuracy",
+        "definition": "How clearly fees, rates, rate increases, and binding periods are communicated, and whether invoices arrive with correct amounts — covering complex fee structures, surprise invoice items, short-notice rate hikes, and hidden lock-in terms."
+      },
+      "theme_three": {
+        "strategic_theme": "Digital Platform & Technology",
+        "midlevel_theme": "Portal, App & Integrations",
+        "specific_theme": "Portal performance, app availability, and accounting integration reliability",
+        "definition": "Availability, speed, and reliability of digital channels — the missing mobile app, slow portal, failing accounting-system integrations, untrustworthy balances, and granularity of user access controls."
+      },
+      "theme_four": {
+        "strategic_theme": "Financing & Liquidity",
+        "midlevel_theme": "Funding & Payout Speed",
+        "specific_theme": "Time from approval or invoice sale to funds in account",
+        "definition": "How quickly loan and invoice-financing payouts reach the customer's account and the resulting effect on liquidity, payroll runs, and day-to-day operations."
+      },
+      "theme_five": {
+        "strategic_theme": "Product Fit & Onboarding",
+        "midlevel_theme": "Credit Limits, Product Options & Setup",
+        "specific_theme": "Loan amount caps, facility flexibility, and application simplicity",
+        "definition": "Whether credit limits, facility configurations (e.g., multiple overdrafts), and products like tax loans fit the company's size and seasonality, and how simple the application and setup process is."
+      },
+      "usage": {
+        "prompt_tokens": 1899,
+        "completion_tokens": 3272,
+        "cost": 0.0546042
+      }
+    },
+    {
+      "batch_index": 8,
+      "review_ids": [
+        "rev-329becd809d6",
+        "rev-6d5d8fe73e4c",
+        "rev-f216a3d34fba",
+        "rev-332eedbbd3e4",
+        "rev-3e024af70da7",
+        "rev-c5898ec48fa3",
+        "rev-d7c30c2d657b",
+        "rev-10419dfefd6f",
+        "rev-5652993ee8a6",
+        "rev-598363e7a51d",
+        "rev-022df9d51402",
+        "rev-8b9fa1e00feb",
+        "rev-fa7c7117e1e1",
+        "rev-2e56ac89380e",
+        "rev-153d7a7b52ea",
+        "rev-686592de9071",
+        "rev-612ad4bedba7",
+        "rev-a2b719d632cf",
+        "rev-7512fcdad348",
+        "rev-cac4e5910217",
+        "rev-7f7563bde13e",
+        "rev-5354c4c196db",
+        "rev-e11bfb4d7aeb"
+      ],
+      "theme_one": {
+        "strategic_theme": "Pricing and Cost Transparency",
+        "midlevel_theme": "Total cost of financing",
+        "specific_theme": "Rates versus fees and competitor pricing",
+        "definition": "How customers perceive the overall price of financing, including interest rates, fees, and comparisons with competitors."
+      },
+      "theme_two": {
+        "strategic_theme": "Transparency and Trust",
+        "midlevel_theme": "Clarity of terms and decisions",
+        "specific_theme": "Openness about assessments, terms changes, and commitments",
+        "definition": "Whether customers feel the bank is open and honest about credit assessments, agreement terms, changes, and promises made in writing or advertising."
+      },
+      "theme_three": {
+        "strategic_theme": "Customer Service and Advisory",
+        "midlevel_theme": "Advisor quality and proactivity",
+        "specific_theme": "Advisor expertise, continuity, and follow-up",
+        "definition": "Experiences with advisors' knowledge of rules and the customer's business, proactive outreach, and whether follow-up communication actually happens."
+      },
+      "theme_four": {
+        "strategic_theme": "Digital Experience and Onboarding",
+        "midlevel_theme": "Application and platform usability",
+        "specific_theme": "Digital application speed and self-service tools",
+        "definition": "How easy and fast it is to apply and manage the relationship digitally, including mobile applications, chatbot support, apps, and access to statements or invoice data."
+      },
+      "theme_five": {
+        "strategic_theme": "Contract Terms and Flexibility",
+        "midlevel_theme": "Binding periods and exit conditions",
+        "specific_theme": "Lock-in periods and termination fees",
+        "definition": "Customer experiences with contractual lock-in, notice of binding periods, and costs or obstacles when trying to end the agreement early."
+      },
+      "usage": {
+        "prompt_tokens": 1843,
+        "completion_tokens": 311,
+        "cost": 0.0096987
+      }
+    }
+  ],
+  "cost_usd": 0.503249,
+  "prompt_tokens": 20248,
+  "completion_tokens": 29710
+}

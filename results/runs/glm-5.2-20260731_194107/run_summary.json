@@ -1,0 +1,42 @@
+{
+  "status": "completed",
+  "reviews_total": 223,
+  "reviews_processed": 219,
+  "reviews_failed": 4,
+  "assignment_rows": 306,
+  "errors": [
+    {
+      "review_id": "rev-330369fb041f",
+      "error": "model returned non-JSON: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "review_id": "rev-cf4662dbabcb",
+      "error": "model returned non-JSON: Expecting ':' delimiter: line 1 column 5 (char 4)"
+    },
+    {
+      "review_id": "rev-a2bcc806d8b2",
+      "error": "model returned non-JSON: Expecting ':' delimiter: line 1 column 5 (char 4)"
+    },
+    {
+      "review_id": "rev-2e56ac89380e",
+      "error": "model returned non-JSON: Expecting ':' delimiter: line 1 column 5 (char 4)"
+    }
+  ],
+  "warnings": [],
+  "wall_clock_seconds": 514.245,
+  "cost_usd": 0.29829699,
+  "prompt_tokens": 387670,
+  "completion_tokens": 48522,
+  "model": "z-ai/glm-5.2",
+  "output_dir": "feedback-themes-case/out/runs/20260731_194107",
+  "files": {
+    "run_categorisation": "feedback-themes-case/out/runs/20260731_194107/categorisation.json",
+    "run_flat": "feedback-themes-case/out/runs/20260731_194107/flat.json",
+    "run_summary_json": "feedback-themes-case/out/runs/20260731_194107/run_summary.json",
+    "run_summary_md": "feedback-themes-case/out/runs/20260731_194107/run_summary.md",
+    "stable_flat": "feedback-themes-case/out/flat.json",
+    "stable_categorisation": "feedback-themes-case/out/categorisation.json",
+    "stable_summary_json": "feedback-themes-case/out/run_summary.json",
+    "stable_summary_md": "feedback-themes-case/out/run_summary.md"
+  }
+}

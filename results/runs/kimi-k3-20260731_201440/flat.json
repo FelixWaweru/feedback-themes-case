@@ -1,0 +1,1898 @@
+[
+  {
+    "review_id": "rev-022df9d51402",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-022df9d51402",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-023b86dc1a81",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-03c961106bd8",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-03e188209ff0",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-03e188209ff0",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-04cfaba2570d",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-0572bcf24ec2",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Credit limits and facility configuration options"
+  },
+  {
+    "review_id": "rev-064204a3ec72",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-064204a3ec72",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-064204a3ec72",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-067c12bb90eb",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-067c12bb90eb",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-0cc6ffebee43",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-0cff33b4221a",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-0d4d3326d84f",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Treatment of micro-companies relative to larger clients"
+  },
+  {
+    "review_id": "rev-0d4d3326d84f",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-0d4d3326d84f",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-0da14c238e68",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Notice of rate and credit-term changes"
+  },
+  {
+    "review_id": "rev-0e542f157238",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Routine change and case processing time"
+  },
+  {
+    "review_id": "rev-0e542f157238",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-0e542f157238",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-0eed1ff3aeca",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Login and BankID reliability"
+  },
+  {
+    "review_id": "rev-10419dfefd6f",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Explanation and justification of credit decisions"
+  },
+  {
+    "review_id": "rev-10419dfefd6f",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-1440fb510a12",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-1440fb510a12",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Honoring written and verbal commitments"
+  },
+  {
+    "review_id": "rev-153d7a7b52ea",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Notice of rate and credit-term changes"
+  },
+  {
+    "review_id": "rev-153d7a7b52ea",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-174fd2a981c0",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-174fd2a981c0",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-187597d74b69",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Honoring written and verbal commitments"
+  },
+  {
+    "review_id": "rev-187597d74b69",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-187597d74b69",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Explanation and justification of credit decisions"
+  },
+  {
+    "review_id": "rev-18d47a0ae41c",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Explanation and justification of credit decisions"
+  },
+  {
+    "review_id": "rev-18d47a0ae41c",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-18d47a0ae41c",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Account closure & exit administration",
+    "specific_theme": "Account termination process and post-closure billing"
+  },
+  {
+    "review_id": "rev-1b45a4d32841",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-1b69c895034e",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-1ccd2042a6e7",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-1e836db51c9d",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-1ecc4c82dc14",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-1ecc4c82dc14",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Account closure & exit administration",
+    "specific_theme": "Account termination process and post-closure billing"
+  },
+  {
+    "review_id": "rev-1f58552c5cb5",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-1fd8954c6851",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-2324c08e3ac1",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-2324c08e3ac1",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-24b838bbb089",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Login and BankID reliability"
+  },
+  {
+    "review_id": "rev-2594378ac75b",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-2594378ac75b",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Automation of invoice posting and payments"
+  },
+  {
+    "review_id": "rev-282352c8f1f0",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-285e4562bdaa",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-2883e5932538",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Account closure & exit administration",
+    "specific_theme": "Account termination process and post-closure billing"
+  },
+  {
+    "review_id": "rev-295c5037054b",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-29c446ed04cb",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Reaching support and waiting times"
+  },
+  {
+    "review_id": "rev-2acf9f0b7c20",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-2acf9f0b7c20",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-2acf9f0b7c20",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Balance and statement accuracy"
+  },
+  {
+    "review_id": "rev-2acf9f0b7c20",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-2bd9709a44c8",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "User and accountant access management"
+  },
+  {
+    "review_id": "rev-2e56ac89380e",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Credit limits and facility configuration options"
+  },
+  {
+    "review_id": "rev-2e56ac89380e",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-2fd621fbea32",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Credit limits and facility configuration options"
+  },
+  {
+    "review_id": "rev-2fed72e83b33",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-2fed72e83b33",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-30726de0f472",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-30b3d910c05a",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Account closure & exit administration",
+    "specific_theme": "Account termination process and post-closure billing"
+  },
+  {
+    "review_id": "rev-30b3d910c05a",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-31ae0a0865a5",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-329becd809d6",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-329becd809d6",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-330369fb041f",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-330369fb041f",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-332eedbbd3e4",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Chatbot support and escalation to human staff"
+  },
+  {
+    "review_id": "rev-3567c579485f",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-3567c579485f",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-35e4632026e8",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-35e4632026e8",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-3922e1f0cbf7",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-3bbf45ab5aad",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-3dfd1e51e455",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-3e024af70da7",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Balance and statement accuracy"
+  },
+  {
+    "review_id": "rev-3e024af70da7",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-3e6ca3a10ffc",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-3e6ca3a10ffc",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-40c491735c6b",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-40c491735c6b",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-40c491735c6b",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Lock-in periods and termination costs"
+  },
+  {
+    "review_id": "rev-4212d8273d6c",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-4212d8273d6c",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-45db4ba226a2",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-4653bbac0eef",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-4653bbac0eef",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-4876e70eb4ef",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-4a039d450c57",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Notice of rate and credit-term changes"
+  },
+  {
+    "review_id": "rev-4c901b680c93",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Balance and statement accuracy"
+  },
+  {
+    "review_id": "rev-4d03805dfb1e",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Time from approval to payout"
+  },
+  {
+    "review_id": "rev-4d03805dfb1e",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Honoring written and verbal commitments"
+  },
+  {
+    "review_id": "rev-4ed1c0d4f96f",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-4ed1c0d4f96f",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-53170485204b",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-5354c4c196db",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-5354c4c196db",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Time from approval to payout"
+  },
+  {
+    "review_id": "rev-5354c4c196db",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-55b96506cde8",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Balance and statement accuracy"
+  },
+  {
+    "review_id": "rev-5652993ee8a6",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Status updates during processing"
+  },
+  {
+    "review_id": "rev-56fb7df7bfe5",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-598363e7a51d",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Chatbot support and escalation to human staff"
+  },
+  {
+    "review_id": "rev-598363e7a51d",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Reaching support and waiting times"
+  },
+  {
+    "review_id": "rev-5a7171b6289b",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-5a7171b6289b",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-5be2b33a91fe",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Invoice acceptance rules"
+  },
+  {
+    "review_id": "rev-5cc959cfbc14",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-5cc959cfbc14",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-5cc959cfbc14",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-5ce37c250947",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-5e7ccc2378ef",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-600acf0222a3",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-612ad4bedba7",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-612ad4bedba7",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Proactive outreach and information sharing"
+  },
+  {
+    "review_id": "rev-612ad4bedba7",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-6373a1a30776",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-639e1e30f2a5",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Proactive outreach and information sharing"
+  },
+  {
+    "review_id": "rev-64b0877f861d",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-64b0877f861d",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Status updates during processing"
+  },
+  {
+    "review_id": "rev-656bcbc11f28",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-656bcbc11f28",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-656bcbc11f28",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-66f48db8e806",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-66f48db8e806",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-67124654d676",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Processing speed vs advertised promises"
+  },
+  {
+    "review_id": "rev-67124654d676",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-67124654d676",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-686592de9071",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-686592de9071",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-686592de9071",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-6ad01cdd3eb3",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-6cc04997a711",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-6cc04997a711",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-6d35d82a9188",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-6d35d82a9188",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Clarity of interest calculation and rate explanations"
+  },
+  {
+    "review_id": "rev-6dbd760a634d",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-706ecdc3768f",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-707d2c985727",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Login and BankID reliability"
+  },
+  {
+    "review_id": "rev-707d2c985727",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-726409b53680",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-734731adf217",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-73b4ab9db41f",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "User and accountant access management"
+  },
+  {
+    "review_id": "rev-7512fcdad348",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Proactive outreach and information sharing"
+  },
+  {
+    "review_id": "rev-7512fcdad348",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-761fe14307f6",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-770b5357ee54",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-770b5357ee54",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-770b5357ee54",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Chatbot support and escalation to human staff"
+  },
+  {
+    "review_id": "rev-7765bb085b22",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Login and BankID reliability"
+  },
+  {
+    "review_id": "rev-7765bb085b22",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-7765bb085b22",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-791c08f22ece",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-791c08f22ece",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Honoring written and verbal commitments"
+  },
+  {
+    "review_id": "rev-7ebe986428db",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-7f7563bde13e",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-7f7563bde13e",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Processing speed vs advertised promises"
+  },
+  {
+    "review_id": "rev-80da4e33302c",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-80da4e33302c",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-80feb11841e7",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-813602e7e748",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-83833ecb43d3",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-83833ecb43d3",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-83df8eb64bcc",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-8b174d7f5ee8",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-8b9fa1e00feb",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-8b9fa1e00feb",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Data export and reporting"
+  },
+  {
+    "review_id": "rev-8c0872265e1d",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Season-adapted repayment structures"
+  },
+  {
+    "review_id": "rev-8c49d85c1f70",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-8c49d85c1f70",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-8c49d85c1f70",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-8c6e6cf270f9",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-8e88413f3f7f",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-905ddbd723bc",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Automation of invoice posting and payments"
+  },
+  {
+    "review_id": "rev-9278ebae141c",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Treatment of micro-companies relative to larger clients"
+  },
+  {
+    "review_id": "rev-92f5125068ca",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-9323d2bf76cb",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-9323d2bf76cb",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-9326017b404c",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-9326017b404c",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-948d62bc3bf9",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-978939a63827",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "User and accountant access management"
+  },
+  {
+    "review_id": "rev-97a2b3f350ff",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-97a2b3f350ff",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Automation of invoice posting and payments"
+  },
+  {
+    "review_id": "rev-97b69d945e5b",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee level and structure clarity"
+  },
+  {
+    "review_id": "rev-9b5925d94244",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-9b5925d94244",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-9cc853b7c246",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-9cc853b7c246",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-9cc853b7c246",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-9e2ccd454d88",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Clarity of interest calculation and rate explanations"
+  },
+  {
+    "review_id": "rev-9e2ccd454d88",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-9e2ccd454d88",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-9fbd5757d94d",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-9fbd5757d94d",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-9fbd5757d94d",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-a02bbf85613d",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-a1533a7de6af",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Processing speed vs advertised promises"
+  },
+  {
+    "review_id": "rev-a2b719d632cf",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Lock-in periods and termination costs"
+  },
+  {
+    "review_id": "rev-a2b719d632cf",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-a2bcc806d8b2",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-a3307f97e636",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-a3a4891f696e",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-a7ba7b47d684",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Proactive outreach and information sharing"
+  },
+  {
+    "review_id": "rev-a8c4942bfbda",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-a8c4942bfbda",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-aa78098b5220",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-aa78098b5220",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-ac5672b8626c",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Treatment of micro-companies relative to larger clients"
+  },
+  {
+    "review_id": "rev-aefb8c0dfdab",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Status updates during processing"
+  },
+  {
+    "review_id": "rev-aefb8c0dfdab",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-af5f0f4c5738",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Billing accuracy",
+    "specific_theme": "Billing and invoice accuracy"
+  },
+  {
+    "review_id": "rev-af5f0f4c5738",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-af5f0f4c5738",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-b09e5dee945e",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-b6fda0d585e6",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-b71ef45aef23",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-b768a978b895",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-b768a978b895",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-b768a978b895",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Balance and statement accuracy"
+  },
+  {
+    "review_id": "rev-b78ef3095a72",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-b78ef3095a72",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-b8ab7985f6f8",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Credit limits and facility configuration options"
+  },
+  {
+    "review_id": "rev-b9d27d67f70d",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Invoice acceptance rules"
+  },
+  {
+    "review_id": "rev-b9d27d67f70d",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-bd0f4ecfcb6e",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-bd0f4ecfcb6e",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-be44695beb61",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-be44695beb61",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Reply speed across contact channels"
+  },
+  {
+    "review_id": "rev-be44695beb61",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-c0b01902ac5b",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-c0e2adc51df2",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-c0e2adc51df2",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-c1a8a1149135",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Processing speed vs advertised promises"
+  },
+  {
+    "review_id": "rev-c1a8a1149135",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-c20a6dd65930",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Chatbot support and escalation to human staff"
+  },
+  {
+    "review_id": "rev-c358dd363166",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-c358dd363166",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-c358dd363166",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-c4a71cb33578",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "User and accountant access management"
+  },
+  {
+    "review_id": "rev-c5898ec48fa3",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Explanation and justification of credit decisions"
+  },
+  {
+    "review_id": "rev-cac4e5910217",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-cc30da84390c",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-ce33ea7da190",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-cf4662dbabcb",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Proactive outreach and information sharing"
+  },
+  {
+    "review_id": "rev-cf4662dbabcb",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-cf52481f7553",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Status updates during processing"
+  },
+  {
+    "review_id": "rev-cf52481f7553",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-d0b9e8123dc6",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Season-adapted repayment structures"
+  },
+  {
+    "review_id": "rev-d0b9e8123dc6",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-d1cbf446c038",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-d206bd2e0fff",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-d22d3fd856cf",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-d22d3fd856cf",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Contact person continuity and handover quality"
+  },
+  {
+    "review_id": "rev-d2b247072230",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-d312ea251b29",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Integrations & automation",
+    "specific_theme": "Accounting software integration reliability"
+  },
+  {
+    "review_id": "rev-d336cd7582c7",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-d578554ddd5c",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-d84c2823d8b4",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Lock-in periods and termination costs"
+  },
+  {
+    "review_id": "rev-d84c2823d8b4",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-d88e745c52c8",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-d8ae754d7571",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-d8ae754d7571",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Time from approval to payout"
+  },
+  {
+    "review_id": "rev-dca96d2b719c",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Credit limit changes at renewal"
+  },
+  {
+    "review_id": "rev-de2234910a3f",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-e0475d176f9d",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-e0475d176f9d",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-e0475d176f9d",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Time from approval to payout"
+  },
+  {
+    "review_id": "rev-e11bfb4d7aeb",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-e11bfb4d7aeb",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Invoice financing payout speed and liquidity effect"
+  },
+  {
+    "review_id": "rev-e11bfb4d7aeb",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-e18ac8a3847d",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Chatbot support and escalation to human staff"
+  },
+  {
+    "review_id": "rev-e1a11641f737",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Portal and app stability, speed, and uptime"
+  },
+  {
+    "review_id": "rev-e1e288b2122a",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Accuracy of marketing and eligibility expectations"
+  },
+  {
+    "review_id": "rev-e1e288b2122a",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Qualification and creditworthiness criteria"
+  },
+  {
+    "review_id": "rev-e1e288b2122a",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Documentation requirements and automated data retrieval"
+  },
+  {
+    "review_id": "rev-e5b09cd30bc1",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-e5c8b97a4003",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Self-service functionality & data",
+    "specific_theme": "Everyday self-service tasks in the portal"
+  },
+  {
+    "review_id": "rev-ea3121b09e0d",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-ea3121b09e0d",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Clarity of interest calculation and rate explanations"
+  },
+  {
+    "review_id": "rev-ea4cc280e9cf",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Callback and follow-up reliability"
+  },
+  {
+    "review_id": "rev-eb5ea855fe49",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-eb5ea855fe49",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Proactive communication & status updates",
+    "specific_theme": "Status updates during processing"
+  },
+  {
+    "review_id": "rev-eb742f5a177c",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Routine change and case processing time"
+  },
+  {
+    "review_id": "rev-ecdd5de1e4b4",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Notice of rate and credit-term changes"
+  },
+  {
+    "review_id": "rev-ed219d9064c3",
+    "strategic_theme": "Billing & Account Administration",
+    "midlevel_theme": "Account closure & exit administration",
+    "specific_theme": "Account termination process and post-closure billing"
+  },
+  {
+    "review_id": "rev-ed71ae20b459",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-ed71ae20b459",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-ef06ffe6226e",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-ef06ffe6226e",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Credit decisions & case processing",
+    "specific_theme": "Credit assessment and approval speed"
+  },
+  {
+    "review_id": "rev-f1d414cea416",
+    "strategic_theme": "Digital Experience & Technology",
+    "midlevel_theme": "Platform reliability & access",
+    "specific_theme": "Mobile app availability"
+  },
+  {
+    "review_id": "rev-f1d414cea416",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Payout & funding speed",
+    "specific_theme": "Time from approval to payout"
+  },
+  {
+    "review_id": "rev-f1d414cea416",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Professionalism and advisory orientation of staff"
+  },
+  {
+    "review_id": "rev-f216a3d34fba",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Advisor quality & relationship continuity",
+    "specific_theme": "Advisor competence and business understanding"
+  },
+  {
+    "review_id": "rev-f3178e0ab94b",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-f3178e0ab94b",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Advertised vs actual rates and pricing"
+  },
+  {
+    "review_id": "rev-f8ed3a0e48d8",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Repayment flexibility & hardship support",
+    "specific_theme": "Payment deferrals and adjusted repayment plans"
+  },
+  {
+    "review_id": "rev-f8ed3a0e48d8",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Fees & charges",
+    "specific_theme": "Fee predictability and disputed charges"
+  },
+  {
+    "review_id": "rev-fa4952b46905",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Access to support",
+    "specific_theme": "Reaching support and waiting times"
+  },
+  {
+    "review_id": "rev-fa4952b46905",
+    "strategic_theme": "Customer Service & Advisory",
+    "midlevel_theme": "Support responsiveness & follow-up",
+    "specific_theme": "Answer accuracy and completeness"
+  },
+  {
+    "review_id": "rev-fa7c7117e1e1",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Honesty & commitment follow-through",
+    "specific_theme": "Honoring written and verbal commitments"
+  },
+  {
+    "review_id": "rev-fa7c7117e1e1",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-fb16c342b8bb",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Product fit for small businesses",
+    "specific_theme": "Product usefulness for business size and industry"
+  },
+  {
+    "review_id": "rev-fb16c342b8bb",
+    "strategic_theme": "Speed & Process Efficiency",
+    "midlevel_theme": "Application & onboarding",
+    "specific_theme": "Application ease and simplicity"
+  },
+  {
+    "review_id": "rev-fb16c342b8bb",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Interest rates & total cost",
+    "specific_theme": "Rate level and competitiveness"
+  },
+  {
+    "review_id": "rev-fe000e556ab6",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-fe42435eea5a",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Lock-in periods and termination costs"
+  },
+  {
+    "review_id": "rev-fe42435eea5a",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Clarity and consistency of terms and agreements"
+  },
+  {
+    "review_id": "rev-ff00c2ae9405",
+    "strategic_theme": "Product Fit, Flexibility & Eligibility",
+    "midlevel_theme": "Eligibility & credit criteria",
+    "specific_theme": "Credit limit changes at renewal"
+  },
+  {
+    "review_id": "rev-ff00c2ae9405",
+    "strategic_theme": "Pricing & Contract Terms",
+    "midlevel_theme": "Contract terms & changes",
+    "specific_theme": "Notice of rate and credit-term changes"
+  },
+  {
+    "review_id": "rev-ff00c2ae9405",
+    "strategic_theme": "Communication, Transparency & Trust",
+    "midlevel_theme": "Clarity of terms & decisions",
+    "specific_theme": "Explanation and justification of credit decisions"
+  }
+]

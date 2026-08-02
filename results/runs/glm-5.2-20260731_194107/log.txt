@@ -1,0 +1,267 @@
+$ python discover_themes.py && python score.py --pred out/flat.json
+Theme dir: feedback-themes-case/out/themes/theme-20260731_193656
+Model: z-ai/glm-5.2
+Batches: 9 x up to 25 | workers: 4
+[batch 1/9] #2 -> 5 themes
+[batch 2/9] #0 -> 5 themes
+[batch 3/9] #3 -> 5 themes
+[batch 4/9] #4 -> 5 themes
+[batch 5/9] #5 -> 5 themes
+[batch 6/9] #6 -> 5 themes
+[batch 7/9] #7 -> 5 themes
+[batch 8/9] #1 -> 5 themes
+[batch 9/9] #8 -> 5 themes
+Unique candidate themes: 45
+Synthesizing taxonomy…
+Discovery done in 251.032s | cost=$0.06952688 | taxonomy={'strategic': 8, 'midlevel': 21, 'specific': 39}
+Run dir: feedback-themes-case/out/runs/20260731_194107
+Themes: feedback-themes-case/data/themes.json
+Model: z-ai/glm-5.2
+Reviews: 223 | workers: 8
+[1/223] rev-639e1e30f2a5 -> 1 themes
+[2/223] rev-707d2c985727 -> 2 themes
+[3/223] rev-76c3011b2ca9 -> 0 themes
+[4/223] rev-c0e2adc51df2 -> 1 themes
+[5/223] rev-023b86dc1a81 -> 1 themes
+[6/223] rev-f04f75b142cc -> 0 themes
+[7/223] rev-282352c8f1f0 -> 1 themes
+[8/223] rev-b6fda0d585e6 -> 1 themes
+[9/223] rev-2f4968e59d9e -> 0 themes
+[10/223] rev-4212d8273d6c -> 2 themes
+[11/223] rev-813602e7e748 -> 1 themes
+[12/223] rev-770b5357ee54 -> 3 themes
+[13/223] rev-ecdd5de1e4b4 -> 1 themes
+[14/223] rev-7ebe986428db -> 1 themes
+[15/223] rev-f1d414cea416 -> 3 themes
+[16/223] rev-97b69d945e5b -> 3 themes
+[17/223] rev-ac14589c4894 -> 0 themes
+[18/223] rev-6cc04997a711 -> 1 themes
+[19/223] rev-e213b6681da5 -> 0 themes
+[20/223] rev-64b0877f861d -> 2 themes
+[21/223] rev-295c5037054b -> 1 themes
+[22/223] rev-eb5ea855fe49 -> 2 themes
+[23/223] rev-a1533a7de6af -> 1 themes
+[24/223] rev-3dfd1e51e455 -> 1 themes
+[25/223] rev-de2234910a3f -> 1 themes
+[26/223] rev-be44695beb61 -> 2 themes
+[27/223] rev-ea3121b09e0d -> 1 themes
+[28/223] rev-ea4cc280e9cf -> 1 themes
+[29/223] rev-4c901b680c93 -> 1 themes
+[30/223] rev-064204a3ec72 -> 3 themes
+[31/223] rev-a3a4891f696e -> 1 themes
+[32/223] rev-1b45a4d32841 -> 2 themes
+[33/223] rev-3567c579485f -> 2 themes
+[34/223] rev-0cc6ffebee43 -> 1 themes
+[35/223] rev-abaa9b8ef682 -> 0 themes
+[36/223] rev-5d91e7d0b839 -> 0 themes
+[37/223] rev-ff00c2ae9405 -> 3 themes
+[38/223] rev-8b174d7f5ee8 -> 1 themes
+[39/223] rev-706ecdc3768f -> 1 themes
+[40/223] rev-a7ba7b47d684 -> 1 themes
+[41/223] rev-35e4632026e8 -> 2 themes
+[42/223] rev-c1a8a1149135 -> 2 themes
+[43/223] rev-b71ef45aef23 -> 2 themes
+[44/223] rev-d22d3fd856cf -> 1 themes
+[45/223] rev-791c08f22ece -> 1 themes
+[46/223] rev-ef06ffe6226e -> 2 themes
+[47/223] rev-2594378ac75b -> 2 themes
+[48/223] rev-ed71ae20b459 -> 1 themes
+[49/223] rev-dfee5e1d8e0d -> 0 themes
+[50/223] rev-ac5672b8626c -> 1 themes
+[51/223] rev-ce33ea7da190 -> 1 themes
+[52/223] rev-6ad01cdd3eb3 -> 1 themes
+[53/223] rev-e18ac8a3847d -> 1 themes
+[54/223] rev-83df8eb64bcc -> 1 themes
+[55/223] rev-56a3968e66a7 -> 0 themes
+[56/223] rev-656bcbc11f28 -> 3 themes
+[57/223] rev-6d35d82a9188 -> 1 themes
+[58/223] rev-1ccd2042a6e7 -> 1 themes
+[59/223] rev-948d62bc3bf9 -> 1 themes
+[60/223] rev-50bb05811c71 -> 0 themes
+[61/223] rev-cf52481f7553 -> 2 themes
+[62/223] rev-8c0872265e1d -> 1 themes
+[63/223] rev-30726de0f472 -> 1 themes
+[64/223] rev-c59f0ee4ca75 -> 0 themes
+[65/223] rev-d84c2823d8b4 -> 2 themes
+[66/223] rev-5ce37c250947 -> 1 themes
+[67/223] rev-eb742f5a177c -> 1 themes
+[68/223] rev-03e188209ff0 -> 2 themes
+[69/223] rev-4d03805dfb1e -> 2 themes
+[70/223] rev-31ae0a0865a5 -> 2 themes
+[71/223] rev-6dbd760a634d -> 2 themes
+[72/223] rev-b78ef3095a72 -> 2 themes
+[73/223] rev-80feb11841e7 -> 1 themes
+[74/223] rev-5a7171b6289b -> 2 themes
+[75/223] rev-187597d74b69 -> 2 themes
+[76/223] rev-905ddbd723bc -> 1 themes
+[77/223] rev-97a2b3f350ff -> 1 themes
+[78/223] rev-c0b01902ac5b -> 1 themes
+[79/223] rev-30b3d910c05a -> 1 themes
+[80/223] rev-d351246d1d7b -> 0 themes
+[81/223] rev-9e2ccd454d88 -> 3 themes
+[82/223] rev-55b96506cde8 -> 1 themes
+[83/223] rev-0e542f157238 -> 3 themes
+[84/223] rev-e1e288b2122a -> 3 themes
+[85/223] rev-31150867dd30 -> 1 themes
+[86/223] rev-1f58552c5cb5 -> 1 themes
+[87/223] rev-2324c08e3ac1 -> 1 themes
+[88/223] rev-761fe14307f6 -> 1 themes
+[89/223] rev-b74a731add88 -> 0 themes
+[90/223] rev-855cf7fb495c -> 0 themes
+[91/223] rev-3922e1f0cbf7 -> 1 themes
+[92/223] rev-9cc853b7c246 -> 3 themes
+[93/223] rev-f8ed3a0e48d8 -> 1 themes
+[94/223] rev-24b838bbb089 -> 1 themes
+[95/223] rev-d206bd2e0fff -> 1 themes
+[96/223] rev-c20a6dd65930 -> 1 themes
+[97/223] rev-bd0f4ecfcb6e -> 2 themes
+[98/223] rev-726409b53680 -> 2 themes
+[99/223] rev-5be2b33a91fe -> 1 themes
+[100/223] rev-b9d27d67f70d -> 1 themes
+[101/223] rev-1e836db51c9d -> 2 themes
+[102/223] rev-d1cbf446c038 -> 2 themes
+[103/223] rev-b4d0ead5dc0a -> 0 themes
+[104/223] rev-03c961106bd8 -> 1 themes
+[105/223] rev-0d4d3326d84f -> 4 themes
+[106/223] rev-222b3a70633d -> 0 themes
+[107/223] rev-9326017b404c -> 2 themes
+[108/223] rev-4ed1c0d4f96f -> 2 themes
+[109/223] rev-2fed72e83b33 -> 2 themes
+[110/223] rev-29c446ed04cb -> 1 themes
+[111/223] rev-9b5925d94244 -> 2 themes
+[112/223] rev-ed219d9064c3 -> 1 themes
+[113/223] rev-e0a9b4470ec3 -> 0 themes
+[114/223] rev-0cff33b4221a -> 2 themes
+[115/223] rev-2883e5932538 -> 1 themes
+[116/223] rev-1b69c895034e -> 2 themes
+[117/223] rev-05e2a5f08c76 -> 2 themes
+[118/223] rev-7765bb085b22 -> 2 themes
+[119/223] rev-d312ea251b29 -> 1 themes
+[120/223] rev-a3307f97e636 -> 1 themes
+[121/223] rev-8c6e6cf270f9 -> 2 themes
+[122/223] rev-dca96d2b719c -> 2 themes
+[123/223] rev-fa4952b46905 -> 1 themes
+[124/223] rev-40c491735c6b -> 3 themes
+[125/223] rev-d8ae754d7571 -> 2 themes
+[126/223] rev-b8ab7985f6f8 -> 2 themes
+[127/223] rev-18d47a0ae41c -> 3 themes
+[128/223] rev-dc4f275c9215 -> 0 themes
+[129/223] rev-dba8c8ddbded -> 0 themes
+[130/223] rev-92f5125068ca -> 1 themes
+[131/223] rev-45db4ba226a2 -> 1 themes
+[132/223] rev-0da14c238e68 -> 2 themes
+[133/223] rev-1ecc4c82dc14 -> 2 themes
+[134/223] rev-67124654d676 -> 3 themes
+[135/223] rev-fe000e556ab6 -> 1 themes
+[136/223] rev-3178d2b84479 -> 0 themes
+[137/223] rev-9323d2bf76cb -> 2 themes
+[138/223] rev-c358dd363166 -> 3 themes
+[139/223] rev-3bbf45ab5aad -> 1 themes
+[140/223] rev-1fd8954c6851 -> 0 themes
+[141/223] rev-e5c8b97a4003 -> 2 themes
+[142/223] rev-d336cd7582c7 -> 1 themes
+[143/223] rev-978939a63827 -> 1 themes
+[144/223] rev-9278ebae141c -> 2 themes
+[145/223] rev-d2b247072230 -> 2 themes
+[146/223] rev-5e7ccc2378ef -> 1 themes
+[147/223] rev-73b4ab9db41f -> 1 themes
+[148/223] rev-4653bbac0eef -> 2 themes
+[149/223] rev-d88e745c52c8 -> 1 themes
+[150/223] rev-d578554ddd5c -> 1 themes
+[151/223] rev-35d7d7f97866 -> 0 themes
+[152/223] rev-aefb8c0dfdab -> 3 themes
+[153/223] rev-9fbd5757d94d -> 2 themes
+[154/223] rev-66f48db8e806 -> 1 themes
+[155/223] rev-aefd165ea585 -> 0 themes
+[156/223] rev-e1a11641f737 -> 2 themes
+[157/223] rev-285e4562bdaa -> 1 themes
+[158/223] rev-330369fb041f -> ERR
+[159/223] rev-80da4e33302c -> 1 themes
+[160/223] rev-067c12bb90eb -> 2 themes
+[161/223] rev-174fd2a981c0 -> 1 themes
+[162/223] rev-8e88413f3f7f -> 2 themes
+[163/223] rev-0eed1ff3aeca -> 1 themes
+[164/223] rev-b768a978b895 -> 3 themes
+[165/223] rev-600acf0222a3 -> 1 themes
+[166/223] rev-824375a933e6 -> 0 themes
+[167/223] rev-c4a71cb33578 -> 1 themes
+[168/223] rev-b09e5dee945e -> 2 themes
+[169/223] rev-8c49d85c1f70 -> 3 themes
+[170/223] rev-04cfaba2570d -> 1 themes
+[171/223] rev-83833ecb43d3 -> 2 themes
+[172/223] rev-734731adf217 -> 1 themes
+[173/223] rev-2bd9709a44c8 -> 1 themes
+[174/223] rev-2fd621fbea32 -> 1 themes
+[175/223] rev-56fb7df7bfe5 -> 2 themes
+[176/223] rev-3e6ca3a10ffc -> 1 themes
+[177/223] rev-924c64d7715b -> 0 themes
+[178/223] rev-f4742dc44a32 -> 0 themes
+[179/223] rev-cc30da84390c -> 1 themes
+[180/223] rev-d0b9e8123dc6 -> 2 themes
+[181/223] rev-e0475d176f9d -> 3 themes
+[182/223] rev-aa78098b5220 -> 1 themes
+[183/223] rev-f3178e0ab94b -> 2 themes
+[184/223] rev-5b78ffceb6f6 -> 0 themes
+[185/223] rev-af5f0f4c5738 -> 2 themes
+[186/223] rev-0572bcf24ec2 -> 1 themes
+[187/223] rev-fe42435eea5a -> 2 themes
+[188/223] rev-4a039d450c57 -> 1 themes
+[189/223] rev-fb16c342b8bb -> 3 themes
+[190/223] rev-4876e70eb4ef -> 1 themes
+[191/223] rev-e5b09cd30bc1 -> 1 themes
+[192/223] rev-1440fb510a12 -> 0 themes
+[193/223] rev-6373a1a30776 -> 1 themes
+[194/223] rev-a8c4942bfbda -> 2 themes
+[195/223] rev-329becd809d6 -> 1 themes
+[196/223] rev-f216a3d34fba -> 1 themes
+[197/223] rev-5cc959cfbc14 -> 2 themes
+[198/223] rev-6d5d8fe73e4c -> 0 themes
+[199/223] rev-332eedbbd3e4 -> 1 themes
+[200/223] rev-53170485204b -> 1 themes
+[201/223] rev-d7c30c2d657b -> 0 themes
+[202/223] rev-c5898ec48fa3 -> 2 themes
+[203/223] rev-3e024af70da7 -> 1 themes
+[204/223] rev-10419dfefd6f -> 2 themes
+[205/223] rev-598363e7a51d -> 1 themes
+[206/223] rev-2acf9f0b7c20 -> 3 themes
+[207/223] rev-5652993ee8a6 -> 1 themes
+[208/223] rev-fa7c7117e1e1 -> 1 themes
+[209/223] rev-8b9fa1e00feb -> 2 themes
+[210/223] rev-022df9d51402 -> 3 themes
+[211/223] rev-686592de9071 -> 2 themes
+[212/223] rev-153d7a7b52ea -> 2 themes
+[213/223] rev-a02bbf85613d -> 1 themes
+[214/223] rev-a2b719d632cf -> 2 themes
+[215/223] rev-7512fcdad348 -> 2 themes
+[216/223] rev-cac4e5910217 -> 1 themes
+[217/223] rev-5354c4c196db -> 4 themes
+[218/223] rev-7f7563bde13e -> 2 themes
+[219/223] rev-e11bfb4d7aeb -> 3 themes
+[220/223] rev-cf4662dbabcb -> ERR
+[221/223] rev-a2bcc806d8b2 -> ERR
+[222/223] rev-2e56ac89380e -> ERR
+[223/223] rev-612ad4bedba7 -> 3 themes
+Done in 515.115s | cost=$0.29829699 | rows=306 | failed=4
+Score with: python score.py --pred out/flat.json
+ROWS
+  ok — 306 rows, all well-formed
+TREE
+  ok — every specific theme has one midlevel parent, every midlevel has one strategic
+SHAPE
+  total rows                   306
+  distinct strategic themes     8
+  distinct midlevel themes      21
+  distinct specific themes      39
+  rows per specific theme      mean 7.8  median 7  max 20
+  specific used once           0 of 39 (0%)
+  specific used twice or less  3 of 39 (8%)
+  largest strategic            58 of 306 rows (19%) — 'Customer Support & Relationship'
+  largest midlevel             33 of 306 rows (11%) — 'Application & decision turnaround'
+  most frequent specific       Rate vs fee trade-off vs competitors (20), Loan limits, binding periods, and seasonal adaptation (19), Support reply speed across channels (18), Portal speed and reliability (15), Assessment rationale and marketing-claim accuracy (15)
+EXTRAS
+  none — review_id plus the three tiers
+SPREAD
+  reviews with rows            189 of 223
+  rows per review              mean 1.37  min 0  max 4
+  distribution                 {0: 34, 1: 99, 2: 65, 3: 23, 4: 2}
+
