@@ -6,19 +6,12 @@
 <title>NOTES — Kvist Bank theme extraction</title>
 <style>
 :root {
-  --bg: #f7f6f3; --bg2: #ffffff; --text: #1a1a1a; --muted: #5c5c5c;
+  --bg: #ffffff; --bg2: #ffffff; --text: #000000; --muted: #5c5c5c;
   --border: #ddd9d0; --info: #e8f1fa; --info-b: #9bb8d4; --info-t: #1e4d7b;
   --ok: #e7f5ee; --ok-b: #8fc9a8; --ok-t: #1d6b45;
   --warn: #fbf1e0; --warn-b: #e0bf7a; --warn-t: #7a5314;
   --kimi: #1D9E75; --glm: #378ADD;
-}
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #121212; --bg2: #1c1c1c; --text: #f0f0f0; --muted: #a0a0a0;
-    --border: #333; --info: #152433; --info-b: #2d4f6f; --info-t: #9ec5ea;
-    --ok: #14241c; --ok-b: #2f6b4c; --ok-t: #8fd6b0;
-    --warn: #2a2214; --warn-b: #6e5424; --warn-t: #e0bf7a;
-  }
+  color-scheme: light;
 }
 * { box-sizing: border-box; }
 body {
@@ -27,14 +20,14 @@ body {
   background: var(--bg); color: var(--text); line-height: 1.45;
 }
 .wrap { max-width: 960px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
-h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; }
-.lede { color: var(--muted); margin: 0 0 1.1rem; font-size: 0.95rem; }
+h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; color: var(--text); }
+.lede { color: var(--text); margin: 0 0 1.1rem; font-size: 0.95rem; }
 .section-title {
   font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
   color: var(--muted); text-transform: uppercase; margin: 0 0 10px;
 }
 .row-label {
-  font-size: 12px; font-weight: 600; margin: 0 0 8px;
+  font-size: 12px; font-weight: 600; margin: 0 0 8px; color: var(--text);
   display: flex; align-items: center; gap: 8px;
 }
 .row-label .dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
@@ -47,7 +40,7 @@ h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; }
   border-radius: 8px; padding: 12px 14px;
 }
 .metric .label { font-size: 11px; color: var(--muted); margin: 0 0 4px; }
-.metric .val { font-size: 22px; font-weight: 600; line-height: 1.1; margin: 0; }
+.metric .val { font-size: 22px; font-weight: 600; line-height: 1.1; margin: 0; color: var(--text); }
 .metric .sub { font-size: 11px; color: var(--muted); margin-top: 4px; }
 .metric.highlight { border: 2px solid var(--info-b); }
 .metric.ok { border: 2px solid var(--ok-b); }
@@ -60,7 +53,7 @@ h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; }
   border: 0.5px solid var(--border); border-radius: 8px; padding: 14px 12px 10px;
 }
 .chart-wrap.tall { height: 320px; }
-.legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 10px; font-size: 12px; color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 10px; font-size: 12px; color: var(--text); }
 .legend span { display: flex; align-items: center; gap: 5px; }
 .legend .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
 .info-box, .success-box, .warn-box {
@@ -69,26 +62,26 @@ h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; }
 .info-box { background: var(--info); border: 0.5px solid var(--info-b); color: var(--info-t); }
 .success-box { background: var(--ok); border: 0.5px solid var(--ok-b); color: var(--ok-t); }
 .warn-box { background: var(--warn); border: 0.5px solid var(--warn-b); color: var(--warn-t); }
-.prose h2 { font-size: 1.12rem; margin: 1.25rem 0 0.45rem; }
-.prose p, .prose li { font-size: 0.94rem; }
+.prose h2 { font-size: 1.12rem; margin: 1.25rem 0 0.45rem; color: var(--text); }
+.prose p, .prose li { font-size: 0.94rem; color: var(--text); }
 .prose ul { padding-left: 1.2rem; margin: 0.35rem 0 0.75rem; }
 code { font-family: ui-monospace, Consolas, monospace; font-size: 0.86em; }
-table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 0.6rem 0 1rem; }
-th, td { border: 0.5px solid var(--border); padding: 8px 9px; text-align: left; vertical-align: top; }
+table { width: 100%; border-collapse: collapse; font-size: 0.86rem; margin: 0.6rem 0 1rem; color: var(--text); }
+th, td { border: 0.5px solid var(--border); padding: 8px 9px; text-align: left; vertical-align: top; color: var(--text); }
 th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; }
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
 @media (max-width: 640px) {
   .two-col { grid-template-columns: 1fr; }
   .chart-wrap, .chart-wrap.tall { height: 300px; }
 }
-.caption { font-size: 12px; color: var(--muted); margin: 0 0 1rem; }
+.caption { font-size: 12px; color: var(--text); margin: 0 0 1rem; }
 .diagram-wrap {
   background: var(--bg2); border: 0.5px solid var(--border);
   border-radius: 8px; padding: 16px 12px; margin: 0.75rem 0 1rem;
   overflow-x: auto;
 }
-.diagram-wrap .mermaid { display: flex; justify-content: center; }
-.diagram-caption { font-size: 12px; color: var(--muted); margin: -0.35rem 0 1rem; }
+.diagram-wrap .mermaid { display: flex; justify-content: center; color: var(--text); }
+.diagram-caption { font-size: 12px; color: var(--text); margin: -0.35rem 0 1rem; }
 </style>
 </head>
 <body>
@@ -232,8 +225,7 @@ th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transfor
   <canvas id="priceChart" role="img" aria-label="Input, output, and cached-input prices per million tokens for GLM 5.2, Kimi K3, GPT-5.5, and Claude Fable 5."></canvas>
 </div>
 <p class="caption">
-  GLM $0.60/$1.50/$0.10 · Kimi $2.90/$14/$0.29 · GPT-5.5 $5/$30/$0.50 · Claude Fable 5 $10/$50/$1.00
-  (OpenRouter compare UI / <code>report/</code> Fable compare page). Measured Kimi/GLM totals are billed <code>usage.cost</code>;
+  GLM $0.60/$1.50/$0.10 · Kimi $2.90/$14/$0.29 · GPT-5.5 $5/$30/$0.50 · Claude Fable 5 $10/$50/$1.00. Measured Kimi/GLM totals are billed <code>usage.cost</code>;
   GPT/Fable dollars in the Numbers table are list-price estimates only.
 </p>
 
@@ -339,7 +331,7 @@ th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transfor
 
 <h2>Decisions the brief left open</h2>
 <ul>
-  <li><strong>Constrained taxonomy + path enum</strong>: free-form names broke TREE; assignment schema is an enum of full <code>A &gt; B &gt; C</code> labels with post-parse repair for scrambled triples.</li>
+  <li><strong>Constrained taxonomy + path enum</strong>: free-form names broke TREE As suggested, assignment schema is an enum of full <code>A &gt; B &gt; C</code> labels with post-parse repair for scrambled triples.</li>
   <li><strong>Discover then extract</strong>: same model for both stages in each experiment so taxonomy and assignment stay aligned.</li>
   <li><strong>Rich <code>categorisation.json</code> + derived <code>out/flat.json</code></strong>: meaning lives in the nested file; flat is the checker projection.</li>
   <li><strong>Ship Kimi over GLM</strong>: pay ~$2 more for zero parse failures, faster wall clock, and denser specifics; keep GLM as the budget path.</li>
@@ -389,12 +381,8 @@ flowchart TB
 </pre>
 </div>
 <p class="diagram-caption">
-  Plain-language flow: split reviews into batches → invent themes → label each review in parallel → save the files Compethic checks.
+  High-level flow: split reviews into batches → invent themes → label each review in parallel → save the files Compethic checks.
   Changing the model in <code>.env</code> re-runs the same flow (that is how Kimi vs GLM was compared).
-</p>
-<p>
-  Path enum + repair stop junk theme names from breaking the tree. What failed earlier: free-form triples (53 rejects),
-  complaint-only synthesis (empty praise), and runs that never finalized (status stuck <code>running</code>).
 </p>
 
 <h2>Numbers — how the model swap changes results</h2>
@@ -569,15 +557,27 @@ flowchart TB
 <script>
 mermaid.initialize({
   startOnLoad: true,
-  theme: matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'default',
+  theme: 'default',
+  themeVariables: {
+    background: '#ffffff',
+    primaryTextColor: '#000000',
+    secondaryTextColor: '#000000',
+    tertiaryTextColor: '#000000',
+    lineColor: '#333333',
+    textColor: '#000000',
+    mainBkg: '#ffffff',
+    nodeBorder: '#333333',
+    clusterBkg: '#f7f6f3',
+    titleColor: '#000000',
+    edgeLabelBackground: '#ffffff'
+  },
   flowchart: { curve: 'basis', htmlLabels: true },
   securityLevel: 'loose'
 });
 </script>
 <script>
-const isDark = matchMedia('(prefers-color-scheme: dark)').matches;
-const textColor = isDark ? 'rgba(255,255,255,0.72)' : 'rgba(0,0,0,0.58)';
-const gridColor = isDark ? 'rgba(255,255,255,0.08)' : 'rgba(0,0,0,0.07)';
+const textColor = '#000000';
+const gridColor = 'rgba(0,0,0,0.08)';
 const tickFont = { size: 13, weight: '500' };
 const baseOpts = {
   responsive: true,
