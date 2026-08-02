@@ -11,3 +11,5 @@ __pycache__/
 *.pyc
 .venv/
 .env
+data/discovery_batches.json
+data/discovery_summary.json
