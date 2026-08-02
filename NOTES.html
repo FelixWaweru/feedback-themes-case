@@ -53,6 +53,9 @@ h1 { font-size: 1.55rem; margin: 0 0 0.35rem; font-weight: 600; color: var(--tex
   border: 0.5px solid var(--border); border-radius: 8px; padding: 14px 12px 10px;
 }
 .chart-wrap.tall { height: 320px; }
+.chart-wrap.detail-strategic { height: 280px; }
+.chart-wrap.detail-mid { height: 560px; }
+.chart-wrap.detail-specific { height: 1180px; }
 .legend { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 10px; font-size: 12px; color: var(--text); }
 .legend span { display: flex; align-items: center; gap: 5px; }
 .legend .swatch { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
@@ -73,6 +76,9 @@ th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transfor
 @media (max-width: 640px) {
   .two-col { grid-template-columns: 1fr; }
   .chart-wrap, .chart-wrap.tall { height: 300px; }
+  .chart-wrap.detail-strategic { height: 300px; }
+  .chart-wrap.detail-mid { height: 560px; }
+  .chart-wrap.detail-specific { height: 1180px; }
 }
 .caption { font-size: 12px; color: var(--text); margin: 0 0 1rem; }
 .diagram-wrap {
@@ -308,6 +314,67 @@ th { background: var(--bg2); font-size: 11px; color: var(--muted); text-transfor
   Kimi: 7/20/47 tiers · mean 1.42 rows/review · spread {0:30, 1:100, 2:64, 3:28, 4:1} · 0% specifics used once.<br />
   GLM: 8/21/39 tiers · mean 1.37 rows/review · spread {0:34, 1:99, 2:65, 3:23, 4:2} · 0% specifics used once.<br />
   Both score.py ROWS+TREE ok. Model choice changes leaf granularity and empty rate more than TREE validity.
+</p>
+
+<p class="section-title" style="margin-top:1.1rem">Individual theme row counts from flat.json</p>
+<p class="caption" style="margin-bottom:0.75rem">
+  Counts are assignment rows in each run’s <code>flat.json</code>, joined to that run’s taxonomy.
+  Kimi: <code>out/runs/kimi-k3-20260731_201440</code> + <code>out/themes/theme-20260731_201214</code>
+  (316 rows). GLM: <code>out/runs/glm-5.2-20260731_194107</code> + <code>out/themes/theme-20260731_193656</code>
+  (306 rows). Bars sorted by frequency; taxonomies differ so labels are not paired across models.
+</p>
+
+<p class="row-label"><span class="dot" style="background:#1D9E75"></span> Strategic themes (row counts)</p>
+<div class="two-col">
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">Kimi-k3 · 7 strategic</p>
+    <div class="chart-wrap detail-strategic">
+      <canvas id="strategicDetailKimi" role="img" aria-label="Kimi strategic theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">GLM-5.2 · 8 strategic</p>
+    <div class="chart-wrap detail-strategic">
+      <canvas id="strategicDetailGlm" role="img" aria-label="GLM strategic theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+</div>
+
+<p class="row-label"><span class="dot" style="background:#378ADD"></span> Midlevel themes (row counts)</p>
+<div class="two-col">
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">Kimi-k3 · 20 midlevel</p>
+    <div class="chart-wrap detail-mid">
+      <canvas id="midlevelDetailKimi" role="img" aria-label="Kimi midlevel theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">GLM-5.2 · 21 midlevel</p>
+    <div class="chart-wrap detail-mid">
+      <canvas id="midlevelDetailGlm" role="img" aria-label="GLM midlevel theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+</div>
+
+<p class="row-label"><span class="dot" style="background:#1D9E75"></span> Specific themes (row counts)</p>
+<div class="two-col">
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">Kimi-k3 · 47 specific</p>
+    <div class="chart-wrap detail-specific">
+      <canvas id="specificDetailKimi" role="img" aria-label="Kimi specific theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+  <div>
+    <p class="section-title" style="text-transform:none;letter-spacing:0;font-size:12px;color:var(--muted)">GLM-5.2 · 39 specific</p>
+    <div class="chart-wrap detail-specific">
+      <canvas id="specificDetailGlm" role="img" aria-label="GLM specific theme assignment row counts from flat.json."></canvas>
+    </div>
+  </div>
+</div>
+<p class="caption">
+  Top Kimi specifics: rate competitiveness (21), staff professionalism (18), reply speed (14).
+  Top GLM specifics: rate vs fee trade-off (20), loan limits / binding / seasonal (19), support reply speed (18).
+  Every taxonomy leaf appears at least twice in these runs (no once-only specifics).
 </p>
 
 <hr class="divider" />
@@ -824,6 +891,63 @@ new Chart(document.getElementById('spreadChart'), {
     scales: { ...baseOpts.scales, y: { ...baseOpts.scales.y, beginAtZero: true } }
   }
 });
+
+const themeDetail = {"kimi": {"strategic": {"labels": ["Customer Service & Advisory", "Pricing & Contract Terms", "Digital Experience & Technology", "Speed & Process Efficiency", "Communication, Transparency & Trust", "Product Fit, Flexibility & Eligibility", "Billing & Account Administration"], "values": [74, 55, 54, 44, 38, 38, 13]}, "midlevel": {"labels": ["Advisor quality & relationship continuity", "Interest rates & total cost", "Support responsiveness & follow-up", "Self-service functionality & data", "Platform reliability & access", "Product fit for small businesses", "Application & onboarding", "Clarity of terms & decisions", "Credit decisions & case processing", "Fees & charges", "Payout & funding speed", "Honesty & commitment follow-through", "Eligibility & credit criteria", "Proactive communication & status updates", "Contract terms & changes", "Integrations & automation", "Access to support", "Billing accuracy", "Repayment flexibility & hardship support", "Account closure & exit administration"], "values": [35, 31, 31, 23, 22, 20, 16, 16, 15, 15, 13, 12, 10, 10, 9, 9, 8, 8, 8, 5]}, "specific": {"labels": ["Rate level and competitiveness", "Professionalism and advisory orientation of staff", "Reply speed across contact channels", "Product usefulness for business size and industry", "Clarity and consistency of terms and agreements", "Portal and app stability, speed, and uptime", "Answer accuracy and completeness", "Advisor competence and business understanding", "Application ease and simplicity", "Credit assessment and approval speed", "Billing and invoice accuracy", "Contact person continuity and handover quality", "Everyday self-service tasks in the portal", "Fee predictability and disputed charges", "Invoice financing payout speed and liquidity effect", "Accuracy of marketing and eligibility expectations", "Advertised vs actual rates and pricing", "Callback and follow-up reliability", "Documentation requirements and automated data retrieval", "Fee level and structure clarity", "Mobile app availability", "Accounting software integration reliability", "Data export and reporting", "Payment deferrals and adjusted repayment plans", "Qualification and creditworthiness criteria", "Account termination process and post-closure billing", "Balance and statement accuracy", "Chatbot support and escalation to human staff", "Explanation and justification of credit decisions", "Honoring written and verbal commitments", "Notice of rate and credit-term changes", "Proactive outreach and information sharing", "Status updates during processing", "Time from approval to payout", "Credit limits and facility configuration options", "Lock-in periods and termination costs", "Login and BankID reliability", "Processing speed vs advertised promises", "User and accountant access management", "Automation of invoice posting and payments", "Clarity of interest calculation and rate explanations", "Reaching support and waiting times", "Treatment of micro-companies relative to larger clients", "Credit limit changes at renewal", "Invoice acceptance rules", "Routine change and case processing time", "Season-adapted repayment structures"], "values": [21, 18, 14, 13, 11, 11, 10, 9, 9, 9, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2, 2]}}, "glm": {"strategic": {"labels": ["Customer Support & Relationship", "Digital Experience & Platform", "Service Delivery & Processing", "Pricing & Fees", "Information & Transparency", "Credit & Repayment Management", "Product Fit & Sales Practices", "Account Lifecycle & Operations"], "values": [58, 52, 50, 44, 37, 27, 22, 16]}, "midlevel": {"labels": ["Application & decision turnaround", "Decision & term transparency", "Fee & rate transparency", "Portal usability & performance", "Staff helpfulness & advisory quality", "Support response & accessibility", "Pricing competitiveness", "Product suitability & flexibility", "Integrations & access control", "Payout & disbursement", "Advisor continuity & case handover", "Credit assessment & limit decisions", "Self-service & digital resolution", "Repayment flexibility & hardship", "Account closure & exit", "Billing & account accuracy", "Documentation & records access", "Late payment & collections", "Sales practices", "Account administrative changes", "Cross-channel information alignment"], "values": [33, 27, 24, 23, 22, 22, 20, 19, 18, 15, 14, 12, 11, 9, 8, 8, 8, 6, 3, 2, 2]}, "specific": {"labels": ["Rate vs fee trade-off vs competitors", "Loan limits, binding periods, and seasonal adaptation", "Support reply speed across channels", "Assessment rationale and marketing-claim accuracy", "Portal speed and reliability", "Application processing speed", "Advisor solution-orientation", "Invoice-to-payout turnaround", "Status updates and term transparency", "Chatbot and portal self-service capability", "Staff tone and reply consistency", "Unexplained or undisclosed fees", "Repayment plan adaptation and deferrals", "Approval and rejection turnaround time", "Closure friction and post-closure billing", "Credit limit transparency and eligibility criteria", "Invoice addressing and balance display", "Quoted vs effective rate consistency", "Accounting software connectivity", "Document requirements and burden", "Mobile app availability and scope", "Account statement and data export availability", "Advisor proactive contact and follow-through", "Reminder fees and payment-plan availability", "Advisor availability and case handover", "Login friction and access issues", "Phone queue wait and reachability", "Portal feature completeness", "Processing time vs promised timeline", "Staff turnover impact on commitments", "Unannounced credit line and fee adjustments", "User permission and role-based access", "Disbursement reliability", "Fee complexity and invoice accuracy", "Rate-change notice on existing facilities", "Unsolicited product selling", "Account administrative change processing", "Document request appropriateness", "Website vs advisor discrepancies"], "values": [20, 19, 18, 15, 15, 14, 12, 12, 12, 11, 10, 10, 9, 8, 8, 8, 8, 8, 7, 7, 7, 6, 6, 6, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 2, 2, 2]}}};
+
+function hBarChart(canvasId, labels, values, color) {
+  const short = labels.map((l) => (l.length > 42 ? l.slice(0, 40) + '…' : l));
+  new Chart(document.getElementById(canvasId), {
+    type: 'bar',
+    data: {
+      labels: short,
+      datasets: [{
+        label: 'Rows',
+        data: values,
+        backgroundColor: color,
+        borderRadius: 3,
+        barPercentage: 0.85,
+        categoryPercentage: 0.9
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      devicePixelRatio: Math.max(window.devicePixelRatio || 1, 2),
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: (items) => labels[items[0].dataIndex],
+            label: (ctx) => ctx.parsed.x + ' rows'
+          }
+        }
+      },
+      scales: {
+        x: {
+          beginAtZero: true,
+          ticks: { color: textColor, font: { size: 11 }, precision: 0 },
+          grid: { color: gridColor },
+          border: { color: gridColor },
+          title: { display: true, text: 'Assignment rows', color: textColor, font: { size: 11 } }
+        },
+        y: {
+          ticks: { color: textColor, font: { size: 10 }, autoSkip: false },
+          grid: { display: false },
+          border: { color: gridColor }
+        }
+      }
+    }
+  });
+}
+
+hBarChart('strategicDetailKimi', themeDetail.kimi.strategic.labels, themeDetail.kimi.strategic.values, '#1D9E75');
+hBarChart('strategicDetailGlm', themeDetail.glm.strategic.labels, themeDetail.glm.strategic.values, '#378ADD');
+hBarChart('midlevelDetailKimi', themeDetail.kimi.midlevel.labels, themeDetail.kimi.midlevel.values, '#1D9E75');
+hBarChart('midlevelDetailGlm', themeDetail.glm.midlevel.labels, themeDetail.glm.midlevel.values, '#378ADD');
+hBarChart('specificDetailKimi', themeDetail.kimi.specific.labels, themeDetail.kimi.specific.values, '#1D9E75');
+hBarChart('specificDetailGlm', themeDetail.glm.specific.labels, themeDetail.glm.specific.values, '#378ADD');
+
 </script>
 </body>
 </html>
